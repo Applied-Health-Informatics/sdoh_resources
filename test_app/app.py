@@ -70,7 +70,10 @@ def index():
 
         results = collection.find(query)
         
-        return render_template('index.html', results=results)     
+        return render_template('index.html', 
+                               results=results, 
+                               zipcode=zip_code, 
+                               distance=distance)     
 
 
     else:

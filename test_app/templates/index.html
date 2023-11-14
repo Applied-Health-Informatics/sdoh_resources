@@ -8,12 +8,8 @@
   </head>
 
   <body class="bg-gray-100 p-5">
-
-    <!-- create a title called Long Island Community Resources that is centered and is a text-3xl font-bold -->
-    <!-- it should also be in a blue font 700 -->
-
     <h1 class="text-3xl font-bold text-center text-blue-700">Long Island Community Resources</h1>
-
+    <p class="text-center text-gray-600">Search for resources by zipcode and distance.</p>
     <form action="/" method="POST" class="bg-white p-4 rounded shadow-md">
       <div class="mb-4">
         <label for="zipcode" class="block text-gray-700 text-sm font-bold mb-2">Zipcode:</label>
@@ -28,7 +24,13 @@
 
     <!-- Display Results -->
     {% if results %}
-      <h2 class="text-xl font-bold mt-5">Results</h2>
+      <h2 class="text-xl font-bold mt-5">Results for {{ zipcode }} within {{ distance }} miles</h2>
+
+      <!-- create a print results button -->
+      <div class="text-left">
+        <button onclick="window.print()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded mt-2">Print Results</button>
+      </div>
+
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mt-4">
         {% for result in results %}
           <div class="bg-gray-100 p-6 rounded-lg shadow-md transition duration-300 ease-in-out hover:bg-gray-200">
