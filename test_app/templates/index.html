@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>Zipcode Search</title>
+    <!-- Include Tailwind CSS CDN -->
+    <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+  </head>
+
+  <body class="bg-gray-100 p-5">
+
+    <!-- create a title called Long Island Community Resources that is centered and is a text-3xl font-bold -->
+    <!-- it should also be in a blue font 700 -->
+
+    <h1 class="text-3xl font-bold text-center text-blue-700">Long Island Community Resources</h1>
+
+    <form action="/" method="POST" class="bg-white p-4 rounded shadow-md">
+      <div class="mb-4">
+        <label for="zipcode" class="block text-gray-700 text-sm font-bold mb-2">Zipcode:</label>
+        <input type="text" id="zipcode" name="zipcode" pattern="[0-9]{5}" required class="shadow border rounded py-2 px-3 text-gray-700">
+      </div>
+      <div class="mb-4">
+        <label for="distance" class="block text-gray-700 text-sm font-bold mb-2">Distance (miles):</label>
+        <input type="number" id="distance" name="distance" min="1" max="99" required class="shadow border rounded py-2 px-3 text-gray-700">
+      </div>
+      <input type="submit" value="Search" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+    </form>
+
+    <!-- Display Results -->
+    {% if results %}
+      <h2 class="text-xl font-bold mt-5">Results</h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mt-4">
+        {% for result in results %}
+          <div class="bg-gray-100 p-6 rounded-lg shadow-md transition duration-300 ease-in-out hover:bg-gray-200">
+            <h3 class="text-lg font-semibold text-gray-800">{{ result.organization }}</h3>
+            <h5 class="text-sm font-semibold text-gray-600">{{ result.filter_tags }}</h5>
+            <p class="text-gray-600">{{ result.address }}, {{ result.town }}, {{ result.zip_code }}</p>
+            <p class="text-gray-600"><strong>Phone:</strong> {{ result.phone_number }}</p>
+            <p class="text-gray-600"><strong>Hours:</strong> {{ result.hours_of_operation }}</p>
+            {% if result.website %}
+              <p><a href="{{ result.website }}" class="text-blue-500 hover:text-blue-600" target="_blank">Website</a></p>
+            {% endif %}
+          </div>
+        {% endfor %}
+      </div>
+    {% endif %}
+
+  </body>
+</html>
