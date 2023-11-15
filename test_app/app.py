@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request
 from mongoConnect import mongodbconnection
 from dotenv import load_dotenv
+import json
 import requests
 import urllib.parse
 import os
@@ -26,10 +27,10 @@ def index():
         distance = request.form['distance']
 
         # ensure distance is an integer
-        distance = int(distance)
+        distance_miles = int(distance)
 
         # convert distance (miles) to meters
-        distance_meters = distance * 1609.34
+        distance_meters = distance_miles * 1609.34
 
         # convert location to url friendly string
         location = urllib.parse.quote(zip_code)
@@ -69,11 +70,36 @@ def index():
         } 
 
         results = collection.find(query)
+
+        ## convert results to list
+        results_list = list(results)
+
+        ## convert results to json
+        results_json = json.dumps(results_list, default=str)
+
+        print("JSON RESULTS: ", results_json)
+
+        ## get a count of unique categories
+        categories = []
+        for result in results_list:
+            categories.append(result['filter_tags'])
         
+        ## get unique categories
+        unique_categories = set(categories)
+        print(unique_categories)
+
+        ## get unique categories with counts
+        unique_categories_with_counts = {}
+        for category in unique_categories:
+            unique_categories_with_counts[category] = categories.count(category)
+        print(unique_categories_with_counts)
+
         return render_template('index.html', 
-                               results=results, 
+                               results=results_list, 
+                               category_counts=unique_categories_with_counts,
+                               results_json=results_json,
                                zipcode=zip_code, 
-                               distance=distance)     
+                               distance=distance_miles)     
 
 
     else:
