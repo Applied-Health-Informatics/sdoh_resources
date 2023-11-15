@@ -24,7 +24,7 @@ for column in raw_df.columns:
     raw_df[column] = raw_df[column].str.replace('[^a-zA-Z0-9 \'-]', '', regex=True)
 
     # Optional: Escape apostrophes for HTML/JavaScript compatibility
-    raw_df[column] = raw_df[column].str.replace('\'', '&#39;')
+    raw_df[column] = raw_df[column].str.replace('\'', '')
 
     # Replace 's with an empty string
     raw_df[column] = raw_df[column].str.replace('\'s', '')
