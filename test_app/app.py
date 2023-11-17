@@ -13,9 +13,14 @@ load_dotenv()
 client = mongodbconnection()
 collection = client["sdoh_resources"]
 
+## get unique values of filter_tags
+unique_filter_tags = collection.distinct("filter_tags")
+print('Unique Tags: ', unique_filter_tags)
+
 ## get the bounds of a zip code
 search = 'https://maps.googleapis.com/maps/api/geocode/json?address='
 api_key = os.getenv("GOOGLE_MAPS_API")
+
 
 app = Flask(__name__)
 
@@ -25,7 +30,13 @@ def index():
         # get form data
         zip_code = request.form['zipcode']  
         distance = request.form['distance']
+        category_response = request.form['category']
 
+        # if cateogry_response is '' then set to all categories
+        if category_response == '':
+            category_response = unique_filter_tags
+            print('Category Response New: ', category_response)
+            
         # ensure distance is an integer
         distance_miles = int(distance)
 
@@ -57,17 +68,37 @@ def index():
         # Convert to list
         center_coordinates = list(center_coordinates)
       
-        query = {
-            "geometry": {
-                "$near": {
-                    "$geometry": {
-                        "type": "Point",
-                        "coordinates": center_coordinates
-                    },
-                    "$maxDistance": distance_meters
+
+        # query database if category_response is a list
+        if isinstance(category_response, list):
+            query = {
+                "geometry": {
+                    "$near": {
+                        "$geometry": {
+                            "type": "Point",
+                            "coordinates": center_coordinates
+                        },
+                        "$maxDistance": distance_meters
+                    }
+                },
+                "filter_tags": {
+                    "$in": category_response
                 }
             }
-        } 
+        # query database if category_response is a string
+        else:
+            query = {
+                "geometry": {
+                    "$near": {
+                        "$geometry": {
+                            "type": "Point",
+                            "coordinates": center_coordinates
+                        },
+                        "$maxDistance": distance_meters
+                    }
+                },
+                "filter_tags": category_response
+            } 
 
         results = collection.find(query)
 
@@ -95,6 +126,7 @@ def index():
         print(unique_categories_with_counts)
 
         return render_template('index.html', 
+                               unique_filter_tags=unique_filter_tags,
                                results=results_list, 
                                category_counts=unique_categories_with_counts,
                                results_json=results_json,
@@ -103,7 +135,10 @@ def index():
 
 
     else:
-        return render_template('index.html')
+        return render_template(
+            'index.html',
+            unique_filter_tags=unique_filter_tags
+            )
 
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0', port=5001)
