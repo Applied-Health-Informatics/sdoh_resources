@@ -27,7 +27,7 @@
           <label for="category" class="block text-gray-700 text-sm font-bold mb-2">Category:</label>
           <select id="category" name="category" class="mb-4 shadow border rounded py-2 px-3 text-gray-700">
 
-            <option value="all"> Select all </option>
+            <option value="all"> All selected </option>
 
             {% for category in unique_filter_tags %}
               <option value="{{ category }}">{{ category }}</option>
@@ -55,7 +55,7 @@
           {% if distance %}
             <input type="number" value="{{ distance }}" id="distance" name="distance" min="1" max="99" required class="shadow border rounded py-2 px-3 text-gray-700">
           {% else %}
-            <input type="number" value="10" id="distance" name="distance" min="1" max="99" required class="shadow border rounded py-2 px-3 text-gray-700">
+            <input type="number" value="99" id="distance" name="distance" min="1" max="99" required class="shadow border rounded py-2 px-3 text-gray-700">
           {% endif %}
                 
         </div>
