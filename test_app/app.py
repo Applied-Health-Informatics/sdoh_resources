@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, url_for
 from mongoConnect import mongodbconnection
 from dotenv import load_dotenv
 import json
@@ -26,6 +26,7 @@ app = Flask(__name__)
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
+
     if request.method == 'POST':
         # get form data
         zip_code = request.form['zipcode']  
@@ -33,7 +34,7 @@ def index():
         category_response = request.form['category']
 
         # if cateogry_response is '' then set to all categories
-        if category_response == '':
+        if category_response == 'all':
             category_response = unique_filter_tags
             print('Category Response New: ', category_response)
             
@@ -129,6 +130,7 @@ def index():
                                unique_filter_tags=unique_filter_tags,
                                results=results_list, 
                                category_counts=unique_categories_with_counts,
+                               category_response=category_response,
                                results_json=results_json,
                                zipcode=zip_code, 
                                distance=distance_miles)     
@@ -137,7 +139,7 @@ def index():
     else:
         return render_template(
             'index.html',
-            unique_filter_tags=unique_filter_tags
+            unique_filter_tags=unique_filter_tags,
             )
 
 if __name__ == '__main__':

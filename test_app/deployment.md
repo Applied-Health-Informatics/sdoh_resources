@@ -2,8 +2,12 @@
 
 ## Utilization Cloud Run
 - Prequests:
-    - Need to push image to a registry, like docker hub or gcr.io
+    - Need to push image to a registry, like docker hub 
+        - e.g., `docker build -t sdoh .`
+        - e.g., `docker tag sdoh hants/sdoh-demo`
+        - e.g., `docker push hants/sdoh-demo`
     - In the current iteration, have pushed image to docker hub (docker.io/hants/sdoh-demo)
+
 - Steps:
     - Create a new service in Cloud Run
     - Select the image from the registry

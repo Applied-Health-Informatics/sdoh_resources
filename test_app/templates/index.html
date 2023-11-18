@@ -7,15 +7,18 @@
     <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
-    
   </head>
 
-  <body class="bg-gray-100 p-5">
-    <div class="mb-5">
-      <h1 class="text-3xl font-bold text-center text-blue-700">Long Island Community Resources</h1>
-      <p class="text-center text-gray-600">Search for resources by zipcode and distance.</p>
-    </div>
-    <form action="/" method="POST" class="bg-white p-4 rounded shadow-md">
+  <body class="bg-gray-100 px-6 py-12">
+
+    <form action="/" method="POST" class="p-4 rounded shadow-md">
+
+
+      <div class="mb-5">
+        <img src="{{url_for('static', filename='sbu_logo.png')}}" alt="Long Island Cares Logo" class="mx-auto h-12 w-auto">
+        <h1 class="text-4xl font-bold tracking-tight text-center text-red-700">Long Island Community Resources</h1>
+        <p class="text-center leading-8 text-gray-600">Search for resources by zipcode and distance.</p>
+      </div>
 
       <!-- create a new div container which has 3 columns, and is mobile friendly -->
       <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
@@ -23,44 +26,42 @@
         <div class="mb-4">
           <label for="category" class="block text-gray-700 text-sm font-bold mb-2">Category:</label>
           <select id="category" name="category" class="mb-4 shadow border rounded py-2 px-3 text-gray-700">
-            <option value=""> </option>
+
+            <option value="all"> Select all </option>
+
             {% for category in unique_filter_tags %}
               <option value="{{ category }}">{{ category }}</option>
             {% endfor %}
+
           </select>
         </div>
 
         <div class="mb-4">
           <label for="zipcode" class="block text-gray-700 text-sm font-bold mb-2">Zipcode:</label>
-          <input type="text" value="11733" id="zipcode" name="zipcode" pattern="[0-9]{5}" required class="shadow border rounded py-2 px-3 text-gray-700">
+
+          <!-- if zipcode is not null, provide zipcode as value, if it is blank, prpovide 11733 -->
+          {% if zipcode %}
+            <input type="text" value="{{ zipcode }}" id="zipcode" name="zipcode" pattern="[0-9]{5}" required class="shadow border rounded py-2 px-3 text-gray-700">
+          {% else %}
+            <input type="text" value="11733" id="zipcode" name="zipcode" pattern="[0-9]{5}" required class="shadow border rounded py-2 px-3 text-gray-700">
+          {% endif %}
+        
         </div>
         
         <div class="mb-4">
           <label for="distance" class="block text-gray-700 text-sm font-bold mb-2">Distance (miles):</label>
-          <input type="number" value="10" id="distance" name="distance" min="1" max="99" required class="shadow border rounded py-2 px-3 text-gray-700">
+        
+          <!-- if distance is not null, provide distance as value, if it is blank, provider 10 -->
+          {% if distance %}
+            <input type="number" value="{{ distance }}" id="distance" name="distance" min="1" max="99" required class="shadow border rounded py-2 px-3 text-gray-700">
+          {% else %}
+            <input type="number" value="10" id="distance" name="distance" min="1" max="99" required class="shadow border rounded py-2 px-3 text-gray-700">
+          {% endif %}
+                
         </div>
       </div>
-      
-      <!-- <div class="mb-4">
-        <label for="category" class="block text-gray-700 text-sm font-bold mb-2">Category:</label>
-        <select id="category" name="category" class="mb-4 shadow border rounded py-2 px-3 text-gray-700">
-          <option value="">All</option>
-          {% for category in unique_filter_tags %}
-            <option value="{{ category }}">{{ category }}</option>
-          {% endfor %}
-        </select>
-
-      <div class="mb-4">
-        <label for="zipcode" class="block text-gray-700 text-sm font-bold mb-2">Zipcode:</label>
-        <input type="text" value="11733" id="zipcode" name="zipcode" pattern="[0-9]{5}" required class="shadow border rounded py-2 px-3 text-gray-700">
-      </div>
-      
-      <div class="mb-4">
-        <label for="distance" class="block text-gray-700 text-sm font-bold mb-2">Distance (miles):</label>
-        <input type="number" value="10" id="distance" name="distance" min="1" max="99" required class="shadow border rounded py-2 px-3 text-gray-700">
-      </div> -->
-      
-      <input type="submit" value="Search" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+            
+      <input type="submit" value="Search" class="bg-red-700 hover:bg-red-500 text-white font-bold py-2 px-4 rounded">
     </form>
 
     <!-- Display Results -->
@@ -84,7 +85,7 @@
 
       <!-- create a print results button -->
       <div class="text-left">
-        <button onclick="window.print()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded mt-2">Print Results</button>
+        <button onclick="window.print()" class="bg-red-700 hover:bg-red-500 text-white font-bold py-2 px-4 rounded mt-2">Print Results</button>
       </div>
 
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mt-4">
@@ -135,7 +136,7 @@
             var marker = L.marker([lat, lng]).addTo(map);
     
             // Create a popup
-            var popup = L.popup().setContent("<b>" + result.organization + "</b><br>" + result.address);
+            var popup = L.popup().setContent("<b>" + result.organization + "</b><br>" + result.filter_tags + "</b><br>" + result.address);
     
             // Bind the popup to open on mouseover
             marker.on('mouseover', function() {
