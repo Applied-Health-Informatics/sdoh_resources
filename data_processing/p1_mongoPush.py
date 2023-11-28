@@ -39,6 +39,12 @@ clean_df['geometry'] = clean_df['geometry'].apply(convert_to_geojson)
 clean_df.columns
 clean_df.zip_code
 
+## delete all documents in the collection
+collection.delete_many({})
+
+## confirm that the collection is empty
+collection.count_documents({})
+
 ## insert the df into the collection
 collection.insert_many(clean_df.to_dict("records"))
 
