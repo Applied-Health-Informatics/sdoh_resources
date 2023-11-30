@@ -69,58 +69,109 @@ def index():
         # Convert to list
         center_coordinates = list(center_coordinates)
       
-
-        # query database if category_response is a list
-        if isinstance(category_response, list):
-            query = {
-                "geometry": {
-                    "$near": {
-                        "$geometry": {
-                            "type": "Point",
-                            "coordinates": center_coordinates
-                        },
-                        "$maxDistance": distance_meters
-                    }
-                },
-                "filter_tags": {
-                    "$in": category_response
+        # Function to create a geo query
+        def create_geo_query(category_response):
+            if isinstance(category_response, list):
+                return {
+                    "geometry": {
+                        "$near": {
+                            "$geometry": {
+                                "type": "Point",
+                                "coordinates": center_coordinates
+                            },
+                            "$maxDistance": distance_meters
+                        }
+                    },
+                    "filter_tags": {"$in": category_response}
                 }
-            }
+            else:
+                return {
+                    "geometry": {
+                        "$near": {
+                            "$geometry": {
+                                "type": "Point",
+                                "coordinates": center_coordinates
+                            },
+                            "$maxDistance": distance_meters
+                        }
+                    },
+                    "filter_tags": category_response
+                }
 
-        # query database if category_response is a string
-        else:
-            query = {
-                "geometry": {
-                    "$near": {
-                        "$geometry": {
-                            "type": "Point",
-                            "coordinates": center_coordinates
-                        },
-                        "$maxDistance": distance_meters
-                    }
-                },
-                "filter_tags": category_response
-            } 
+        # Function to create a query for null geometry
+        def create_null_geo_query(category_response):
+            if isinstance(category_response, list):
+                return {
+                    "geometry": None,
+                    "filter_tags": {"$in": category_response}
+                }
+            else:
+                return {
+                    "geometry": None,
+                    "filter_tags": category_response
+                }
 
-        results = collection.find(query)
+        # Perform the queries
+        geo_query = create_geo_query(category_response)
+        null_geo_query = create_null_geo_query(category_response)
 
-        ## convert results to list
-        results_list = list(results)
+        geo_results = list(collection.find(geo_query))
+        null_geo_results = list(collection.find(null_geo_query))
+
+        # Combine the results
+        results_list = geo_results + null_geo_results
+
+        # # query database if category_response is a list
+        # if isinstance(category_response, list):
+        #     query = {
+        #         "geometry": {
+        #             "$near": {
+        #                 "$geometry": {
+        #                     "type": "Point",
+        #                     "coordinates": center_coordinates
+        #                 },
+        #                 "$maxDistance": distance_meters
+        #             }
+        #         },
+        #         "filter_tags": {
+        #             "$in": category_response
+        #         }
+        #     }
+
+        # # query database if category_response is a string
+        # else:
+        #     query = {
+        #         "geometry": {
+        #             "$near": {
+        #                 "$geometry": {
+        #                     "type": "Point",
+        #                     "coordinates": center_coordinates
+        #                 },
+        #                 "$maxDistance": distance_meters
+        #             }
+        #         },
+        #         "filter_tags": category_response
+        #     } 
+
+        # results = collection.find(query)
+
+        # ## convert results to list
+        # results_list = list(results)
 
         ## convert results to json
         results_json = json.dumps(results_list, default=str)
 
         print("JSON RESULTS: ", results_json)
 
-        # ## if results dictionary is null, do a query only by filter_tags
-        if len(results_list) == 0:
-            print('No results found. Performing query only by filter_tags.')
-            query = {
-                "filter_tags": category_response
-            }
-            results = collection.find(query)
-            results_list = list(results)
-            results_json = json.dumps(results_list, default=str)
+        # # ## if results dictionary is null, do a query only by filter_tags
+        # if len(results_list) == 0:
+        #     print('No results found. Performing query only by filter_tags.')
+        #     query = {
+        #         "filter_tags": category_response
+        #     }
+        #     results = collection.find(query)
+        #     results_list = list(results)
+        #     results_json = json.dumps(results_list, default=str)
 
         ## get a count of unique categories
         categories = []

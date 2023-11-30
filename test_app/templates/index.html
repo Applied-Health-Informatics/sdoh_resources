@@ -117,9 +117,20 @@
       // Check if results_json exists and is not empty
       var results_json = '{{ results_json | safe }}';
       console.log('Results JSON initial: ', results_json)
+
       if (results_json && results_json !== '[]') {
-        var results = JSON.parse(results_json);
-    
+        var results;
+        
+        try {
+          results = JSON.parse(results_json);
+        } catch (e) {
+          console.error('Error parsing JSON:', e);
+          // Handle error, perhaps hide the map or show a message
+          document.getElementById('map').style.display = 'none';
+          // Exit from the script
+          throw new Error('Stopping script execution due to JSON parsing error.');
+        }
+      
         // Initialize the map
         var map = L.map('map').setView([40.789142, -73.134960], 9);
     
@@ -133,23 +144,30 @@
           if (result.geometry && result.geometry.coordinates) {
             var lat = result.geometry.coordinates[1];
             var lng = result.geometry.coordinates[0];
-            var marker = L.marker([lat, lng]).addTo(map);
+
+            console.log('Lat: ', lat)
+            console.log('Lng: ', lng)
     
-            // Create a popup
-            var popup = L.popup().setContent("<b>" + result.organization + "</b><br>" + result.filter_tags + "</b><br>" + result.address);
+            // Check if latitude and longitude are valid numbers
+            if (!isNaN(lat) && !isNaN(lng)) {
+              var marker = L.marker([lat, lng]).addTo(map);
     
-            // Bind the popup to open on mouseover
-            marker.on('mouseover', function() {
-              marker.openPopup();
-            });
+              // Create a popup
+              var popup = L.popup().setContent("<b>" + result.organization + "</b><br>" + result.filter_tags + "</b><br>" + result.address);
     
-            // Bind the popup to close on mouseout
-            marker.on('mouseout', function() {
-              marker.closePopup();
-            });
+              // Bind the popup to open on mouseover
+              marker.on('mouseover', function() {
+                marker.openPopup();
+              });
     
-            // Optionally, bind the popup to open on click as well
-            marker.bindPopup(popup);
+              // Bind the popup to close on mouseout
+              marker.on('mouseout', function() {
+                marker.closePopup();
+              });
+    
+              // Optionally, bind the popup to open on click as well
+              marker.bindPopup(popup);
+            }
           }
         });
       } else {
@@ -157,6 +175,7 @@
         document.getElementById('map').style.display = 'none';
       }
     </script>
+    
     
 
 

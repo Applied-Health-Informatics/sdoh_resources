@@ -1,7 +1,7 @@
 
 import os 
 from dotenv import load_dotenv
-
+import math
 import pandas as pd 
 import geopandas as gpd
 import shapely
@@ -46,8 +46,30 @@ if clean_df['geometry'].isnull().sum() > 0:
 
 # clean_df['geometry'] = clean_df['geometry'].apply(convert_to_geojson)
 
+# # if value is NaN for lat and long, then set to None
+# clean_df['lat'] = clean_df['lat'].apply(lambda x: None if pd.isnull(x) else x)
+# clean_df['long'] = clean_df['long'].apply(lambda x: None if pd.isnull(x) else x)
+
 clean_df.columns
 clean_df.zip_code
+clean_df.lat
+clean_df.long
+clean_df.geometry
+
+## convert the dataframe to dictionary
+clean_df_missing = clean_df.to_dict("records")
+
+# Function to check if a value is NaN
+def is_nan(value):
+    return isinstance(value, float) and math.isnan(value)
+
+# Convert None and NaN to the string 'nan'
+# Convert None and NaN to the string 'nan', excluding 'geometry' key
+for item in clean_df_missing:
+    for key, value in item.items():
+        if key != 'geometry':  # Exclude 'geometry' key from the process
+            if value is None or is_nan(value):
+                item[key] = 'nan'
 
 ## delete all documents in the collection
 collection.delete_many({})
@@ -56,7 +78,7 @@ collection.delete_many({})
 collection.count_documents({})
 
 ## insert the df into the collection
-collection.insert_many(clean_df.to_dict("records"))
+collection.insert_many(clean_df_missing)
 
 ## create a geospatial index that is 2dsphere and based on the geometry column
 collection.create_index([("geometry", "2dsphere")])
