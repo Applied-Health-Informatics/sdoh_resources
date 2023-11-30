@@ -1,7 +1,9 @@
 import pandas as pd 
 import geopandas as gpd
 
-raw_df = pd.read_excel('data/raw/Clean Community Partners Info.xlsx')
+# raw_df = pd.read_excel('data/raw/Clean Community Partners Info.xlsx')
+# raw_df = pd.read_excel('data/raw/Clean Community Partners Info with delivery methods.xlsx')
+raw_df = pd.read_excel('data/raw/Clean Community Partners Info FINAL.xlsx')
 
 ## quick cleaning 
 raw_df.columns

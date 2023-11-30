@@ -25,16 +25,26 @@ collection = client["sdoh_resources"]
 clean_df = gpd.read_file('data/clean/cleaned_community_partners.geojson')
 len(clean_df)
 
+## get a count of rows with missing or null geometry
+clean_df.isnull().sum()
+
+clean_df.delivery_method.value_counts()
+
 ## drop rows with missing or null geometry
-clean_df = clean_df.dropna(subset=['geometry'])
-len(clean_df)
+# clean_df = clean_df.dropna(subset=['geometry'])
+# len(clean_df)
 
 # Convert the 'geometry' column to a GeoJSON format
 def convert_to_geojson(point):
     return json.loads(json_util.dumps(shapely.geometry.mapping(point)))
 
-## convert the geometry column to a geojson format
-clean_df['geometry'] = clean_df['geometry'].apply(convert_to_geojson)
+## convert geometry geometry column to a geojson format
+## if geometry is not null, convert to geojson, else return None
+
+if clean_df['geometry'].isnull().sum() > 0:
+    clean_df['geometry'] = clean_df['geometry'].apply(lambda x: convert_to_geojson(x) if x is not None else None)
+
+# clean_df['geometry'] = clean_df['geometry'].apply(convert_to_geojson)
 
 clean_df.columns
 clean_df.zip_code

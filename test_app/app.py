@@ -86,6 +86,7 @@ def index():
                     "$in": category_response
                 }
             }
+
         # query database if category_response is a string
         else:
             query = {
@@ -110,6 +111,16 @@ def index():
         results_json = json.dumps(results_list, default=str)
 
         print("JSON RESULTS: ", results_json)
+
+        # ## if results dictionary is null, do a query only by filter_tags
+        if len(results_list) == 0:
+            print('No results found. Performing query only by filter_tags.')
+            query = {
+                "filter_tags": category_response
+            }
+            results = collection.find(query)
+            results_list = list(results)
+            results_json = json.dumps(results_list, default=str)
 
         ## get a count of unique categories
         categories = []
