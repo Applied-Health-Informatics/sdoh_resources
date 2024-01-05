@@ -18,6 +18,15 @@ atlas_db_name = os.getenv("ATLAS_DB_NAME")
 ### Testing connection to Atlas
 client = mongodbconnection()
 
+## Load in the current collection 
+collection = client["sdoh_resources"]
+collection.count_documents({})
+collection.find_one()
+
+## And then delete it 
+collection.delete_many({})
+collection.count_documents({}) ## confirm that it is empty
+
 ## Create a new database and collection
 collection = client["sdoh_resources"]
 
@@ -70,12 +79,6 @@ for item in clean_df_missing:
         if key != 'geometry':  # Exclude 'geometry' key from the process
             if value is None or is_nan(value):
                 item[key] = 'nan'
-
-## delete all documents in the collection
-collection.delete_many({})
-
-## confirm that the collection is empty
-collection.count_documents({})
 
 ## insert the df into the collection
 collection.insert_many(clean_df_missing)

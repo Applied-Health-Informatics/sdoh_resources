@@ -11,58 +11,70 @@
 
   <body class="bg-gray-100 px-6 py-12">
 
-    <form action="/" method="POST" class="p-4 rounded shadow-md">
+    <form action="/" method="POST" class="p-4 rounded shadow-md bg-white">
 
-
-      <div class="mb-5">
-        <img src="{{url_for('static', filename='sbu_logo.png')}}" alt="Long Island Cares Logo" class="mx-auto h-12 w-auto">
-        <h1 class="text-4xl font-bold tracking-tight text-center text-red-700">Long Island Community Resources</h1>
+      <div class="mb-6">
+        <img src="{{url_for('static', filename='sbm_logo.png')}}" alt="Long Island Cares Logo" class="mx-auto h-12 w-auto mb-3">
+        <h1 class="text-4xl font-bold tracking-tight text-center text-red-700 mb-2">Long Island Community Resources</h1>
         <p class="text-center leading-8 text-gray-600">Search for resources by zipcode and distance.</p>
       </div>
-
-      <!-- create a new div container which has 3 columns, and is mobile friendly -->
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-
-        <div class="mb-4">
+    
+      <!-- Grid layout for form elements -->
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+    
+        <!-- Category Select -->
+        <div>
           <label for="category" class="block text-gray-700 text-sm font-bold mb-2">Category:</label>
-          <select id="category" name="category" class="mb-4 shadow border rounded py-2 px-3 text-gray-700">
-
-            <option value="all"> All selected </option>
-
+          <select id="category" name="category" class="shadow border rounded w-full py-2 px-3 text-gray-700 focus:outline-none focus:ring-2 focus:ring-red-700 focus:border-transparent">
+            <option value="all">All selected</option>
             {% for category in unique_filter_tags %}
               <option value="{{ category }}">{{ category }}</option>
             {% endfor %}
-
           </select>
         </div>
-
-        <div class="mb-4">
+    
+        <!-- Delivery Method Select -->
+        <div>
+          <label for="deliverymethod" class="block text-gray-700 text-sm font-bold mb-2">Delivery Method:</label>
+          <select id="deliverymethod" name="deliverymethod" class="shadow border rounded w-full py-2 px-3 text-gray-700 focus:outline-none focus:ring-2 focus:ring-red-700 focus:border-transparent">
+            <option value="all">All selected</option>
+            {% for deliverymethod in unique_delivery_method %}
+              <option value="{{ deliverymethod }}">{{ deliverymethod }}</option>
+            {% endfor %}
+          </select>
+        </div>
+    
+        <!-- Zipcode Input -->
+        <div>
           <label for="zipcode" class="block text-gray-700 text-sm font-bold mb-2">Zipcode:</label>
-
-          <!-- if zipcode is not null, provide zipcode as value, if it is blank, prpovide 11733 -->
+          <!-- Conditional rendering for zipcode input -->
           {% if zipcode %}
-            <input type="text" value="{{ zipcode }}" id="zipcode" name="zipcode" pattern="[0-9]{5}" required class="shadow border rounded py-2 px-3 text-gray-700">
+            <input type="text" value="{{ zipcode }}" id="zipcode" name="zipcode" pattern="[0-9]{5}" required class="shadow border rounded w-full py-2 px-3 text-gray-700 focus:outline-none focus:ring-2 focus:ring-red-700 focus:border-transparent">
           {% else %}
-            <input type="text" value="11733" id="zipcode" name="zipcode" pattern="[0-9]{5}" required class="shadow border rounded py-2 px-3 text-gray-700">
+            <input type="text" value="11733" id="zipcode" name="zipcode" pattern="[0-9]{5}" required class="shadow border rounded w-full py-2 px-3 text-gray-700 focus:outline-none focus:ring-2 focus:ring-red-700 focus:border-transparent">
           {% endif %}
-        
         </div>
-        
-        <div class="mb-4">
+    
+        <!-- Distance Input -->
+        <div>
           <label for="distance" class="block text-gray-700 text-sm font-bold mb-2">Distance (miles):</label>
-        
-          <!-- if distance is not null, provide distance as value, if it is blank, provider 10 -->
+          <!-- Conditional rendering for distance input -->
           {% if distance %}
-            <input type="number" value="{{ distance }}" id="distance" name="distance" min="1" max="99" required class="shadow border rounded py-2 px-3 text-gray-700">
+            <input type="number" value="{{ distance }}" id="distance" name="distance" min="1" max="99" required class="shadow border rounded w-full py-2 px-3 text-gray-700 focus:outline-none focus:ring-2 focus:ring-red-700 focus:border-transparent">
           {% else %}
-            <input type="number" value="99" id="distance" name="distance" min="1" max="99" required class="shadow border rounded py-2 px-3 text-gray-700">
+            <input type="number" value="99" id="distance" name="distance" min="1" max="99" required class="shadow border rounded w-full py-2 px-3 text-gray-700 focus:outline-none focus:ring-2 focus:ring-red-700 focus:border-transparent">
           {% endif %}
-                
         </div>
+    
       </div>
-            
-      <input type="submit" value="Search" class="bg-red-700 hover:bg-red-500 text-white font-bold py-2 px-4 rounded">
+    
+      <!-- Submit Button -->
+      <div class="mt-6">
+        <input type="submit" value="Search" class="bg-red-700 hover:bg-red-500 text-white font-bold py-2 px-4 rounded w-full focus:outline-none focus:ring-2 focus:ring-red-700 focus:border-transparent">
+      </div>
+    
     </form>
+    
 
     <!-- Display Results -->
     {% if results %}
@@ -92,18 +104,35 @@
         {% for result in results %}
           <div class="bg-gray-100 p-6 rounded-lg shadow-md transition duration-300 ease-in-out hover:bg-gray-200">
             <h3 class="text-lg font-semibold text-gray-800">{{ result.organization }}</h3>
-            <h5 class="text-sm font-semibold text-gray-600">{{ result.filter_tags }}</h5>
+            <h5 class="text-sm font-semibold text-gray-600">Service Tag: {{ result.filter_tags }}</h5> 
+            <h5 class="text-sm font-semibold text-gray-600">Delivery Method: {{ result.delivery_method }}</h5>
             <p class="text-gray-600">{{ result.address }}, {{ result.town }}, {{ result.zip_code }}</p>
             <p class="text-gray-600"><strong>Phone:</strong> {{ result.phone_number }}</p>
             <p class="text-gray-600"><strong>Hours:</strong> {{ result.hours_of_operation }}</p>
-            {% if result.website %}
-              <p><a href="{{ result.website }}" class="text-blue-500 hover:text-blue-600" target="_blank">Website</a></p>
+            {% if result.website and result.website != 'nan' %}
+            <p><a href="{{ result.website }}" class="text-blue-500 hover:text-blue-600" target="_blank">Website</a></p>
+            {% else %}
+              <p>No website available</p>
             {% endif %}
+
+            <!-- create accordian for more info -->
+            <div class="mt-2">
+              <details>
+                <summary class="text-sm font-semibold text-gray-600">Additional Details</summary>
+
+                {% if result.additional_details == 'nan' %}
+                  <p class="text-xs text-gray-600 overflow-x-auto whitespace-pre-wrap">No additional details available</p>
+                {% else %}
+                  <p class="text-xs text-gray-600 overflow-x-auto whitespace-pre-wrap">{{ result.additional_details }}</p>
+                {% endif %}
+
+              </details>
+            </div>
 
             <!-- create a code box with the complete result data -->
             <div>
               <details class="mt-2">
-                <summary class="text-sm font-semibold text-gray-600">View JSON</summary>
+                <summary class="text-sm text-gray-600">JSON</summary>
                 <pre class="text-xs text-gray-600 overflow-x-auto whitespace-pre-wrap">{{ result }}</pre>
               </details>
             </div>
