@@ -3,7 +3,7 @@ import geopandas as gpd
 
 # raw_df = pd.read_excel('data/raw/Clean Community Partners Info.xlsx')
 # raw_df = pd.read_excel('data/raw/Clean Community Partners Info with delivery methods.xlsx')
-raw_df = pd.read_excel('data/raw/Clean Community Partners 2.3.xlsx')
+raw_df = pd.read_excel('data/raw/Clean Community Partners 2.4.xlsx')
 
 ## quick cleaning 
 raw_df.columns
@@ -49,8 +49,6 @@ raw_df['geometry'] = gpd.points_from_xy(raw_df['long'], raw_df['lat'])
 
 ## now lets convert the dataframe to a geodataframe
 raw_df = gpd.GeoDataFrame(raw_df, geometry='geometry')
-
-raw_df['delivery_method'].value_counts()
 
 ## now lets save the dataframe as a geojson
 raw_df.to_file('data/clean/cleaned_community_partners.geojson', driver='GeoJSON')
