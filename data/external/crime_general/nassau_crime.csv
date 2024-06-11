@@ -1,0 +1,823 @@
+county,agency,year,months_reported,total_index_crimes,violent,murder,forcible_rape,robbery,aggravated_assault,property,burglary,larceny,motor_vehicle_theft,region
+Nassau,Brookville Vg PD,2022,12,28,1,0,0,1,0,27,4,16,7,Non-New York City
+Nassau,County Total,2022,,18509,2268,9,107,635,1517,16241,1125,14149,967,Non-New York City
+Nassau,Floral Park Vg PD,2022,12,146,10,0,0,2,8,136,12,117,7,Non-New York City
+Nassau,Freeport Vg PD,2022,12,506,81,0,0,19,62,425,23,361,41,Non-New York City
+Nassau,Garden City Vg PD,2022,12,199,6,0,0,2,4,193,3,174,16,Non-New York City
+Nassau,Glen Cove City PD,2022,12,200,14,0,3,2,9,186,13,164,9,Non-New York City
+Nassau,Great Neck Estates Vg PD,2022,12,32,0,0,0,0,0,32,5,14,13,Non-New York City
+Nassau,Hempstead Vg PD,2022,12,952,308,3,5,85,215,644,85,434,125,Non-New York City
+Nassau,Kensington Vg PD,2022,12,7,0,0,0,0,0,7,0,2,5,Non-New York City
+Nassau,Kings Point Vg PD,2022,12,48,2,0,0,0,2,46,8,24,14,Non-New York City
+Nassau,Lake Success Vg PD,2022,2,6,0,0,0,0,0,6,0,0,6,Non-New York City
+Nassau,Long Beach City PD,2022,12,81,31,0,1,8,22,50,11,32,7,Non-New York City
+Nassau,Lynbrook Vg PD,2022,12,137,16,0,0,3,13,121,16,94,11,Non-New York City
+Nassau,Malverne Vg PD,2022,12,18,0,0,0,0,0,18,1,11,6,Non-New York City
+Nassau,Muttontown Village PD,2022,12,18,1,0,1,0,0,17,5,6,6,Non-New York City
+Nassau,Nassau County MTA,2022,12,65,13,0,1,5,7,52,2,50,0,Non-New York City
+Nassau,Nassau County Park PD,2022,12,20,3,0,0,2,1,17,1,15,1,Non-New York City
+Nassau,Nassau County PD,2022,12,15610,1740,6,92,489,1153,13870,888,12356,626,Non-New York City
+Nassau,Nassau County State Police,2022,12,33,15,0,2,6,7,18,2,11,5,Non-New York City
+Nassau,Old Brookville Vg PD,2022,12,25,0,0,0,0,0,25,7,6,12,Non-New York City
+Nassau,Old Westbury Vg PD,2022,12,40,2,0,0,1,1,38,13,13,12,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,2022,12,27,0,0,0,0,0,27,5,10,12,Non-New York City
+Nassau,Port Washington Police District,2022,12,144,6,0,0,2,4,138,12,118,8,Non-New York City
+Nassau,Rockville Centre Vg PD,2022,12,146,15,0,0,8,7,131,9,105,17,Non-New York City
+Nassau,Sands Point Vg PD,2022,12,8,1,0,0,0,1,7,0,6,1,Non-New York City
+Nassau,SUNY Police - Old Westbury,2022,12,13,3,0,2,0,1,10,0,10,0,Non-New York City
+Nassau,County Total,2021,,12538,1915,19,172,445,1279,10623,838,9156,629,Non-New York City
+Nassau,Floral Park Vg PD,2021,12,68,9,1,0,3,5,59,6,51,2,Non-New York City
+Nassau,Garden City Vg PD,2021,12,183,5,1,0,3,1,178,12,161,5,Non-New York City
+Nassau,Glen Cove City PD,2021,12,102,8,0,1,5,2,94,9,80,5,Non-New York City
+Nassau,Great Neck Estates Vg PD,2021,12,9,0,0,0,0,0,9,0,4,5,Non-New York City
+Nassau,Hempstead Vg PD,2021,12,799,268,5,6,68,189,531,73,346,112,Non-New York City
+Nassau,Kensington Vg PD,2021,12,2,0,0,0,0,0,2,0,0,2,Non-New York City
+Nassau,Kings Point Vg PD,2021,12,15,1,0,0,0,1,14,0,4,10,Non-New York City
+Nassau,Lake Success Vg PD,2021,12,22,1,0,0,0,1,21,7,9,5,Non-New York City
+Nassau,Long Beach City PD,2021,12,67,19,0,4,1,14,48,3,42,3,Non-New York City
+Nassau,Lynbrook Vg PD,2021,12,116,15,0,0,3,12,101,21,74,6,Non-New York City
+Nassau,Malverne Vg PD,2021,12,8,1,0,0,0,1,7,0,7,0,Non-New York City
+Nassau,Nassau County MTA,2021,12,32,6,0,0,3,3,26,3,23,0,Non-New York City
+Nassau,Nassau County Park PD,2021,12,20,3,0,1,0,2,17,1,15,1,Non-New York City
+Nassau,Nassau County PD,2021,12,10788,1546,12,156,351,1027,9242,668,8132,442,Non-New York City
+Nassau,Nassau County State Police,2021,12,32,14,0,3,2,9,18,1,12,5,Non-New York City
+Nassau,Old Brookville Vg PD,2021,12,5,0,0,0,0,0,5,1,4,0,Non-New York City
+Nassau,Old Westbury Vg PD,2021,12,34,0,0,0,0,0,34,5,26,3,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,2021,12,23,1,0,0,1,0,22,2,16,4,Non-New York City
+Nassau,Port Washington Police District,2021,12,107,6,0,0,0,6,101,7,89,5,Non-New York City
+Nassau,Rockville Centre Vg PD,2021,12,100,11,0,0,5,6,89,18,58,13,Non-New York City
+Nassau,Sands Point Vg PD,2021,12,2,0,0,0,0,0,2,0,1,1,Non-New York City
+Nassau,SUNY Police - Old Westbury,2021,12,4,1,0,1,0,0,3,1,2,0,Non-New York City
+Nassau,Centre Island Vg PD,2020,12,1,0,0,0,0,0,1,1,0,0,Non-New York City
+Nassau,County Total,2020,,12244,1826,23,54,523,1226,10418,975,8741,702,Non-New York City
+Nassau,Floral Park Vg PD,2020,12,71,10,0,0,3,7,61,9,41,11,Non-New York City
+Nassau,Freeport Vg PD,2020,11,336,73,1,1,33,38,263,18,223,22,Non-New York City
+Nassau,Garden City Vg PD,2020,12,248,5,0,0,0,5,243,8,221,14,Non-New York City
+Nassau,Glen Cove City PD,2020,12,110,3,0,0,1,2,107,13,89,5,Non-New York City
+Nassau,Great Neck Estates Vg PD,2020,12,9,1,0,0,0,1,8,3,2,3,Non-New York City
+Nassau,Hempstead Vg PD,2020,12,925,357,8,3,105,241,568,105,357,106,Non-New York City
+Nassau,Kings Point Vg PD,2020,12,12,0,0,0,0,0,12,0,3,9,Non-New York City
+Nassau,Lake Success Vg PD,2020,12,14,0,0,0,0,0,14,5,5,4,Non-New York City
+Nassau,Long Beach City PD,2020,12,61,13,0,0,6,7,48,4,41,3,Non-New York City
+Nassau,Lynbrook Vg PD,2020,12,132,15,0,0,5,10,117,10,96,11,Non-New York City
+Nassau,Malverne Vg PD,2020,12,16,0,0,0,0,0,16,2,13,1,Non-New York City
+Nassau,Nassau County MTA,2020,12,32,7,0,0,4,3,25,1,23,1,Non-New York City
+Nassau,Nassau County Park PD,2020,12,31,2,0,1,0,1,29,0,29,0,Non-New York City
+Nassau,Nassau County PD,2020,12,9876,1304,14,45,358,887,8572,752,7365,455,Non-New York City
+Nassau,Nassau County State Police,2020,12,19,9,0,1,2,6,10,0,6,4,Non-New York City
+Nassau,Old Brookville Vg PD,2020,12,48,1,0,0,0,1,47,6,23,18,Non-New York City
+Nassau,Old Westbury Vg PD,2020,12,21,1,0,0,0,1,20,3,11,6,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,2020,12,17,0,0,0,0,0,17,3,9,5,Non-New York City
+Nassau,Port Washington Police District,2020,12,123,8,0,1,2,5,115,11,102,2,Non-New York City
+Nassau,Rockville Centre Vg PD,2020,12,120,14,0,0,3,11,106,18,72,16,Non-New York City
+Nassau,Sands Point Vg PD,2020,12,13,1,0,1,0,0,12,2,4,6,Non-New York City
+Nassau,SUNY Police - Old Westbury,2020,12,9,2,0,1,1,0,7,1,6,0,Non-New York City
+Nassau,Centre Island Vg PD,2019,12,1,0,0,0,0,0,1,1,0,0,Non-New York City
+Nassau,County Total,2019,,13387,1644,16,57,490,1081,11743,870,10234,639,Non-New York City
+Nassau,Floral Park Vg PD,2019,12,34,8,0,0,4,4,26,2,22,2,Non-New York City
+Nassau,Freeport Vg PD,2019,12,500,72,0,1,23,48,428,45,361,22,Non-New York City
+Nassau,Garden City Vg PD,2019,12,276,9,0,0,3,6,267,25,234,8,Non-New York City
+Nassau,Glen Cove City PD,2019,12,89,5,0,0,4,1,84,5,77,2,Non-New York City
+Nassau,Great Neck Estates Vg PD,2019,12,12,0,0,0,0,0,12,8,1,3,Non-New York City
+Nassau,Hempstead Vg PD,2019,12,876,297,7,11,101,178,579,120,348,111,Non-New York City
+Nassau,Kensington Vg PD,2019,12,5,0,0,0,0,0,5,0,3,2,Non-New York City
+Nassau,Kings Point Vg PD,2019,12,26,2,0,0,1,1,24,4,2,18,Non-New York City
+Nassau,Lake Success Vg PD,2019,12,16,0,0,0,0,0,16,2,12,2,Non-New York City
+Nassau,Long Beach City PD,2019,12,86,19,0,0,2,17,67,5,54,8,Non-New York City
+Nassau,Lynbrook Vg PD,2019,12,109,14,0,2,2,10,95,8,81,6,Non-New York City
+Nassau,Malverne Vg PD,2019,12,12,2,0,0,0,2,10,3,7,0,Non-New York City
+Nassau,Nassau County MTA,2019,12,39,6,0,0,2,4,33,1,31,1,Non-New York City
+Nassau,Nassau County Park PD,2019,12,23,0,0,0,0,0,23,0,23,0,Non-New York City
+Nassau,Nassau County PD,2019,12,10834,1179,9,40,339,791,9655,583,8677,395,Non-New York City
+Nassau,Nassau County State Police,2019,12,15,8,0,1,2,5,7,0,5,2,Non-New York City
+Nassau,Old Brookville Vg PD,2019,12,46,1,0,0,0,1,45,9,27,9,Non-New York City
+Nassau,Old Westbury Vg PD,2019,12,48,1,0,0,0,1,47,13,20,14,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,2019,12,8,1,0,0,0,1,7,1,4,2,Non-New York City
+Nassau,Port Washington Police District,2019,12,97,6,0,0,2,4,91,6,82,3,Non-New York City
+Nassau,Rockville Centre Vg PD,2019,12,185,10,0,0,3,7,175,19,139,17,Non-New York City
+Nassau,Sands Point Vg PD,2019,12,30,1,0,1,0,0,29,5,12,12,Non-New York City
+Nassau,SUNY Police - Old Westbury,2019,12,20,3,0,1,2,0,17,5,12,0,Non-New York City
+Nassau,Centre Island Vg PD,2018,12,4,2,0,0,1,1,2,0,2,0,Non-New York City
+Nassau,County Total,2018,,13383,1509,15,28,511,955,11874,1017,10190,667,Non-New York City
+Nassau,Floral Park Vg PD,2018,12,54,8,0,1,4,3,46,8,31,7,Non-New York City
+Nassau,Freeport Vg PD,2018,12,492,70,0,2,26,42,422,23,371,28,Non-New York City
+Nassau,Garden City Vg PD,2018,12,368,10,0,0,3,7,358,26,321,11,Non-New York City
+Nassau,Glen Cove City PD,2018,12,115,4,0,0,4,0,111,7,102,2,Non-New York City
+Nassau,Hempstead Vg PD,2018,12,911,322,4,9,114,195,589,106,369,114,Non-New York City
+Nassau,Kings Point Vg PD,2018,12,11,0,0,0,0,0,11,2,8,1,Non-New York City
+Nassau,Lake Success Vg PD,2018,12,24,1,0,0,1,0,23,5,16,2,Non-New York City
+Nassau,Long Beach City PD,2018,12,109,29,0,0,6,23,80,5,71,4,Non-New York City
+Nassau,Lynbrook Vg PD,2018,12,122,15,0,0,2,13,107,9,85,13,Non-New York City
+Nassau,Malverne Vg PD,2018,12,19,2,0,0,1,1,17,2,13,2,Non-New York City
+Nassau,Nassau County MTA,2018,12,43,2,0,0,1,1,41,0,41,0,Non-New York City
+Nassau,Nassau County Park PD,2018,12,48,5,0,0,1,4,43,0,42,1,Non-New York City
+Nassau,Nassau County PD,2018,12,10650,1000,11,13,337,639,9650,786,8406,458,Non-New York City
+Nassau,Nassau County State Police,2018,12,16,8,0,1,0,7,8,0,7,1,Non-New York City
+Nassau,Old Brookville Vg PD,2018,12,33,0,0,0,0,0,33,7,23,3,Non-New York City
+Nassau,Old Westbury Vg PD,2018,12,36,5,0,0,1,4,31,6,18,7,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,2018,12,3,0,0,0,0,0,3,1,2,0,Non-New York City
+Nassau,Port Washington Police District,2018,12,102,4,0,1,1,2,98,5,89,4,Non-New York City
+Nassau,Rockville Centre Vg PD,2018,12,200,20,0,0,8,12,180,16,156,8,Non-New York City
+Nassau,Sands Point Vg PD,2018,12,10,0,0,0,0,0,10,1,8,1,Non-New York City
+Nassau,SUNY Police - Old Westbury,2018,12,13,2,0,1,0,1,11,2,9,0,Non-New York City
+Nassau,Centre Island Vg PD,2017,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
+Nassau,County Total,2017,,14039,1650,17,41,599,993,12389,1114,10621,654,Non-New York City
+Nassau,Floral Park Vg PD,2017,12,51,9,0,1,7,1,42,7,29,6,Non-New York City
+Nassau,Freeport Vg PD,2017,12,501,94,0,2,33,59,407,33,336,38,Non-New York City
+Nassau,Garden City Vg PD,2017,12,216,2,0,0,2,0,214,14,195,5,Non-New York City
+Nassau,Glen Cove City PD,2017,12,159,8,0,1,2,5,151,12,137,2,Non-New York City
+Nassau,Great Neck Estates Vg PD,2017,12,7,0,0,0,0,0,7,3,4,0,Non-New York City
+Nassau,Hempstead Vg PD,2017,12,925,332,6,6,109,211,593,92,393,108,Non-New York City
+Nassau,Kings Point Vg PD,2017,12,12,2,0,0,1,1,10,1,6,3,Non-New York City
+Nassau,Lake Success Vg PD,2017,12,20,1,0,0,0,1,19,4,12,3,Non-New York City
+Nassau,Long Beach City PD,2017,12,220,21,0,0,9,12,199,11,180,8,Non-New York City
+Nassau,Lynbrook Vg PD,2017,12,120,18,0,1,7,10,102,13,79,10,Non-New York City
+Nassau,Malverne Vg PD,2017,12,23,0,0,0,0,0,23,2,21,0,Non-New York City
+Nassau,Nassau County MTA,2017,12,65,11,0,0,8,3,54,0,54,0,Non-New York City
+Nassau,Nassau County Park PD,2017,12,64,4,0,1,0,3,60,0,59,1,Non-New York City
+Nassau,Nassau County PD,2017,12,11216,1113,10,28,416,659,10103,888,8768,447,Non-New York City
+Nassau,Nassau County State Police,2017,12,18,5,1,1,0,3,13,2,8,3,Non-New York City
+Nassau,Old Brookville Vg PD,2017,12,35,1,0,0,1,0,34,6,23,5,Non-New York City
+Nassau,Old Westbury Vg PD,2017,12,23,0,0,0,0,0,23,0,23,0,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,2017,12,14,0,0,0,0,0,14,4,8,2,Non-New York City
+Nassau,Port Washington Police District,2017,12,105,5,0,0,2,3,100,13,83,4,Non-New York City
+Nassau,Rockville Centre Vg PD,2017,12,210,24,0,0,2,22,186,3,176,7,Non-New York City
+Nassau,Sands Point Vg PD,2017,12,10,0,0,0,0,0,10,1,8,1,Non-New York City
+Nassau,SUNY Police - Old Westbury,2017,12,24,0,0,0,0,0,24,5,18,1,Non-New York City
+Nassau,Centre Island Vg PD,2016,12,1,0,0,0,0,0,1,0,0,1,Non-New York City
+Nassau,County Total,2016,,15278,1826,20,62,734,1010,13452,1483,11278,691,Non-New York City
+Nassau,Floral Park Vg PD,2016,12,71,12,0,0,5,7,59,13,42,4,Non-New York City
+Nassau,Freeport Vg PD,2016,12,803,106,1,2,43,60,697,70,592,35,Non-New York City
+Nassau,Garden City Vg PD,2016,12,201,8,0,0,5,3,193,19,168,6,Non-New York City
+Nassau,Glen Cove City PD,2016,12,126,17,1,3,8,5,109,15,86,8,Non-New York City
+Nassau,Great Neck Estates Vg PD,2016,12,5,0,0,0,0,0,5,1,4,0,Non-New York City
+Nassau,Hempstead Vg PD,2016,12,1125,400,6,5,149,240,725,131,459,135,Non-New York City
+Nassau,Kensington Vg PD,2016,12,3,0,0,0,0,0,3,0,2,1,Non-New York City
+Nassau,Kings Point Vg PD,2016,12,14,3,0,0,0,3,11,1,8,2,Non-New York City
+Nassau,Lake Success Vg PD,2016,12,16,2,0,0,2,0,14,7,7,0,Non-New York City
+Nassau,Long Beach City PD,2016,12,305,23,0,0,3,20,282,22,246,14,Non-New York City
+Nassau,Lynbrook Vg PD,2016,12,144,24,0,2,10,12,120,13,99,8,Non-New York City
+Nassau,Malverne Vg PD,2016,12,32,4,0,0,3,1,28,8,20,0,Non-New York City
+Nassau,Nassau County MTA,2016,12,63,10,0,0,7,3,53,2,51,0,Non-New York City
+Nassau,Nassau County Park PD,2016,12,68,7,0,0,2,5,61,2,59,0,Non-New York City
+Nassau,Nassau County PD,2016,12,11827,1167,12,48,478,629,10660,1144,9054,462,Non-New York City
+Nassau,Nassau County State Police,2016,12,11,6,0,0,0,6,5,0,3,2,Non-New York City
+Nassau,Old Brookville Vg PD,2016,12,30,1,0,0,0,1,29,2,25,2,Non-New York City
+Nassau,Old Westbury Vg PD,2016,12,25,0,0,0,0,0,25,4,20,1,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,2016,12,11,1,0,0,0,1,10,3,6,1,Non-New York City
+Nassau,Port Washington Police District,2016,12,102,7,0,0,6,1,95,9,85,1,Non-New York City
+Nassau,Rockville Centre Vg PD,2016,12,249,25,0,0,13,12,224,14,202,8,Non-New York City
+Nassau,Sands Point Vg PD,2016,12,16,0,0,0,0,0,16,2,14,0,Non-New York City
+Nassau,SUNY Police - Old Westbury,2016,12,30,3,0,2,0,1,27,1,26,0,Non-New York City
+Nassau,Centre Island Vg PD,2015,12,1,0,0,0,0,0,1,1,0,0,Non-New York City
+Nassau,County Total,2015,,16358,1984,21,80,832,1051,14374,1709,11981,684,Non-New York City
+Nassau,Floral Park Vg PD,2015,12,62,3,0,0,1,2,59,4,53,2,Non-New York City
+Nassau,Freeport Vg PD,2015,12,839,139,1,2,56,80,700,49,612,39,Non-New York City
+Nassau,Garden City Vg PD,2015,12,260,3,0,0,0,3,257,24,231,2,Non-New York City
+Nassau,Glen Cove City PD,2015,12,154,15,1,0,8,6,139,14,123,2,Non-New York City
+Nassau,Great Neck Estates Vg PD,2015,12,5,0,0,0,0,0,5,4,1,0,Non-New York City
+Nassau,Hempstead Vg PD,2015,12,1120,403,6,8,175,214,717,164,456,97,Non-New York City
+Nassau,Kings Point Vg PD,2015,12,17,1,0,0,0,1,16,7,9,0,Non-New York City
+Nassau,Lake Success Vg PD,2015,12,34,0,0,0,0,0,34,7,25,2,Non-New York City
+Nassau,Long Beach City PD,2015,12,359,44,0,0,11,33,315,49,252,14,Non-New York City
+Nassau,Lynbrook Vg PD,2015,12,159,11,0,1,3,7,148,20,119,9,Non-New York City
+Nassau,Malverne Vg PD,2015,12,25,0,0,0,0,0,25,4,18,3,Non-New York City
+Nassau,Nassau County MTA,2015,12,52,7,0,1,2,4,45,1,44,0,Non-New York City
+Nassau,Nassau County Park PD,2015,12,76,4,0,0,1,3,72,1,70,1,Non-New York City
+Nassau,Nassau County PD,2015,12,12714,1318,13,68,555,682,11396,1311,9596,489,Non-New York City
+Nassau,Nassau County State Police,2015,12,16,6,0,0,0,6,10,0,8,2,Non-New York City
+Nassau,Old Brookville Vg PD,2015,12,28,0,0,0,0,0,28,4,20,4,Non-New York City
+Nassau,Old Westbury Vg PD,2015,12,36,3,0,0,1,2,33,6,26,1,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,2015,12,18,2,0,0,2,0,16,1,14,1,Non-New York City
+Nassau,Port Washington Police District,2015,12,125,12,0,0,8,4,113,20,89,4,Non-New York City
+Nassau,Rockville Centre Vg PD,2015,12,206,12,0,0,8,4,194,14,169,11,Non-New York City
+Nassau,Sands Point Vg PD,2015,12,13,0,0,0,0,0,13,1,11,1,Non-New York City
+Nassau,SUNY Police - Old Westbury,2015,12,39,1,0,0,1,0,38,3,35,0,Non-New York City
+Nassau,Centre Island Vg PD,2014,12,2,0,0,0,0,0,2,0,2,0,Non-New York City
+Nassau,County Total,2014,,17680,2043,18,60,937,1028,15637,1931,12836,870,Non-New York City
+Nassau,Floral Park Vg PD,2014,12,56,9,0,0,4,5,47,8,38,1,Non-New York City
+Nassau,Freeport Vg PD,2014,12,999,151,2,2,77,70,848,98,687,63,Non-New York City
+Nassau,Garden City Vg PD,2014,12,291,12,1,0,8,3,279,25,246,8,Non-New York City
+Nassau,Glen Cove City PD,2014,12,103,6,0,0,6,0,97,19,72,6,Non-New York City
+Nassau,Great Neck Estates Vg PD,2014,12,24,1,0,0,1,0,23,7,14,2,Non-New York City
+Nassau,Hempstead Vg PD,2014,12,1446,481,8,4,248,221,965,201,607,157,Non-New York City
+Nassau,Kings Point Vg PD,2014,12,10,0,0,0,0,0,10,0,7,3,Non-New York City
+Nassau,Lake Success Vg PD,2014,12,30,2,0,0,0,2,28,11,17,0,Non-New York City
+Nassau,Long Beach City PD,2014,12,339,43,1,0,15,27,296,35,252,9,Non-New York City
+Nassau,Lynbrook Vg PD,2014,12,179,14,0,0,4,10,165,13,142,10,Non-New York City
+Nassau,Malverne Vg PD,2014,12,8,1,0,0,0,1,7,0,7,0,Non-New York City
+Nassau,Nassau County MTA,2014,12,86,10,0,0,6,4,76,0,76,0,Non-New York City
+Nassau,Nassau County Park PD,2014,12,78,3,0,0,2,1,75,4,67,4,Non-New York City
+Nassau,Nassau County PD,2014,12,13488,1279,6,53,550,670,12209,1460,10174,575,Non-New York City
+Nassau,Nassau County State Police,2014,12,11,2,0,0,0,2,9,0,4,5,Non-New York City
+Nassau,Old Brookville Vg PD,2014,12,53,3,0,1,0,2,50,4,44,2,Non-New York City
+Nassau,Old Westbury Vg PD,2014,12,46,2,0,0,2,0,44,13,28,3,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,2014,12,15,0,0,0,0,0,15,4,9,2,Non-New York City
+Nassau,Port Washington Police District,2014,12,120,5,0,0,4,1,115,15,95,5,Non-New York City
+Nassau,Rockville Centre Vg PD,2014,12,211,17,0,0,10,7,194,8,174,12,Non-New York City
+Nassau,Sands Point Vg PD,2014,12,9,0,0,0,0,0,9,0,6,3,Non-New York City
+Nassau,SUNY Police - Old Westbury,2014,12,76,2,0,0,0,2,74,6,68,0,Non-New York City
+Nassau,Centre Island Vg PD,2013,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
+Nassau,County Total,2013,,18683,2111,25,54,1043,989,16572,2355,13328,889,Non-New York City
+Nassau,Floral Park Vg PD,2013,12,86,14,0,2,7,5,72,16,44,12,Non-New York City
+Nassau,Freeport Vg PD,2013,12,1085,152,0,2,76,74,933,168,698,67,Non-New York City
+Nassau,Garden City Vg PD,2013,12,356,10,0,0,4,6,346,33,303,10,Non-New York City
+Nassau,Glen Cove City PD,2013,12,98,8,0,0,4,4,90,25,62,3,Non-New York City
+Nassau,Great Neck Estates Vg PD,2013,12,20,0,0,0,0,0,20,6,12,2,Non-New York City
+Nassau,Hempstead Vg PD,2013,12,1391,433,10,3,204,216,958,206,630,122,Non-New York City
+Nassau,Kensington Vg PD,2013,11,3,0,0,0,0,0,3,3,0,0,Non-New York City
+Nassau,Kings Point Vg PD,2013,12,17,1,0,0,0,1,16,4,11,1,Non-New York City
+Nassau,Lake Success Vg PD,2013,12,34,2,0,0,0,2,32,10,21,1,Non-New York City
+Nassau,Long Beach City PD,2013,12,373,35,0,1,13,21,338,42,278,18,Non-New York City
+Nassau,Lynbrook Vg PD,2013,12,175,12,0,1,3,8,163,18,128,17,Non-New York City
+Nassau,Malverne Vg PD,2013,12,25,4,0,0,3,1,21,3,17,1,Non-New York City
+Nassau,Nassau County MTA,2013,12,86,11,1,0,8,2,75,1,74,0,Non-New York City
+Nassau,Nassau County Park PD,2013,12,62,5,0,1,2,2,57,3,52,2,Non-New York City
+Nassau,Nassau County PD,2013,12,14283,1394,12,43,706,633,12889,1737,10558,594,Non-New York City
+Nassau,Nassau County State Police,2013,12,6,1,1,0,0,0,5,0,4,1,Non-New York City
+Nassau,Old Brookville Vg PD,2013,12,58,4,0,0,1,3,54,16,28,10,Non-New York City
+Nassau,Old Westbury Vg PD,2013,12,40,1,0,0,0,1,39,6,29,4,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,2013,12,19,0,0,0,0,0,19,3,16,0,Non-New York City
+Nassau,Port Washington Police District,2013,12,100,2,0,0,1,1,98,13,81,4,Non-New York City
+Nassau,Rockville Centre Vg PD,2013,12,293,22,1,1,11,9,271,30,223,18,Non-New York City
+Nassau,Sands Point Vg PD,2013,12,18,0,0,0,0,0,18,4,13,1,Non-New York City
+Nassau,SUNY Police - Old Westbury,2013,12,54,0,0,0,0,0,54,8,45,1,Non-New York City
+Nassau,Centre Island Vg PD,2012,12,4,1,0,0,0,1,3,0,3,0,Non-New York City
+Nassau,County Total,2012,,19575,2458,28,71,1099,1260,17117,2743,13372,1002,Non-New York City
+Nassau,Floral Park Vg PD,2012,12,67,3,0,0,1,2,64,13,48,3,Non-New York City
+Nassau,Freeport Vg PD,2012,12,1084,209,5,4,108,92,875,212,604,59,Non-New York City
+Nassau,Garden City Vg PD,2012,12,342,5,0,0,2,3,337,48,272,17,Non-New York City
+Nassau,Glen Cove City PD,2012,12,172,22,1,0,8,13,150,17,126,7,Non-New York City
+Nassau,Great Neck Estates Vg PD,2012,12,15,0,0,0,0,0,15,5,10,0,Non-New York City
+Nassau,Hempstead Vg PD,2012,12,1456,464,9,9,207,239,992,217,636,139,Non-New York City
+Nassau,Kensington Vg PD,2012,12,2,0,0,0,0,0,2,1,1,0,Non-New York City
+Nassau,Kings Point Vg PD,2012,5,9,0,0,0,0,0,9,4,1,4,Non-New York City
+Nassau,Lake Success Vg PD,2012,12,41,2,0,0,1,1,39,9,30,0,Non-New York City
+Nassau,Long Beach City PD,2012,12,361,45,0,0,14,31,316,67,236,13,Non-New York City
+Nassau,Lynbrook Vg PD,2012,12,176,12,0,3,4,5,164,25,128,11,Non-New York City
+Nassau,Malverne Vg PD,2012,12,28,1,0,0,1,0,27,10,17,0,Non-New York City
+Nassau,Nassau County MTA,2012,12,84,9,0,0,4,5,75,1,74,0,Non-New York City
+Nassau,Nassau County Park PD,2012,12,101,6,0,0,1,5,95,2,91,2,Non-New York City
+Nassau,Nassau County PD,2012,12,14967,1637,12,55,726,844,13330,2019,10596,715,Non-New York City
+Nassau,Nassau County State Police,2012,12,14,1,0,0,0,1,13,0,12,1,Non-New York City
+Nassau,Old Brookville Vg PD,2012,12,69,2,1,0,0,1,67,17,44,6,Non-New York City
+Nassau,Old Westbury Vg PD,2012,12,48,3,0,0,1,2,45,13,27,5,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,2012,11,14,0,0,0,0,0,14,3,10,1,Non-New York City
+Nassau,Port Washington Police District,2012,12,117,2,0,0,2,0,115,8,103,4,Non-New York City
+Nassau,Rockville Centre Vg PD,2012,12,360,32,0,0,17,15,328,45,273,10,Non-New York City
+Nassau,Sands Point Vg PD,2012,12,8,0,0,0,0,0,8,1,3,4,Non-New York City
+Nassau,SUNY Police - Old Westbury,2012,12,36,2,0,0,2,0,34,6,27,1,Non-New York City
+Nassau,Centre Island Vg PD,2011,12,2,0,0,0,0,0,2,1,1,0,Non-New York City
+Nassau,County Total,2011,,19374,2226,23,63,1074,1066,17148,2784,13314,1050,Non-New York City
+Nassau,Floral Park Vg PD,2011,12,68,12,0,0,5,7,56,10,40,6,Non-New York City
+Nassau,Freeport Vg PD,2011,12,1088,174,5,7,89,73,914,185,663,66,Non-New York City
+Nassau,Garden City Vg PD,2011,12,350,13,1,0,6,6,337,32,302,3,Non-New York City
+Nassau,Glen Cove City PD,2011,12,231,18,0,0,8,10,213,39,170,4,Non-New York City
+Nassau,Great Neck Estates Vg PD,2011,12,3,0,0,0,0,0,3,2,1,0,Non-New York City
+Nassau,Hempstead Vg PD,2011,12,1488,439,8,10,207,214,1049,295,600,154,Non-New York City
+Nassau,Kensington Vg PD,2011,12,3,0,0,0,0,0,3,0,3,0,Non-New York City
+Nassau,Kings Point Vg PD,2011,12,12,2,0,0,1,1,10,2,8,0,Non-New York City
+Nassau,Lake Success Vg PD,2011,12,24,2,0,0,1,1,22,2,20,0,Non-New York City
+Nassau,Long Beach City PD,2011,12,315,40,0,0,11,29,275,25,238,12,Non-New York City
+Nassau,Lynbrook Vg PD,2011,12,187,22,1,0,10,11,165,19,132,14,Non-New York City
+Nassau,Malverne Vg PD,2011,12,27,0,0,0,0,0,27,5,22,0,Non-New York City
+Nassau,Nassau County MTA,2011,12,88,15,0,1,9,5,73,2,71,0,Non-New York City
+Nassau,Nassau County Park PD,2011,12,48,3,0,0,1,2,45,1,41,3,Non-New York City
+Nassau,Nassau County PD,2011,12,14771,1459,7,44,713,695,13312,2062,10483,767,Non-New York City
+Nassau,Nassau County State Police,2011,12,16,4,1,0,0,3,12,0,10,2,Non-New York City
+Nassau,Old Brookville Vg PD,2011,11,56,0,0,0,0,0,56,8,48,0,Non-New York City
+Nassau,Old Westbury Vg PD,2011,12,39,0,0,0,0,0,39,15,24,0,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,2011,12,5,0,0,0,0,0,5,2,3,0,Non-New York City
+Nassau,Port Washington Police District,2011,12,126,0,0,0,0,0,126,18,106,2,Non-New York City
+Nassau,Rockville Centre Vg PD,2011,12,339,20,0,0,13,7,319,52,252,15,Non-New York City
+Nassau,Sands Point Vg PD,2011,12,7,0,0,0,0,0,7,1,6,0,Non-New York City
+Nassau,SUNY Police - Old Westbury,2011,12,81,3,0,1,0,2,78,6,70,2,Non-New York City
+Nassau,Centre Island Vg PD,2010,12,4,0,0,0,0,0,4,0,4,0,Non-New York City
+Nassau,County Total,2010,,20320,2344,28,81,1077,1158,17976,2653,14170,1153,Non-New York City
+Nassau,Floral Park Vg PD,2010,12,94,15,0,0,11,4,79,16,52,11,Non-New York City
+Nassau,Freeport Vg PD,2010,12,1239,213,1,3,103,106,1026,153,772,101,Non-New York City
+Nassau,Garden City Vg PD,2010,12,363,9,0,0,3,6,354,39,305,10,Non-New York City
+Nassau,Glen Cove City PD,2010,12,250,23,0,1,10,12,227,25,196,6,Non-New York City
+Nassau,Great Neck Estates Vg PD,2010,12,5,0,0,0,0,0,5,4,1,0,Non-New York City
+Nassau,Hempstead Vg PD,2010,12,1503,452,12,3,218,219,1051,304,613,134,Non-New York City
+Nassau,Kensington Vg PD,2010,12,4,2,0,0,1,1,2,0,2,0,Non-New York City
+Nassau,Kings Point Vg PD,2010,12,19,1,0,0,0,1,18,8,9,1,Non-New York City
+Nassau,Lake Success Vg PD,2010,12,45,3,0,0,1,2,42,8,31,3,Non-New York City
+Nassau,Long Beach City PD,2010,12,332,43,0,0,13,30,289,36,238,15,Non-New York City
+Nassau,Lynbrook Vg PD,2010,12,191,27,0,2,11,14,164,16,141,7,Non-New York City
+Nassau,Malverne Vg PD,2010,12,49,2,0,0,1,1,47,6,41,0,Non-New York City
+Nassau,Nassau County MTA,2010,12,72,16,0,0,8,8,56,1,55,0,Non-New York City
+Nassau,Nassau County Park PD,2010,12,92,1,0,0,0,1,91,0,84,7,Non-New York City
+Nassau,Nassau County PD,2010,12,15378,1497,15,71,672,739,13881,1928,11117,836,Non-New York City
+Nassau,Nassau County State Police,2010,12,26,5,0,1,1,3,21,3,18,0,Non-New York City
+Nassau,Old Brookville Vg PD,2010,12,72,0,0,0,0,0,72,11,59,2,Non-New York City
+Nassau,Old Westbury Vg PD,2010,12,27,2,0,0,0,2,25,4,21,0,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,2010,12,8,0,0,0,0,0,8,2,6,0,Non-New York City
+Nassau,Port Washington Police District,2010,12,123,2,0,0,1,1,121,9,109,3,Non-New York City
+Nassau,Rockville Centre Vg PD,2010,12,322,31,0,0,23,8,291,56,221,14,Non-New York City
+Nassau,Sands Point Vg PD,2010,12,13,0,0,0,0,0,13,0,12,1,Non-New York City
+Nassau,SUNY Police - Old Westbury,2010,12,89,0,0,0,0,0,89,24,63,2,Non-New York City
+Nassau,County Total,2009,,21828,2496,30,94,1200,1172,19332,2571,15211,1550,Non-New York City
+Nassau,Floral Park Vg PD,2009,12,85,13,0,0,10,3,72,13,51,8,Non-New York City
+Nassau,Freeport Vg PD,2009,12,1244,196,5,4,115,72,1048,129,794,125,Non-New York City
+Nassau,Garden City Vg PD,2009,12,379,13,1,0,6,6,366,25,335,6,Non-New York City
+Nassau,Glen Cove City PD,2009,12,288,31,0,0,14,17,257,38,207,12,Non-New York City
+Nassau,Great Neck Estates Vg PD,2009,12,5,1,0,0,1,0,4,0,4,0,Non-New York City
+Nassau,Hempstead Vg PD,2009,12,1556,482,6,9,254,213,1074,199,646,229,Non-New York City
+Nassau,Kings Point Vg PD,2009,12,16,0,0,0,0,0,16,3,12,1,Non-New York City
+Nassau,Lake Success Vg PD,2009,12,49,2,0,0,0,2,47,6,39,2,Non-New York City
+Nassau,Long Beach City PD,2009,12,258,26,0,2,6,18,232,21,207,4,Non-New York City
+Nassau,Lynbrook Vg PD,2009,12,197,22,0,3,10,9,175,18,144,13,Non-New York City
+Nassau,Malverne Vg PD,2009,12,47,2,0,0,1,1,45,9,33,3,Non-New York City
+Nassau,Nassau County MTA,2009,12,113,17,0,0,8,9,96,0,96,0,Non-New York City
+Nassau,Nassau County Park PD,2009,12,91,8,0,1,1,6,83,0,81,2,Non-New York City
+Nassau,Nassau County PD,2009,12,16825,1640,18,74,754,794,15185,1998,12066,1121,Non-New York City
+Nassau,Nassau County State Police,2009,12,14,2,0,0,0,2,12,0,11,1,Non-New York City
+Nassau,Old Brookville Vg PD,2009,12,78,0,0,0,0,0,78,12,66,0,Non-New York City
+Nassau,Old Westbury Vg PD,2009,12,30,3,0,0,0,3,27,5,20,2,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,2009,12,7,0,0,0,0,0,7,4,3,0,Non-New York City
+Nassau,Port Washington Police District,2009,9,100,15,0,0,6,9,85,14,70,1,Non-New York City
+Nassau,Rockville Centre Vg PD,2009,12,340,20,0,1,13,6,320,63,237,20,Non-New York City
+Nassau,Sands Point Vg PD,2009,12,15,0,0,0,0,0,15,1,14,0,Non-New York City
+Nassau,SUNY Police - Old Westbury,2009,12,91,3,0,0,1,2,88,13,75,0,Non-New York City
+Nassau,Centre Island Vg PD,2008,12,4,0,0,0,0,0,4,3,1,0,Non-New York City
+Nassau,County Total,2008,,21075,2309,29,75,1136,1069,18766,2626,14690,1450,Non-New York City
+Nassau,Floral Park Vg PD,2008,12,92,9,0,0,7,2,83,11,65,7,Non-New York City
+Nassau,Freeport Vg PD,2008,12,1233,201,1,4,108,88,1032,216,696,120,Non-New York City
+Nassau,Garden City Vg PD,2008,12,276,11,0,0,10,1,265,22,233,10,Non-New York City
+Nassau,Glen Cove City PD,2008,12,285,27,0,0,15,12,258,51,196,11,Non-New York City
+Nassau,Great Neck Estates Vg PD,2008,12,4,0,0,0,0,0,4,1,3,0,Non-New York City
+Nassau,Hempstead Vg PD,2008,12,1238,341,10,10,192,129,897,197,469,231,Non-New York City
+Nassau,Kings Point Vg PD,2008,12,9,4,0,0,0,4,5,3,2,0,Non-New York City
+Nassau,Lake Success Vg PD,2008,12,74,1,0,0,0,1,73,12,55,6,Non-New York City
+Nassau,Long Beach City PD,2008,12,269,13,0,0,6,7,256,24,232,0,Non-New York City
+Nassau,Lynbrook Vg PD,2008,12,191,21,0,0,14,7,170,23,134,13,Non-New York City
+Nassau,Malverne Vg PD,2008,12,51,7,0,0,6,1,44,12,31,1,Non-New York City
+Nassau,Nassau County MTA,2008,12,88,22,0,1,8,13,66,4,62,0,Non-New York City
+Nassau,Nassau County Park PD,2008,12,88,6,1,0,2,3,82,1,77,4,Non-New York City
+Nassau,Nassau County PD,2008,12,16449,1602,14,58,748,782,14847,1929,11900,1018,Non-New York City
+Nassau,Nassau County State Police,2008,12,34,10,2,0,1,7,24,0,22,2,Non-New York City
+Nassau,Old Brookville Vg PD,2008,12,119,2,0,0,1,1,117,32,83,2,Non-New York City
+Nassau,Old Westbury Vg PD,2008,12,36,3,0,1,1,1,33,4,28,1,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,2008,12,10,0,0,0,0,0,10,2,8,0,Non-New York City
+Nassau,Port Washington Police District,2008,12,136,9,0,0,5,4,127,22,101,4,Non-New York City
+Nassau,Rockville Centre Vg PD,2008,12,303,15,1,1,11,2,288,41,227,20,Non-New York City
+Nassau,Sands Point Vg PD,2008,12,11,0,0,0,0,0,11,2,9,0,Non-New York City
+Nassau,SUNY Police - Old Westbury,2008,12,75,5,0,0,1,4,70,14,56,0,Non-New York City
+Nassau,County Total,2007,,20020,2341,24,95,1059,1163,17679,2396,13697,1586,Non-New York City
+Nassau,Floral Park Vg PD,2007,12,83,11,0,1,8,2,72,17,50,5,Non-New York City
+Nassau,Freeport Vg PD,2007,12,1275,219,2,7,105,105,1056,147,778,131,Non-New York City
+Nassau,Garden City Vg PD,2007,12,297,12,0,0,12,0,285,39,237,9,Non-New York City
+Nassau,Glen Cove City PD,2007,12,216,14,0,0,7,7,202,33,160,9,Non-New York City
+Nassau,Great Neck Estates Vg PD,2007,12,12,0,0,0,0,0,12,1,11,0,Non-New York City
+Nassau,Hempstead Vg PD,2007,12,1244,335,7,12,141,175,909,194,497,218,Non-New York City
+Nassau,Kings Point Vg PD,2007,12,12,1,0,0,0,1,11,5,6,0,Non-New York City
+Nassau,Lake Success Vg PD,2007,12,102,1,0,0,0,1,101,25,71,5,Non-New York City
+Nassau,Long Beach City PD,2007,12,241,30,0,0,13,17,211,29,181,1,Non-New York City
+Nassau,Lynbrook Vg PD,2007,12,185,19,0,0,9,10,166,15,142,9,Non-New York City
+Nassau,Malverne Vg PD,2007,12,31,5,0,0,3,2,26,11,14,1,Non-New York City
+Nassau,Nassau County MTA,2007,12,82,17,0,0,4,13,65,2,63,0,Non-New York City
+Nassau,Nassau County Park PD,2007,12,72,13,0,0,0,13,59,0,57,2,Non-New York City
+Nassau,Nassau County PD,2007,12,15525,1639,14,71,748,806,13886,1807,10928,1151,Non-New York City
+Nassau,Nassau County State Police,2007,12,22,6,0,0,2,4,16,0,11,5,Non-New York City
+Nassau,Old Brookville Vg PD,2007,12,107,1,0,0,1,0,106,16,86,4,Non-New York City
+Nassau,Old Westbury Vg PD,2007,12,30,0,0,0,0,0,30,7,19,4,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,2007,12,7,1,0,0,0,1,6,2,4,0,Non-New York City
+Nassau,Port Washington Police District,2007,12,122,6,0,1,1,4,116,18,90,8,Non-New York City
+Nassau,Rockville Centre Vg PD,2007,12,235,8,1,0,5,2,227,19,187,21,Non-New York City
+Nassau,Sands Point Vg PD,2007,12,10,0,0,0,0,0,10,1,9,0,Non-New York City
+Nassau,SUNY College at Old Westbury,2007,12,110,3,0,3,0,0,107,8,96,3,Non-New York City
+Nassau,Centre Island Vg PD,2006,12,2,1,0,0,0,1,1,0,1,0,Non-New York City
+Nassau,County Total,2006,,21231,2578,21,90,1266,1201,18653,2798,14262,1593,Non-New York City
+Nassau,Floral Park Vg PD,2006,12,138,6,0,0,6,0,132,19,106,7,Non-New York City
+Nassau,Freeport Vg PD,2006,12,1113,234,1,2,123,108,879,114,642,123,Non-New York City
+Nassau,Garden City Vg PD,2006,12,336,8,0,1,2,5,328,37,279,12,Non-New York City
+Nassau,Glen Cove City PD,2006,12,303,30,1,1,13,15,273,54,203,16,Non-New York City
+Nassau,Great Neck Estates Vg PD,2006,12,6,1,0,0,1,0,5,2,2,1,Non-New York City
+Nassau,Hempstead Vg PD,2006,12,1276,326,4,10,181,131,950,220,551,179,Non-New York City
+Nassau,Kings Point Vg PD,2006,12,13,1,0,0,0,1,12,0,10,2,Non-New York City
+Nassau,Lake Success Vg PD,2006,12,76,1,0,0,1,0,75,5,62,8,Non-New York City
+Nassau,Long Beach City PD,2006,12,333,52,0,0,23,29,281,19,248,14,Non-New York City
+Nassau,Lynbrook Vg PD,2006,12,214,33,0,1,22,10,181,26,141,14,Non-New York City
+Nassau,Malverne Vg PD,2006,12,11,0,0,0,0,0,11,0,8,3,Non-New York City
+Nassau,Nassau County MTA,2006,12,51,17,1,0,9,7,34,1,33,0,Non-New York City
+Nassau,Nassau County Park PD,2006,12,42,5,0,0,0,5,37,0,37,0,Non-New York City
+Nassau,Nassau County PD,2006,12,16526,1813,14,74,866,859,14713,2170,11372,1171,Non-New York City
+Nassau,Nassau County State Police,2006,12,33,8,0,0,1,7,25,0,21,4,Non-New York City
+Nassau,Old Brookville Vg PD,2006,12,126,2,0,0,1,1,124,27,95,2,Non-New York City
+Nassau,Old Westbury Vg PD,2006,12,60,3,0,0,0,3,57,17,39,1,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,2006,12,10,0,0,0,0,0,10,5,5,0,Non-New York City
+Nassau,Port Washington Police District,2006,12,148,13,0,0,0,13,135,33,94,8,Non-New York City
+Nassau,Rockville Centre Vg PD,2006,12,325,21,0,1,17,3,304,42,240,22,Non-New York City
+Nassau,Sands Point Vg PD,2006,12,14,3,0,0,0,3,11,4,7,0,Non-New York City
+Nassau,SUNY College at Old Westbury,2006,12,75,0,0,0,0,0,75,3,66,6,Non-New York City
+Nassau,Centre Island Vg PD,2005,12,5,0,0,0,0,0,5,3,2,0,Non-New York City
+Nassau,County Total,2005,,20760,2565,26,108,1191,1240,18195,2789,13398,2008,Non-New York City
+Nassau,Floral Park Vg PD,2005,12,83,12,0,1,7,4,71,13,53,5,Non-New York City
+Nassau,Freeport Vg PD,2005,12,1042,157,2,8,66,81,885,142,603,140,Non-New York City
+Nassau,Garden City Vg PD,2005,12,274,9,0,0,5,4,265,35,213,17,Non-New York City
+Nassau,Glen Cove City PD,2005,12,67,6,1,3,1,1,61,13,46,2,Non-New York City
+Nassau,Great Neck Estates Vg PD,2005,12,13,3,0,0,1,2,10,3,7,0,Non-New York City
+Nassau,Hempstead Vg PD,2005,12,1480,395,4,16,210,165,1085,204,565,316,Non-New York City
+Nassau,Kensington Vg PD,2005,12,1,0,0,0,0,0,1,1,0,0,Non-New York City
+Nassau,Kings Point Vg PD,2005,12,21,0,0,0,0,0,21,3,17,1,Non-New York City
+Nassau,Lake Success Vg PD,2005,12,56,5,0,0,1,4,51,9,37,5,Non-New York City
+Nassau,Long Beach City PD,2005,12,449,94,0,1,30,63,355,30,281,44,Non-New York City
+Nassau,Lynbrook Vg PD,2005,12,198,28,0,2,16,10,170,25,128,17,Non-New York City
+Nassau,Malverne Vg PD,2005,12,4,0,0,0,0,0,4,2,1,1,Non-New York City
+Nassau,Nassau County MTA,2005,12,54,11,0,0,7,4,43,1,41,1,Non-New York City
+Nassau,Nassau County Park PD,2005,12,114,10,0,0,0,10,104,2,101,1,Non-New York City
+Nassau,Nassau County PD,2005,12,16214,1793,16,76,833,868,14421,2153,10836,1432,Non-New York City
+Nassau,Nassau County State Police,2005,12,16,8,2,0,0,6,8,0,8,0,Non-New York City
+Nassau,Old Brookville Vg PD,2005,12,118,3,0,0,0,3,115,35,77,3,Non-New York City
+Nassau,Old Westbury Vg PD,2005,12,50,0,0,0,0,0,50,24,26,0,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,2005,12,6,0,0,0,0,0,6,2,4,0,Non-New York City
+Nassau,Port Washington Police District,2005,12,170,17,0,1,3,13,153,29,115,9,Non-New York City
+Nassau,Rockville Centre Vg PD,2005,12,249,11,0,0,11,0,238,52,173,13,Non-New York City
+Nassau,Sands Point Vg PD,2005,12,9,3,1,0,0,2,6,1,5,0,Non-New York City
+Nassau,SUNY College at Old Westbury,2005,12,67,0,0,0,0,0,67,7,59,1,Non-New York City
+Nassau,Centre Island Vg PD,2004,8,5,0,0,0,0,0,5,0,5,0,Non-New York City
+Nassau,County Total,2004,,22317,2501,24,108,1039,1330,19816,2872,14573,2371,Non-New York City
+Nassau,Floral Park Vg PD,2004,12,77,14,0,0,11,3,63,16,37,10,Non-New York City
+Nassau,Freeport Vg PD,2004,12,1055,181,4,6,70,101,874,125,582,167,Non-New York City
+Nassau,Garden City Vg PD,2004,12,300,11,0,0,5,6,289,14,264,11,Non-New York City
+Nassau,Glen Cove City PD,2004,12,275,36,0,6,22,8,239,49,157,33,Non-New York City
+Nassau,Great Neck Estates Vg PD,2004,12,9,0,0,0,0,0,9,2,7,0,Non-New York City
+Nassau,Hempstead Vg PD,2004,12,1493,319,5,12,146,156,1174,199,636,339,Non-New York City
+Nassau,Kensington Vg PD,2004,12,3,0,0,0,0,0,3,3,0,0,Non-New York City
+Nassau,Kings Point Vg PD,2004,12,5,0,0,0,0,0,5,2,3,0,Non-New York City
+Nassau,Lake Success Vg PD,2004,12,57,7,0,0,1,6,50,16,28,6,Non-New York City
+Nassau,Long Beach City PD,2004,12,536,103,2,3,27,71,433,66,328,39,Non-New York City
+Nassau,Lynbrook Vg PD,2004,12,182,15,0,1,10,4,167,23,118,26,Non-New York City
+Nassau,Malverne Vg PD,2004,10,31,3,0,0,1,2,28,4,20,4,Non-New York City
+Nassau,Nassau County MTA,2004,12,57,10,0,1,3,6,47,0,47,0,Non-New York City
+Nassau,Nassau County Park PD,2004,12,114,8,0,1,0,7,106,7,96,3,Non-New York City
+Nassau,Nassau County PD,2004,12,17524,1761,11,77,724,949,15763,2255,11814,1694,Non-New York City
+Nassau,Nassau County State Police,2004,12,10,7,1,0,1,5,3,0,3,0,Non-New York City
+Nassau,Old Brookville Vg PD,2004,12,59,1,0,0,1,0,58,13,45,0,Non-New York City
+Nassau,Old Westbury Vg PD,2004,12,60,4,1,0,2,1,56,11,43,2,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,2004,12,6,0,0,0,0,0,6,5,0,1,Non-New York City
+Nassau,Port Washington Police District,2004,8,98,5,0,1,1,3,93,12,74,7,Non-New York City
+Nassau,Rockville Centre Vg PD,2004,12,295,13,0,0,12,1,282,45,210,27,Non-New York City
+Nassau,Sands Point Vg PD,2004,11,18,1,0,0,0,1,17,5,12,0,Non-New York City
+Nassau,SUNY College at Old Westbury,2004,12,48,2,0,0,2,0,46,0,44,2,Non-New York City
+Nassau,County Total,2003,,22943,2598,24,119,1109,1346,20345,3252,14417,2676,Non-New York City
+Nassau,Floral Park Vg PD,2003,12,116,13,0,0,8,5,103,23,73,7,Non-New York City
+Nassau,Freeport Vg PD,2003,12,1151,182,1,12,76,93,969,150,614,205,Non-New York City
+Nassau,Garden City Vg PD,2003,12,288,13,0,0,7,6,275,17,241,17,Non-New York City
+Nassau,Glen Cove City PD,2003,12,242,24,1,2,16,5,218,49,144,25,Non-New York City
+Nassau,Great Neck Estates Vg PD,2003,12,18,1,0,0,0,1,17,6,11,0,Non-New York City
+Nassau,Hempstead Vg PD,2003,12,1475,381,5,15,168,193,1094,147,474,473,Non-New York City
+Nassau,Kensington Vg PD,2003,12,1,1,0,0,0,1,0,0,0,0,Non-New York City
+Nassau,Kings Point Vg PD,2003,12,14,1,0,0,0,1,13,3,10,0,Non-New York City
+Nassau,Lake Success Vg PD,2003,12,72,2,0,0,1,1,70,20,37,13,Non-New York City
+Nassau,Long Beach City PD,2003,12,531,94,1,0,23,70,437,58,326,53,Non-New York City
+Nassau,Lynbrook Vg PD,2003,12,255,16,0,2,7,7,239,51,148,40,Non-New York City
+Nassau,Malverne Vg PD,2003,12,32,3,0,0,2,1,29,9,18,2,Non-New York City
+Nassau,Nassau County MTA,2003,12,45,11,0,0,3,8,34,4,30,0,Non-New York City
+Nassau,Nassau County Park PD,2003,12,110,11,0,0,2,9,99,4,89,6,Non-New York City
+Nassau,Nassau County PD,2003,12,17838,1792,15,86,774,917,16046,2567,11702,1777,Non-New York City
+Nassau,Nassau County State Police,2003,12,21,9,1,0,0,8,12,0,9,3,Non-New York City
+Nassau,Old Brookville Vg PD,2003,12,75,2,0,1,1,0,73,20,51,2,Non-New York City
+Nassau,Old Westbury Vg PD,2003,12,64,3,0,0,0,3,61,24,35,2,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,2003,12,5,0,0,0,0,0,5,2,3,0,Non-New York City
+Nassau,Port Washington Police District,2003,12,217,13,0,0,6,7,204,24,158,22,Non-New York City
+Nassau,Rockville Centre Vg PD,2003,12,330,25,0,1,15,9,305,67,209,29,Non-New York City
+Nassau,Sands Point Vg PD,2003,9,10,0,0,0,0,0,10,2,8,0,Non-New York City
+Nassau,SUNY College at Old Westbury,2003,12,33,1,0,0,0,1,32,5,27,0,Non-New York City
+Nassau,Centre Island Vg PD,2002,12,2,1,0,0,0,1,1,0,1,0,Non-New York City
+Nassau,County Total,2002,,23199,2707,28,116,1128,1435,20492,2812,14832,2848,Non-New York City
+Nassau,Floral Park Vg PD,2002,12,125,7,0,0,6,1,118,24,82,12,Non-New York City
+Nassau,Freeport Vg PD,2002,12,1212,188,1,4,72,111,1024,94,712,218,Non-New York City
+Nassau,Garden City Vg PD,2002,12,352,19,0,2,11,6,333,33,281,19,Non-New York City
+Nassau,Glen Cove City PD,2002,12,275,18,1,0,13,4,257,35,197,25,Non-New York City
+Nassau,Great Neck Estates Vg PD,2002,12,12,1,0,0,1,0,11,2,7,2,Non-New York City
+Nassau,Hempstead Vg PD,2002,12,1455,392,4,10,177,201,1063,122,512,429,Non-New York City
+Nassau,Kensington Vg PD,2002,12,4,0,0,0,0,0,4,0,4,0,Non-New York City
+Nassau,Kings Point Vg PD,2002,12,4,0,0,0,0,0,4,2,1,1,Non-New York City
+Nassau,Lake Success Vg PD,2002,12,71,7,0,0,1,6,64,8,44,12,Non-New York City
+Nassau,Long Beach City PD,2002,12,632,109,0,1,37,71,523,54,390,79,Non-New York City
+Nassau,Lynbrook Vg PD,2002,12,248,22,3,3,9,7,226,37,150,39,Non-New York City
+Nassau,Malverne Vg PD,2002,12,38,8,0,0,3,5,30,9,16,5,Non-New York City
+Nassau,Nassau County MTA,2002,12,57,20,1,0,16,3,37,2,35,0,Non-New York City
+Nassau,Nassau County Park PD,2002,12,104,11,0,0,0,11,93,5,78,10,Non-New York City
+Nassau,Nassau County PD,2002,12,17586,1783,16,92,749,926,15803,2242,11632,1929,Non-New York City
+Nassau,Nassau County State Police,2002,12,34,15,0,0,1,14,19,1,16,2,Non-New York City
+Nassau,Old Brookville Vg PD,2002,12,123,10,2,3,2,3,113,15,97,1,Non-New York City
+Nassau,Old Westbury Vg PD,2002,12,57,6,0,0,1,5,51,14,36,1,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,2002,12,5,1,0,0,1,0,4,0,4,0,Non-New York City
+Nassau,Port Washington Police District,2002,12,305,17,0,1,6,10,288,38,237,13,Non-New York City
+Nassau,Rockville Centre Vg PD,2002,12,439,67,0,0,22,45,372,68,254,50,Non-New York City
+Nassau,Sands Point Vg PD,2002,12,24,2,0,0,0,2,22,6,16,0,Non-New York City
+Nassau,SUNY College At Old Westbury,2002,1,35,3,0,0,0,3,32,1,30,1,Non-New York City
+Nassau,Centre Island Vg PD,2001,,5,1,0,0,0,1,4,2,2,0,Non-New York City
+Nassau,County Total,2001,,23077,2671,29,126,1097,1419,20406,3162,14312,2932,Non-New York City
+Nassau,Floral Park Vg PD,2001,,117,16,1,1,12,2,101,26,66,9,Non-New York City
+Nassau,Freeport Vg PD,2001,,1210,217,1,7,75,134,993,94,656,243,Non-New York City
+Nassau,Garden City Vg PD,2001,,348,9,0,1,2,6,339,33,295,11,Non-New York City
+Nassau,Glen Cove City PD,2001,,252,22,1,0,14,7,230,35,164,31,Non-New York City
+Nassau,Great Neck Estates Vg PD,2001,,13,0,0,0,0,0,13,2,11,0,Non-New York City
+Nassau,Hempstead Vg PD,2001,,1397,377,13,17,150,197,1020,184,451,385,Non-New York City
+Nassau,Kensington Vg PD,2001,,5,0,0,0,0,0,5,1,4,0,Non-New York City
+Nassau,Kings Point Vg PD,2001,,10,3,0,0,1,2,7,1,6,0,Non-New York City
+Nassau,Lake Success Vg PD,2001,,39,4,0,0,3,1,35,5,22,8,Non-New York City
+Nassau,Long Beach City PD,2001,,705,120,0,2,51,67,585,106,393,86,Non-New York City
+Nassau,Lynbrook Vg PD,2001,,201,14,0,1,5,8,187,40,115,32,Non-New York City
+Nassau,Malverne Vg PD,2001,,45,11,0,0,3,8,34,11,19,4,Non-New York City
+Nassau,Nassau County MTA,2001,,20,7,0,0,5,2,13,0,13,0,Non-New York City
+Nassau,Nassau County Park PD,2001,,120,9,0,0,1,8,111,1,109,1,Non-New York City
+Nassau,Nassau County PD,2001,,17637,1755,13,93,753,896,15882,2459,11402,2021,Non-New York City
+Nassau,Nassau County State Police,2001,,44,23,0,0,2,21,21,2,7,12,Non-New York City
+Nassau,Old Brookville Vg PD,2001,,146,3,0,0,0,3,143,35,97,11,Non-New York City
+Nassau,Old Westbury Vg PD,2001,,66,5,0,0,0,5,61,15,41,5,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,2001,,7,3,0,0,1,2,4,1,3,0,Non-New York City
+Nassau,Port Washington Police District,2001,,229,16,0,1,7,8,213,24,169,20,Non-New York City
+Nassau,Rockville Centre Vg PD,2001,,407,51,0,3,10,38,356,82,222,52,Non-New York City
+Nassau,Sands Point Vg PD,2001,,9,1,0,0,0,1,8,0,7,1,Non-New York City
+Nassau,SUNY College At Old Westbury,2001,,45,4,0,0,2,2,41,3,38,0,Non-New York City
+Nassau,Centre Island Vg PD,2000,,9,0,0,0,0,0,9,2,6,1,Non-New York City
+Nassau,County Total,2000,,25981,2389,25,116,1077,1171,23592,3134,16739,3719,Non-New York City
+Nassau,Floral Park Vg PD,2000,,110,14,0,0,7,7,96,29,52,15,Non-New York City
+Nassau,Freeport Vg PD,2000,,1293,238,0,11,97,130,1055,129,688,238,Non-New York City
+Nassau,Garden City Vg PD,2000,,306,7,0,0,4,3,299,30,237,32,Non-New York City
+Nassau,Glen Cove City PD,2000,,278,22,1,2,15,4,256,36,190,30,Non-New York City
+Nassau,Hempstead Vg PD,2000,,1393,354,4,13,168,169,1039,174,439,426,Non-New York City
+Nassau,Kensington Vg PD,2000,,11,0,0,0,0,0,11,0,10,1,Non-New York City
+Nassau,Kings Point Vg PD,2000,,18,4,0,0,0,4,14,3,9,2,Non-New York City
+Nassau,Lake Success Vg PD,2000,,49,4,0,0,1,3,45,6,26,13,Non-New York City
+Nassau,Long Beach City PD,2000,,592,81,0,0,32,49,511,62,387,62,Non-New York City
+Nassau,Lynbrook Vg PD,2000,,242,17,0,1,6,10,225,36,154,35,Non-New York City
+Nassau,Malverne Vg PD,2000,,58,14,0,1,3,10,44,11,29,4,Non-New York City
+Nassau,Nassau County MTA,2000,,72,25,0,0,12,13,47,15,32,0,Non-New York City
+Nassau,Nassau County Park PD,2000,,133,10,0,1,0,9,123,7,113,3,Non-New York City
+Nassau,Nassau County PD,2000,,20366,1462,19,85,705,653,18904,2421,13734,2749,Non-New York City
+Nassau,Nassau County State Police,2000,,56,23,1,0,0,22,33,1,10,22,Non-New York City
+Nassau,Old Brookville Vg PD,2000,,124,4,0,0,0,4,120,31,75,14,Non-New York City
+Nassau,Old Westbury Vg PD,2000,,64,9,0,0,1,8,55,10,38,7,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,2000,,7,2,0,0,0,2,5,2,3,0,Non-New York City
+Nassau,Port Washington Police District,2000,,227,17,0,0,9,8,210,26,165,19,Non-New York City
+Nassau,Rockville Centre Vg PD,2000,,504,80,0,2,17,61,424,90,288,46,Non-New York City
+Nassau,Sands Point Vg PD,2000,,14,0,0,0,0,0,14,3,11,0,Non-New York City
+Nassau,SUNY College At Old Westbury,2000,,55,2,0,0,0,2,53,10,43,0,Non-New York City
+Nassau,Centre Island Vg PD,1999,,3,3,0,0,0,3,0,0,0,0,Non-New York City
+Nassau,County Total,1999,,28198,2595,24,116,1290,1165,25603,3233,18514,3856,Non-New York City
+Nassau,Floral Park Vg PD,1999,,118,12,0,0,11,1,106,25,63,18,Non-New York City
+Nassau,Freeport Vg PD,1999,,1279,234,1,3,109,121,1045,116,715,214,Non-New York City
+Nassau,Garden City Vg PD,1999,,346,17,0,2,7,8,329,27,273,29,Non-New York City
+Nassau,Glen Cove City PD,1999,,559,22,0,3,10,9,537,91,417,29,Non-New York City
+Nassau,Great Neck Estates Vg PD,1999,,14,2,0,0,0,2,12,4,6,2,Non-New York City
+Nassau,Hempstead Vg PD,1999,,1916,550,5,22,245,278,1366,238,681,447,Non-New York City
+Nassau,Kensington Vg PD,1999,,12,1,0,0,1,0,11,2,9,0,Non-New York City
+Nassau,Kings Point Vg PD,1999,,23,2,0,0,0,2,21,2,8,11,Non-New York City
+Nassau,Lake Success Vg PD,1999,,38,3,0,0,0,3,35,6,18,11,Non-New York City
+Nassau,Long Beach City PD,1999,,617,84,2,2,51,29,533,71,403,59,Non-New York City
+Nassau,Lynbrook Vg PD,1999,,243,15,0,0,8,7,228,31,160,37,Non-New York City
+Nassau,Malverne Vg PD,1999,,57,9,0,0,3,6,48,8,35,5,Non-New York City
+Nassau,Nassau County Park PD,1999,,120,8,0,0,1,7,112,10,96,6,Non-New York City
+Nassau,Nassau County PD,1999,,21763,1530,16,83,815,616,20233,2452,14890,2891,Non-New York City
+Nassau,Nassau County State Police,1999,,30,11,0,0,2,9,19,2,8,9,Non-New York City
+Nassau,Old Brookville Vg PD,1999,,150,10,0,1,3,6,140,19,112,9,Non-New York City
+Nassau,Old Westbury Vg PD,1999,,64,6,0,0,0,6,58,9,43,6,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,1999,,7,0,0,0,0,0,7,0,4,3,Non-New York City
+Nassau,Port Washington Police District,1999,,214,12,0,0,6,6,202,24,169,9,Non-New York City
+Nassau,Rockville Centre Vg PD,1999,,531,57,0,0,16,41,474,77,341,56,Non-New York City
+Nassau,Sands Point Vg PD,1999,,25,3,0,0,0,3,22,3,18,1,Non-New York City
+Nassau,SUNY College At Old Westbury,1999,,69,4,0,0,2,2,65,16,45,4,Non-New York City
+Nassau,Centre Island Vg PD,1998,,2,0,0,0,0,0,2,1,1,0,Non-New York City
+Nassau,County Total,1998,,27585,2468,22,96,1093,1257,25117,3523,17494,4100,Non-New York City
+Nassau,Floral Park Vg PD,1998,,155,16,0,0,10,6,139,38,81,20,Non-New York City
+Nassau,Freeport Vg PD,1998,,1573,272,2,7,131,132,1301,228,845,228,Non-New York City
+Nassau,Garden City Vg PD,1998,,510,19,0,0,10,9,491,34,403,54,Non-New York City
+Nassau,Glen Cove City PD,1998,,268,21,0,1,14,6,247,34,192,21,Non-New York City
+Nassau,Great Neck Estates Vg PD,1998,,24,0,0,0,0,0,24,3,18,3,Non-New York City
+Nassau,Hempstead Vg PD,1998,,1463,312,5,16,151,140,1151,225,507,419,Non-New York City
+Nassau,Kensington Vg PD,1998,,8,2,0,0,1,1,6,1,4,1,Non-New York City
+Nassau,Kings Point Vg PD,1998,,29,1,0,0,1,0,28,6,18,4,Non-New York City
+Nassau,Lake Success Vg PD,1998,,77,7,0,0,4,3,70,10,32,28,Non-New York City
+Nassau,Laurel Hollow Vg PD,1998,,6,0,0,0,0,0,6,0,6,0,Non-New York City
+Nassau,Long Beach City PD,1998,,637,61,2,4,29,26,576,81,441,54,Non-New York City
+Nassau,Lynbrook Vg PD,1998,,254,19,0,1,10,8,235,42,167,26,Non-New York City
+Nassau,Malverne Vg PD,1998,,98,7,0,0,0,7,91,16,63,12,Non-New York City
+Nassau,Nassau County MTA,1998,,108,26,0,1,20,5,82,3,67,12,Non-New York City
+Nassau,Nassau County Park PD,1998,,141,20,0,1,4,15,121,9,108,4,Non-New York City
+Nassau,Nassau County PD,1998,,21022,1556,13,60,678,805,19466,2598,13746,3122,Non-New York City
+Nassau,Nassau County State Police,1998,,21,9,0,0,1,8,12,1,9,2,Non-New York City
+Nassau,Old Brookville Vg PD,1998,,144,5,0,3,2,0,139,29,97,13,Non-New York City
+Nassau,Old Westbury Vg PD,1998,,75,8,0,0,1,7,67,19,43,5,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,1998,,8,2,0,0,0,2,6,2,3,1,Non-New York City
+Nassau,Port Washington Police District,1998,,265,17,0,0,9,8,248,37,195,16,Non-New York City
+Nassau,Rockville Centre Vg PD,1998,,602,85,0,2,17,66,517,80,386,51,Non-New York City
+Nassau,Sands Point Vg PD,1998,,16,2,0,0,0,2,14,1,13,0,Non-New York City
+Nassau,SUNY College At Old Westbury,1998,,79,1,0,0,0,1,78,25,49,4,Non-New York City
+Nassau,Centre Island Vg PD,1997,,1,0,0,0,0,0,1,1,0,0,Non-New York City
+Nassau,County Total,1997,,29790,2532,25,125,1192,1190,27258,3688,18744,4826,Non-New York City
+Nassau,Floral Park Vg PD,1997,,145,17,0,3,3,11,128,26,83,19,Non-New York City
+Nassau,Freeport Vg PD,1997,,1667,254,2,18,146,88,1413,223,993,197,Non-New York City
+Nassau,Garden City Vg PD,1997,,441,17,0,3,9,5,424,31,339,54,Non-New York City
+Nassau,Glen Cove City PD,1997,,287,22,1,3,15,3,265,50,181,34,Non-New York City
+Nassau,Great Neck Estates Vg PD,1997,,22,1,0,0,1,0,21,2,15,4,Non-New York City
+Nassau,Hempstead Vg PD,1997,,1597,357,7,29,177,144,1240,294,629,317,Non-New York City
+Nassau,Kensington Vg PD,1997,,18,1,0,0,1,0,17,1,16,0,Non-New York City
+Nassau,Kings Point Vg PD,1997,,21,2,0,0,1,1,19,1,17,1,Non-New York City
+Nassau,Lake Success Vg PD,1997,,81,3,0,0,3,0,78,6,26,46,Non-New York City
+Nassau,Laurel Hollow Vg PD,1997,,16,0,0,0,0,0,16,3,12,1,Non-New York City
+Nassau,Long Beach City PD,1997,,787,67,1,1,34,31,720,83,519,118,Non-New York City
+Nassau,Lynbrook Vg PD,1997,,262,12,0,0,5,7,250,51,157,42,Non-New York City
+Nassau,Malverne Vg PD,1997,,73,10,0,0,1,9,63,11,43,9,Non-New York City
+Nassau,Nassau County Park PD,1997,,133,18,1,0,1,16,115,3,101,11,Non-New York City
+Nassau,Nassau County PD,1997,,22848,1614,12,62,752,788,21234,2711,14685,3838,Non-New York City
+Nassau,Nassau County (RR-LI),1997,,77,24,1,1,13,9,53,1,50,2,Non-New York City
+Nassau,Nassau County State Police,1997,,29,10,0,1,2,7,19,6,12,1,Non-New York City
+Nassau,Old Brookville Vg PD,1997,,160,10,0,0,4,6,150,32,109,9,Non-New York City
+Nassau,Old Westbury Vg PD,1997,,87,4,0,0,0,4,83,25,54,4,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,1997,,6,0,0,0,0,0,6,2,2,2,Non-New York City
+Nassau,Port Washington Police District,1997,,276,11,0,1,5,5,265,23,227,15,Non-New York City
+Nassau,Rockville Centre Vg PD,1997,,675,64,0,3,16,45,611,87,423,101,Non-New York City
+Nassau,Sands Point Vg PD,1997,,17,1,0,0,0,1,16,2,13,1,Non-New York City
+Nassau,SUNY College At Old Westbury,1997,,64,13,0,0,3,10,51,13,38,0,Non-New York City
+Nassau,Centre Island Vg PD,1996,,3,1,0,0,0,1,2,1,1,0,Non-New York City
+Nassau,County Total,1996,,32413,3268,21,106,1323,1818,29145,4373,19821,4951,Non-New York City
+Nassau,Floral Park Vg PD,1996,,167,19,0,2,9,8,148,43,88,17,Non-New York City
+Nassau,Freeport Vg PD,1996,,1623,230,2,9,108,111,1393,246,924,223,Non-New York City
+Nassau,Garden City Vg PD,1996,,591,14,0,3,4,7,577,50,437,90,Non-New York City
+Nassau,Glen Cove City PD,1996,,359,25,0,0,13,12,334,45,238,51,Non-New York City
+Nassau,Great Neck Estates Vg PD,1996,,40,1,0,0,1,0,39,10,23,6,Non-New York City
+Nassau,Hempstead Vg PD,1996,,2450,881,6,17,260,598,1569,320,905,344,Non-New York City
+Nassau,Kensington Vg PD,1996,,6,1,0,0,1,0,5,1,4,0,Non-New York City
+Nassau,Kings Point Vg PD,1996,,35,2,0,0,2,0,33,9,14,10,Non-New York City
+Nassau,Lake Success Vg PD,1996,,79,3,0,0,2,1,76,11,36,29,Non-New York City
+Nassau,Laurel Hollow Vg PD,1996,,12,0,0,0,0,0,12,2,8,2,Non-New York City
+Nassau,Long Beach City PD,1996,,802,90,0,3,23,64,712,141,467,104,Non-New York City
+Nassau,Lynbrook Vg PD,1996,,301,18,0,0,11,7,283,45,195,43,Non-New York City
+Nassau,Malverne Vg PD,1996,,105,13,0,0,7,6,92,11,69,12,Non-New York City
+Nassau,Nassau County Park PD,1996,,127,9,0,0,3,6,118,9,102,7,Non-New York City
+Nassau,Nassau County PD,1996,,24272,1835,8,71,835,921,22437,3225,15337,3875,Non-New York City
+Nassau,Nassau County (RR-LI),1996,,70,16,0,0,13,3,54,7,47,0,Non-New York City
+Nassau,Nassau County State Police,1996,,23,10,0,0,1,9,13,2,9,2,Non-New York City
+Nassau,Old Brookville Vg PD,1996,,175,2,0,0,0,2,173,46,112,15,Non-New York City
+Nassau,Old Westbury Vg PD,1996,,73,5,0,0,1,4,68,19,44,5,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,1996,,11,0,0,0,0,0,11,9,1,1,Non-New York City
+Nassau,Port Washington Police District,1996,,377,12,3,0,5,4,365,27,305,33,Non-New York City
+Nassau,Rockville Centre Vg PD,1996,,602,76,2,1,23,50,526,71,376,79,Non-New York City
+Nassau,Sands Point Vg PD,1996,,30,0,0,0,0,0,30,5,24,1,Non-New York City
+Nassau,SUNY College At Old Westbury,1996,,80,5,0,0,1,4,75,18,55,2,Non-New York City
+Nassau,Centre Island Vg PD,1995,,4,0,0,0,0,0,4,0,4,0,Non-New York City
+Nassau,County Total,1995,,33229,3198,30,120,1391,1657,30031,4740,19917,5374,Non-New York City
+Nassau,Floral Park Vg PD,1995,,181,12,0,1,11,0,169,63,84,22,Non-New York City
+Nassau,Freeport Vg PD,1995,,1624,243,3,12,133,95,1381,292,873,216,Non-New York City
+Nassau,Garden City Vg PD,1995,,682,20,0,1,14,5,662,58,501,103,Non-New York City
+Nassau,Glen Cove City PD,1995,,401,37,0,2,18,17,364,79,244,41,Non-New York City
+Nassau,Great Neck Estates Vg PD,1995,,44,1,0,0,0,1,43,17,22,4,Non-New York City
+Nassau,Hempstead Vg PD,1995,,2236,717,9,33,249,426,1519,346,972,201,Non-New York City
+Nassau,Kensington Vg PD,1995,,1,0,0,0,0,0,1,0,0,1,Non-New York City
+Nassau,Kings Point Vg PD,1995,,28,1,0,0,1,0,27,9,13,5,Non-New York City
+Nassau,Lake Success Vg PD,1995,,100,3,0,0,1,2,97,14,46,37,Non-New York City
+Nassau,Laurel Hollow Vg PD,1995,,16,0,0,0,0,0,16,1,14,1,Non-New York City
+Nassau,Long Beach City PD,1995,,981,170,0,0,33,137,811,150,526,135,Non-New York City
+Nassau,Lynbrook Vg PD,1995,,357,9,0,0,2,7,348,63,249,36,Non-New York City
+Nassau,Malverne Vg PD,1995,,106,7,0,0,2,5,99,15,74,10,Non-New York City
+Nassau,Nassau County Park PD,1995,,171,9,0,0,3,6,162,15,142,5,Non-New York City
+Nassau,Nassau County PD,1995,,24822,1871,17,70,881,903,22951,3414,15076,4461,Non-New York City
+Nassau,Nassau County (RR-LI),1995,,78,20,0,0,11,9,58,1,57,0,Non-New York City
+Nassau,Nassau County State Police,1995,,30,9,0,0,5,4,21,0,20,1,Non-New York City
+Nassau,Old Brookville Vg PD,1995,,159,1,0,0,1,0,158,34,107,17,Non-New York City
+Nassau,Old Westbury Vg PD,1995,,95,12,0,0,3,9,83,27,46,10,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,1995,,8,0,0,0,0,0,8,6,2,0,Non-New York City
+Nassau,Port Washington Police District,1995,,383,13,0,1,3,9,370,32,316,22,Non-New York City
+Nassau,Rockville Centre Vg PD,1995,,625,34,1,0,20,13,591,90,460,41,Non-New York City
+Nassau,Sands Point Vg PD,1995,,19,1,0,0,0,1,18,2,15,1,Non-New York City
+Nassau,SUNY College At Old Westbury,1995,,78,8,0,0,0,8,70,12,54,4,Non-New York City
+Nassau,Centre Island Vg PD,1994,,1,0,0,0,0,0,1,0,1,0,Non-New York City
+Nassau,County Total,1994,,34561,3135,23,117,1491,1504,31426,5224,19766,6436,Non-New York City
+Nassau,Floral Park Vg PD,1994,,199,20,1,1,11,7,179,34,116,29,Non-New York City
+Nassau,Freeport Vg PD,1994,,1671,301,3,8,176,114,1370,238,947,185,Non-New York City
+Nassau,Garden City Vg PD,1994,,597,19,1,0,10,8,578,63,431,84,Non-New York City
+Nassau,Glen Cove City PD,1994,,382,31,0,3,16,12,351,65,221,65,Non-New York City
+Nassau,Great Neck Estates Vg PD,1994,,66,3,0,0,0,3,63,29,21,13,Non-New York City
+Nassau,Hempstead Vg PD,1994,,1931,503,4,19,178,302,1428,347,958,123,Non-New York City
+Nassau,Kensington Vg PD,1994,,8,0,0,0,0,0,8,1,4,3,Non-New York City
+Nassau,Kings Point Vg PD,1994,,60,1,0,0,1,0,59,21,19,19,Non-New York City
+Nassau,Lake Success Vg PD,1994,,75,5,0,0,3,2,70,6,28,36,Non-New York City
+Nassau,Laurel Hollow Vg PD,1994,,18,0,0,0,0,0,18,7,5,6,Non-New York City
+Nassau,Long Beach City PD,1994,,901,123,0,3,30,90,778,164,469,145,Non-New York City
+Nassau,Lynbrook Vg PD,1994,,353,18,0,2,7,9,335,81,203,51,Non-New York City
+Nassau,Malverne Vg PD,1994,,93,11,0,0,1,10,82,19,48,15,Non-New York City
+Nassau,Nassau County Park PD,1994,,136,19,0,1,4,14,117,10,99,8,Non-New York City
+Nassau,Nassau County PD,1994,,26619,1963,13,77,1007,866,24656,3915,15188,5553,Non-New York City
+Nassau,Nassau County (RR-LI),1994,,56,26,0,0,17,9,30,2,28,0,Non-New York City
+Nassau,Nassau County State Police,1994,,47,21,0,0,3,18,26,8,15,3,Non-New York City
+Nassau,Old Brookville Vg PD,1994,,189,6,1,0,2,3,183,18,148,17,Non-New York City
+Nassau,Old Westbury Vg PD,1994,,110,12,0,0,3,9,98,38,48,12,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,1994,,39,0,0,0,0,0,39,21,3,15,Non-New York City
+Nassau,Port Washington Police District,1994,,376,13,0,2,6,5,363,47,288,28,Non-New York City
+Nassau,Rockville Centre Vg PD,1994,,506,35,0,1,15,19,471,54,395,22,Non-New York City
+Nassau,Sands Point Vg PD,1994,,32,0,0,0,0,0,32,15,17,0,Non-New York City
+Nassau,SUNY College At Old Westbury,1994,,96,5,0,0,1,4,91,21,66,4,Non-New York City
+Nassau,Centre Island Vg PD,1993,,5,0,0,0,0,0,5,2,2,1,Non-New York City
+Nassau,County Total,1993,,38965,3567,38,114,1756,1659,35398,5972,21522,7904,Non-New York City
+Nassau,Cove Neck Vg PD,1993,,3,0,0,0,0,0,3,0,3,0,Non-New York City
+Nassau,Floral Park Vg PD,1993,,282,23,0,0,23,0,259,46,172,41,Non-New York City
+Nassau,Freeport Vg PD,1993,,1914,302,5,12,141,144,1612,265,1150,197,Non-New York City
+Nassau,Garden City Vg PD,1993,,727,22,1,0,12,9,705,84,523,98,Non-New York City
+Nassau,Glen Cove City PD,1993,,430,28,0,0,8,20,402,84,257,61,Non-New York City
+Nassau,Great Neck Estates Vg PD,1993,,58,2,0,0,2,0,56,17,33,6,Non-New York City
+Nassau,Hempstead Vg PD,1993,,2323,713,6,23,270,414,1610,307,926,377,Non-New York City
+Nassau,Kensington Vg PD,1993,,7,1,0,0,1,0,6,1,5,0,Non-New York City
+Nassau,Kings Point Vg PD,1993,,59,2,0,0,2,0,57,16,30,11,Non-New York City
+Nassau,Lake Success Vg PD,1993,,136,11,0,0,8,3,125,15,56,54,Non-New York City
+Nassau,Laurel Hollow Vg PD,1993,,26,0,0,0,0,0,26,3,19,4,Non-New York City
+Nassau,Long Beach City PD,1993,,1168,131,2,1,57,71,1037,284,547,206,Non-New York City
+Nassau,Lynbrook Vg PD,1993,,392,25,0,1,12,12,367,65,242,60,Non-New York City
+Nassau,Malverne Vg PD,1993,,108,8,0,0,2,6,100,22,49,29,Non-New York City
+Nassau,Nassau County Park PD,1993,,151,7,0,1,3,3,144,10,119,15,Non-New York City
+Nassau,Nassau County PD,1993,,29410,2144,18,71,1156,899,27266,4494,16235,6537,Non-New York City
+Nassau,Nassau County (RR-LI),1993,,84,40,6,0,11,23,44,5,38,1,Non-New York City
+Nassau,Nassau County State Police,1993,,25,7,0,1,5,1,18,1,15,2,Non-New York City
+Nassau,Old Brookville Vg PD,1993,,227,12,0,1,3,8,215,34,148,33,Non-New York City
+Nassau,Old Westbury Vg PD,1993,,129,11,0,0,0,11,118,21,78,19,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,1993,,21,1,0,0,1,0,20,5,8,7,Non-New York City
+Nassau,Port Washington Police District,1993,,433,19,0,2,9,8,414,81,306,27,Non-New York City
+Nassau,Rockville Centre Vg PD,1993,,694,47,0,1,28,18,647,86,453,108,Non-New York City
+Nassau,Sands Point Vg PD,1993,,46,5,0,0,1,4,41,6,30,5,Non-New York City
+Nassau,SUNY College At Old Westbury,1993,,107,6,0,0,1,5,101,18,78,5,Non-New York City
+Nassau,Centre Island Vg PD,1992,,10,0,0,0,0,0,10,3,4,3,Non-New York City
+Nassau,County Total,1992,,40203,3718,24,125,1954,1615,36485,6956,21185,8344,Non-New York City
+Nassau,Cove Neck Vg PD,1992,,6,0,0,0,0,0,6,1,5,0,Non-New York City
+Nassau,Floral Park Vg PD,1992,,257,21,0,1,17,3,236,61,134,41,Non-New York City
+Nassau,Freeport Vg PD,1992,,2014,311,0,14,139,158,1703,267,1167,269,Non-New York City
+Nassau,Garden City Vg PD,1992,,683,16,0,0,7,9,667,97,487,83,Non-New York City
+Nassau,Glen Cove City PD,1992,,511,41,2,3,19,17,470,103,299,68,Non-New York City
+Nassau,Great Neck Estates Vg PD,1992,,38,4,1,0,1,2,34,5,21,8,Non-New York City
+Nassau,Hempstead Vg PD,1992,,2347,666,1,27,240,398,1681,337,913,431,Non-New York City
+Nassau,Kensington Vg PD,1992,,13,0,0,0,0,0,13,6,5,2,Non-New York City
+Nassau,Kings Point Vg PD,1992,,42,4,0,0,4,0,38,9,17,12,Non-New York City
+Nassau,Lake Success Vg PD,1992,,115,6,0,0,5,1,109,16,62,31,Non-New York City
+Nassau,Laurel Hollow Vg PD,1992,,39,0,0,0,0,0,39,7,29,3,Non-New York City
+Nassau,Long Beach City PD,1992,,1091,110,0,2,54,54,981,218,575,188,Non-New York City
+Nassau,Lynbrook Vg PD,1992,,413,38,0,4,20,14,375,70,238,67,Non-New York City
+Nassau,Malverne Vg PD,1992,,94,4,0,0,1,3,90,14,61,15,Non-New York City
+Nassau,Nassau County Park PD,1992,,155,19,0,0,3,16,136,3,124,9,Non-New York City
+Nassau,Nassau County PD,1992,,30575,2360,18,73,1381,888,28215,5461,15839,6915,Non-New York City
+Nassau,Nassau County (RR-LI),1992,,75,17,0,0,11,6,58,8,50,0,Non-New York City
+Nassau,Nassau County State Police,1992,,36,13,1,1,5,6,23,4,17,2,Non-New York City
+Nassau,Old Brookville Vg PD,1992,,236,7,0,0,5,2,229,56,138,35,Non-New York City
+Nassau,Old Westbury Vg PD,1992,,114,10,0,0,1,9,104,20,65,19,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,1992,,22,0,0,0,0,0,22,6,7,9,Non-New York City
+Nassau,Port Washington Police District,1992,,426,18,1,0,10,7,408,72,308,28,Non-New York City
+Nassau,Rockville Centre Vg PD,1992,,771,51,0,0,31,20,720,100,525,95,Non-New York City
+Nassau,Sands Point Vg PD,1992,,29,0,0,0,0,0,29,3,20,6,Non-New York City
+Nassau,SUNY College At Old Westbury,1992,,91,2,0,0,0,2,89,9,75,5,Non-New York City
+Nassau,Centre Island Vg PD,1991,,3,0,0,0,0,0,3,0,2,1,Non-New York City
+Nassau,County Total,1991,,43219,3848,42,144,1806,1856,39371,7258,23436,8677,Non-New York City
+Nassau,Cove Neck Vg PD,1991,,1,0,0,0,0,0,1,0,1,0,Non-New York City
+Nassau,Floral Park Vg PD,1991,,295,17,0,1,13,3,278,58,182,38,Non-New York City
+Nassau,Freeport Vg PD,1991,,2059,371,3,12,151,205,1688,246,1138,304,Non-New York City
+Nassau,Garden City Vg PD,1991,,556,19,0,0,15,4,537,81,402,54,Non-New York City
+Nassau,Glen Cove City PD,1991,,585,55,1,1,20,33,530,110,333,87,Non-New York City
+Nassau,Great Neck Estates Vg PD,1991,,73,6,0,0,5,1,67,7,49,11,Non-New York City
+Nassau,Hempstead Vg PD,1991,,2747,739,4,30,271,434,2008,422,1131,455,Non-New York City
+Nassau,Kensington Vg PD,1991,,15,0,0,0,0,0,15,6,6,3,Non-New York City
+Nassau,Kings Point Vg PD,1991,,72,5,0,0,2,3,67,6,54,7,Non-New York City
+Nassau,Lake Success Vg PD,1991,,146,10,0,0,3,7,136,30,74,32,Non-New York City
+Nassau,Laurel Hollow Vg PD,1991,,32,0,0,0,0,0,32,14,17,1,Non-New York City
+Nassau,Long Beach City PD,1991,,1067,132,1,7,57,67,935,185,589,161,Non-New York City
+Nassau,Lynbrook Vg PD,1991,,464,31,0,1,14,16,433,61,290,82,Non-New York City
+Nassau,Malverne Vg PD,1991,,180,6,0,1,2,3,174,72,86,16,Non-New York City
+Nassau,Nassau County Park PD,1991,,193,15,0,0,1,14,178,10,146,22,Non-New York City
+Nassau,Nassau County PD,1991,,32649,2287,27,85,1181,994,30362,5609,17562,7191,Non-New York City
+Nassau,Nassau County (RR-LI),1991,,86,21,0,1,15,5,65,4,61,0,Non-New York City
+Nassau,Nassau County State Police,1991,,45,24,2,2,0,20,21,1,19,1,Non-New York City
+Nassau,Old Brookville Vg PD,1991,,279,7,0,0,6,1,272,43,197,32,Non-New York City
+Nassau,Old Westbury Vg PD,1991,,118,8,0,1,2,5,110,24,60,26,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,1991,,52,0,0,0,0,0,52,32,11,9,Non-New York City
+Nassau,Port Washington Police District,1991,,497,28,2,2,13,11,469,78,349,42,Non-New York City
+Nassau,Rockville Centre Vg PD,1991,,872,60,2,0,34,24,812,135,587,90,Non-New York City
+Nassau,Sands Point Vg PD,1991,,46,4,0,0,0,4,42,0,34,8,Non-New York City
+Nassau,SUNY College At Old Westbury,1991,,87,3,0,0,1,2,84,24,56,4,Non-New York City
+Nassau,Centre Island Vg PD,1990,,5,1,0,0,0,1,4,0,4,0,Non-New York City
+Nassau,County Total,1990,,42142,3223,35,107,1499,1582,38919,6894,23129,8896,Non-New York City
+Nassau,Cove Neck Vg PD,1990,,13,0,0,0,0,0,13,5,7,1,Non-New York City
+Nassau,Floral Park Vg PD,1990,,269,12,0,0,4,8,257,69,150,38,Non-New York City
+Nassau,Freeport Vg PD,1990,,1711,315,3,11,112,189,1396,288,863,245,Non-New York City
+Nassau,Garden City Vg PD,1990,,623,21,0,0,12,9,602,89,420,93,Non-New York City
+Nassau,Glen Cove City PD,1990,,513,67,2,0,8,57,446,81,283,82,Non-New York City
+Nassau,Great Neck Estates Vg PD,1990,,82,1,0,0,0,1,81,10,62,9,Non-New York City
+Nassau,Hempstead Vg PD,1990,,2705,544,2,19,224,299,2161,516,1122,523,Non-New York City
+Nassau,Kensington Vg PD,1990,,30,0,0,0,0,0,30,4,20,6,Non-New York City
+Nassau,Lake Success Vg PD,1990,,201,0,0,0,0,0,201,23,125,53,Non-New York City
+Nassau,Laurel Hollow Vg PD,1990,,36,1,0,0,0,1,35,19,11,5,Non-New York City
+Nassau,Long Beach City PD,1990,,1128,123,2,7,44,70,1005,183,623,199,Non-New York City
+Nassau,Lynbrook Vg PD,1990,,425,23,0,0,13,10,402,62,244,96,Non-New York City
+Nassau,Malverne Vg PD,1990,,113,3,0,0,1,2,110,19,85,6,Non-New York City
+Nassau,Mill Neck Vg PD,1990,,15,1,0,0,0,1,14,2,12,0,Non-New York City
+Nassau,Nassau County Park PD,1990,,162,9,0,0,4,5,153,1,142,10,Non-New York City
+Nassau,Nassau County PD,1990,,31958,1957,21,63,1014,859,30001,5207,17573,7221,Non-New York City
+Nassau,Nassau County (RR-LI),1990,,98,29,1,1,19,8,69,9,60,0,Non-New York City
+Nassau,Nassau County State Police,1990,,46,25,0,1,4,20,21,5,15,1,Non-New York City
+Nassau,Old Brookville Vg PD,1990,,264,5,1,0,0,4,259,55,167,37,Non-New York City
+Nassau,Old Westbury Vg PD,1990,,114,4,1,0,0,3,110,12,80,18,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,1990,,27,1,0,1,0,0,26,14,9,3,Non-New York City
+Nassau,Port Washington Police District,1990,,524,24,0,0,10,14,500,73,393,34,Non-New York City
+Nassau,Rockville Centre Vg PD,1990,,908,49,0,4,26,19,859,129,531,199,Non-New York City
+Nassau,Sands Point Vg PD,1990,,21,4,2,0,1,1,17,0,15,2,Non-New York City
+Nassau,SUNY College At Old Westbury,1990,,71,2,0,0,1,1,69,14,52,3,Non-New York City

@@ -1,0 +1,859 @@
+county,agency,year,months_reported,total_index_crimes,violent,murder,forcible_rape,robbery,aggravated_assault,property,burglary,larceny,motor_vehicle_theft,region
+Suffolk,Amityville Vg PD,2022,12,67,3,0,0,2,1,64,3,56,5,Non-New York City
+Suffolk,County Total,2022,,20785,1371,27,126,296,922,19414,1018,16925,1471,Non-New York City
+Suffolk,East Hampton Town PD,2022,12,107,4,0,0,0,4,103,2,96,5,Non-New York City
+Suffolk,East Hampton Vg PD,2022,12,34,1,0,0,0,1,33,1,30,2,Non-New York City
+Suffolk,Huntington Bay Vg PD,2022,12,8,0,0,0,0,0,8,0,5,3,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,2022,12,20,2,0,0,0,2,18,1,12,5,Non-New York City
+Suffolk,Nissequogue Vg PD,2022,12,2,0,0,0,0,0,2,1,1,0,Non-New York City
+Suffolk,Northport Vg PD,2022,12,61,1,0,0,0,1,60,1,59,0,Non-New York City
+Suffolk,Ocean Beach Vg PD,2022,12,28,0,0,0,0,0,28,0,28,0,Non-New York City
+Suffolk,Quogue Vg PD,2022,12,22,0,0,0,0,0,22,1,17,4,Non-New York City
+Suffolk,Riverhead Town PD,2022,12,786,42,0,3,18,21,744,48,683,13,Non-New York City
+Suffolk,Shelter Island Town PD,2022,12,20,1,0,1,0,0,19,3,16,0,Non-New York City
+Suffolk,Southampton Town PD,2022,12,587,28,0,4,5,19,559,31,478,50,Non-New York City
+Suffolk,Southampton Vg PD,2022,12,63,2,0,1,0,1,61,5,48,8,Non-New York City
+Suffolk,Southold Town PD,2022,12,336,13,0,1,0,12,323,25,284,14,Non-New York City
+Suffolk,Suffolk County MTA,2022,12,51,8,0,0,3,5,43,0,43,0,Non-New York City
+Suffolk,Suffolk County Park PD,2022,12,21,1,0,0,0,1,20,0,20,0,Non-New York City
+Suffolk,Suffolk County PD,2022,12,18290,1201,27,108,257,809,17089,880,14856,1353,Non-New York City
+Suffolk,Suffolk County Sheriff,2022,9,37,37,0,0,2,35,0,0,0,0,Non-New York City
+Suffolk,Suffolk County State Police,2022,12,43,20,0,8,5,7,23,2,19,2,Non-New York City
+Suffolk,SUNY Police - Farmingdale,2022,12,15,0,0,0,0,0,15,0,15,0,Non-New York City
+Suffolk,SUNY Police - Stony Brook,2022,12,143,3,0,0,2,1,140,9,128,3,Non-New York City
+Suffolk,Westhampton Beach Vg PD,2022,12,44,4,0,0,2,2,40,5,31,4,Non-New York City
+Suffolk,Amityville Vg PD,2021,12,41,1,0,1,0,0,40,6,31,3,Non-New York City
+Suffolk,Asharoken Vg PD,2021,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
+Suffolk,County Total,2021,,17114,1455,33,237,282,903,15659,843,13598,1218,Non-New York City
+Suffolk,East Hampton Town PD,2021,12,93,4,0,1,0,3,89,2,86,1,Non-New York City
+Suffolk,East Hampton Vg PD,2021,12,38,0,0,0,0,0,38,3,31,4,Non-New York City
+Suffolk,Huntington Bay Vg PD,2021,12,9,0,0,0,0,0,9,0,7,2,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,2021,12,9,1,0,0,0,1,8,1,6,1,Non-New York City
+Suffolk,Nissequogue Vg PD,2021,12,3,0,0,0,0,0,3,1,2,0,Non-New York City
+Suffolk,Ocean Beach Vg PD,2021,12,7,0,0,0,0,0,7,1,6,0,Non-New York City
+Suffolk,Quogue Vg PD,2021,12,15,0,0,0,0,0,15,3,9,3,Non-New York City
+Suffolk,Riverhead Town PD,2021,12,761,38,0,2,15,21,723,35,676,12,Non-New York City
+Suffolk,Sag Harbor Vg PD,2021,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
+Suffolk,Shelter Island Town PD,2021,12,27,1,0,1,0,0,26,1,24,1,Non-New York City
+Suffolk,Southampton Town PD,2021,12,495,50,0,8,5,37,445,23,374,48,Non-New York City
+Suffolk,Southampton Vg PD,2021,12,35,0,0,0,0,0,35,0,32,3,Non-New York City
+Suffolk,Southold Town PD,2021,12,220,21,0,7,3,11,199,16,175,8,Non-New York City
+Suffolk,Suffolk County MTA,2021,12,35,8,0,0,3,5,27,2,24,1,Non-New York City
+Suffolk,Suffolk County Park PD,2021,12,30,1,0,1,0,0,29,1,28,0,Non-New York City
+Suffolk,Suffolk County PD,2021,12,15131,1289,32,206,256,795,13842,741,11985,1116,Non-New York City
+Suffolk,Suffolk County Sheriff,2021,12,28,24,0,0,0,24,4,1,0,3,Non-New York City
+Suffolk,Suffolk County State Police,2021,12,38,12,1,9,0,2,26,0,21,5,Non-New York City
+Suffolk,SUNY Police - Farmingdale,2021,12,12,1,0,1,0,0,11,0,11,0,Non-New York City
+Suffolk,SUNY Police - Stony Brook,2021,12,63,1,0,0,0,1,62,3,58,1,Non-New York City
+Suffolk,Westhampton Beach Vg PD,2021,12,22,3,0,0,0,3,19,3,10,6,Non-New York City
+Suffolk,Amityville Vg PD,2020,12,66,5,2,0,2,1,61,5,49,7,Non-New York City
+Suffolk,Asharoken Vg PD,2020,11,1,0,0,0,0,0,1,0,0,1,Non-New York City
+Suffolk,County Total,2020,,18148,1321,33,171,316,801,16827,1127,14434,1266,Non-New York City
+Suffolk,East Hampton Town PD,2020,12,153,3,0,0,0,3,150,5,137,8,Non-New York City
+Suffolk,East Hampton Vg PD,2020,12,24,1,0,0,0,1,23,2,19,2,Non-New York City
+Suffolk,Huntington Bay Vg PD,2020,12,7,0,0,0,0,0,7,0,7,0,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,2020,12,14,2,0,0,0,2,12,2,7,3,Non-New York City
+Suffolk,Nissequogue Vg PD,2020,12,10,0,0,0,0,0,10,3,7,0,Non-New York City
+Suffolk,Northport Vg PD,2020,12,2,0,0,0,0,0,2,0,2,0,Non-New York City
+Suffolk,Ocean Beach Vg PD,2020,12,9,0,0,0,0,0,9,0,9,0,Non-New York City
+Suffolk,Quogue Vg PD,2020,12,32,1,0,0,0,1,31,4,25,2,Non-New York City
+Suffolk,Riverhead Town PD,2020,12,503,28,0,0,8,20,475,23,440,12,Non-New York City
+Suffolk,Shelter Island Town PD,2020,12,25,1,0,0,0,1,24,3,19,2,Non-New York City
+Suffolk,Southampton Town PD,2020,12,634,39,1,3,5,30,595,54,494,47,Non-New York City
+Suffolk,Southampton Vg PD,2020,12,45,0,0,0,0,0,45,1,42,2,Non-New York City
+Suffolk,Southold Town PD,2020,12,282,11,0,4,0,7,271,41,225,5,Non-New York City
+Suffolk,Suffolk County MTA,2020,12,42,13,0,0,6,7,29,0,29,0,Non-New York City
+Suffolk,Suffolk County Park PD,2020,12,49,3,0,1,2,0,46,0,45,1,Non-New York City
+Suffolk,Suffolk County PD,2020,12,16073,1166,30,147,291,698,14907,973,12769,1165,Non-New York City
+Suffolk,Suffolk County Sheriff,2020,12,18,18,0,0,0,18,0,0,0,0,Non-New York City
+Suffolk,Suffolk County State Police,2020,12,35,19,0,12,1,6,16,3,10,3,Non-New York City
+Suffolk,SUNY Police - Farmingdale,2020,12,8,0,0,0,0,0,8,0,8,0,Non-New York City
+Suffolk,SUNY Police - Stony Brook,2020,12,92,11,0,4,1,6,81,4,76,1,Non-New York City
+Suffolk,Westhampton Beach Vg PD,2020,12,24,0,0,0,0,0,24,4,15,5,Non-New York City
+Suffolk,Amityville Vg PD,2019,12,71,3,1,0,0,2,68,12,52,4,Non-New York City
+Suffolk,County Total,2019,,18194,1419,26,234,303,856,16775,1065,14874,836,Non-New York City
+Suffolk,East Hampton Town PD,2019,12,177,17,0,3,0,14,160,13,142,5,Non-New York City
+Suffolk,East Hampton Vg PD,2019,12,35,0,0,0,0,0,35,2,31,2,Non-New York City
+Suffolk,Huntington Bay Vg PD,2019,12,7,0,0,0,0,0,7,0,7,0,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,2019,12,10,3,0,0,0,3,7,0,6,1,Non-New York City
+Suffolk,Nissequogue Vg PD,2019,12,5,0,0,0,0,0,5,1,3,1,Non-New York City
+Suffolk,Northport Vg PD,2019,12,7,0,0,0,0,0,7,0,7,0,Non-New York City
+Suffolk,Ocean Beach Vg PD,2019,12,9,0,0,0,0,0,9,0,9,0,Non-New York City
+Suffolk,Quogue Vg PD,2019,12,30,1,0,0,0,1,29,0,28,1,Non-New York City
+Suffolk,Riverhead Town PD,2019,12,601,33,1,3,10,19,568,43,516,9,Non-New York City
+Suffolk,Shelter Island Town PD,2019,12,31,5,0,0,1,4,26,4,21,1,Non-New York City
+Suffolk,Southampton Town PD,2019,12,520,46,0,9,6,31,474,42,411,21,Non-New York City
+Suffolk,Southampton Vg PD,2019,12,50,1,0,0,0,1,49,6,39,4,Non-New York City
+Suffolk,Southold Town PD,2019,12,227,15,0,4,0,11,212,30,175,7,Non-New York City
+Suffolk,Suffolk County MTA,2019,12,52,8,0,0,4,4,44,4,40,0,Non-New York City
+Suffolk,Suffolk County Park PD,2019,12,13,0,0,0,0,0,13,0,13,0,Non-New York City
+Suffolk,Suffolk County PD,2019,12,16057,1229,24,205,281,719,14828,891,13161,776,Non-New York City
+Suffolk,Suffolk County Sheriff,2019,12,34,34,0,0,0,34,0,0,0,0,Non-New York City
+Suffolk,Suffolk County State Police,2019,12,31,15,0,8,0,7,16,0,14,2,Non-New York City
+Suffolk,SUNY Police - Farmingdale,2019,12,21,2,0,2,0,0,19,1,18,0,Non-New York City
+Suffolk,SUNY Police - Stony Brook,2019,12,180,7,0,0,1,6,173,12,160,1,Non-New York City
+Suffolk,Westhampton Beach Vg PD,2019,12,26,0,0,0,0,0,26,4,21,1,Non-New York City
+Suffolk,Amityville Vg PD,2018,12,107,8,0,0,2,6,99,6,84,9,Non-New York City
+Suffolk,Asharoken Vg PD,2018,12,2,0,0,0,0,0,2,1,1,0,Non-New York City
+Suffolk,County Total,2018,,18977,1512,21,208,424,859,17465,1220,15281,964,Non-New York City
+Suffolk,East Hampton Town PD,2018,12,189,11,0,2,1,8,178,17,160,1,Non-New York City
+Suffolk,East Hampton Vg PD,2018,12,36,1,0,0,0,1,35,2,31,2,Non-New York City
+Suffolk,Huntington Bay Vg PD,2018,12,2,0,0,0,0,0,2,0,2,0,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,2018,12,12,1,0,0,0,1,11,2,8,1,Non-New York City
+Suffolk,Nissequogue Vg PD,2018,12,8,0,0,0,0,0,8,1,6,1,Non-New York City
+Suffolk,Northport Vg PD,2018,12,25,0,0,0,0,0,25,3,22,0,Non-New York City
+Suffolk,Ocean Beach Vg PD,2018,12,11,0,0,0,0,0,11,0,11,0,Non-New York City
+Suffolk,Quogue Vg PD,2018,12,24,1,0,0,1,0,23,2,19,2,Non-New York City
+Suffolk,Riverhead Town PD,2018,12,675,50,0,3,25,22,625,72,536,17,Non-New York City
+Suffolk,Shelter Island Town PD,2018,12,29,2,0,1,1,0,27,4,22,1,Non-New York City
+Suffolk,Southampton Town PD,2018,12,577,52,0,11,8,33,525,66,430,29,Non-New York City
+Suffolk,Southampton Vg PD,2018,12,53,0,0,0,0,0,53,4,47,2,Non-New York City
+Suffolk,Southold Town PD,2018,12,242,17,0,3,4,10,225,44,174,7,Non-New York City
+Suffolk,Suffolk County MTA,2018,12,51,12,0,0,2,10,39,0,38,1,Non-New York City
+Suffolk,Suffolk County Park PD,2018,12,32,3,0,1,0,2,29,0,29,0,Non-New York City
+Suffolk,Suffolk County PD,2018,12,16503,1268,21,174,375,698,15235,955,13396,884,Non-New York City
+Suffolk,Suffolk County Sheriff,2018,12,55,55,0,0,0,55,0,0,0,0,Non-New York City
+Suffolk,Suffolk County State Police,2018,12,42,19,0,9,1,9,23,2,16,5,Non-New York City
+Suffolk,SUNY Police - Farmingdale,2018,12,30,2,0,1,0,1,28,2,25,1,Non-New York City
+Suffolk,SUNY Police - Stony Brook,2018,12,223,7,0,2,3,2,216,33,183,0,Non-New York City
+Suffolk,Westhampton Beach Vg PD,2018,12,49,3,0,1,1,1,46,4,41,1,Non-New York City
+Suffolk,Amityville Vg PD,2017,12,137,11,0,0,5,6,126,15,109,2,Non-New York City
+Suffolk,Asharoken Vg PD,2017,12,2,0,0,0,0,0,2,0,2,0,Non-New York City
+Suffolk,County Total,2017,,21462,1749,22,161,537,1029,19713,1679,16928,1106,Non-New York City
+Suffolk,East Hampton Town PD,2017,12,259,19,0,3,3,13,240,34,194,12,Non-New York City
+Suffolk,East Hampton Vg PD,2017,12,50,1,0,0,0,1,49,4,45,0,Non-New York City
+Suffolk,Huntington Bay Vg PD,2017,12,6,0,0,0,0,0,6,0,6,0,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,2017,12,11,2,0,0,0,2,9,0,9,0,Non-New York City
+Suffolk,Nissequogue Vg PD,2017,12,7,0,0,0,0,0,7,1,6,0,Non-New York City
+Suffolk,Northport Vg PD,2017,12,46,4,0,1,0,3,42,1,38,3,Non-New York City
+Suffolk,Ocean Beach Vg PD,2017,12,8,0,0,0,0,0,8,0,8,0,Non-New York City
+Suffolk,Quogue Vg PD,2017,12,25,0,0,0,0,0,25,1,22,2,Non-New York City
+Suffolk,Riverhead Town PD,2017,12,903,53,0,1,29,23,850,53,783,14,Non-New York City
+Suffolk,Shelter Island Town PD,2017,12,18,0,0,0,0,0,18,0,18,0,Non-New York City
+Suffolk,Southampton Town PD,2017,12,675,62,0,11,11,40,613,82,494,37,Non-New York City
+Suffolk,Southampton Vg PD,2017,12,86,2,0,1,0,1,84,5,69,10,Non-New York City
+Suffolk,Southold Town PD,2017,12,232,18,0,4,2,12,214,27,179,8,Non-New York City
+Suffolk,Suffolk County MTA,2017,12,55,7,0,0,5,2,48,1,47,0,Non-New York City
+Suffolk,Suffolk County Park PD,2017,12,33,1,0,0,1,0,32,0,31,1,Non-New York City
+Suffolk,Suffolk County PD,2017,12,18478,1482,22,119,473,868,16996,1423,14565,1008,Non-New York City
+Suffolk,Suffolk County Sheriff,2017,12,41,41,0,0,0,41,0,0,0,0,Non-New York City
+Suffolk,Suffolk County State Police,2017,12,66,33,0,16,4,13,33,2,29,2,Non-New York City
+Suffolk,SUNY Police - Farmingdale,2017,12,37,1,0,0,1,0,36,0,33,3,Non-New York City
+Suffolk,SUNY Police - Stony Brook,2017,12,249,12,0,5,3,4,237,24,211,2,Non-New York City
+Suffolk,Westhampton Beach Vg PD,2017,12,38,0,0,0,0,0,38,6,30,2,Non-New York City
+Suffolk,Amityville Vg PD,2016,12,129,17,0,2,6,9,112,13,96,3,Non-New York City
+Suffolk,Asharoken Vg PD,2016,12,4,0,0,0,0,0,4,0,4,0,Non-New York City
+Suffolk,County Total,2016,,23092,1896,33,151,612,1100,21196,2132,17891,1173,Non-New York City
+Suffolk,East Hampton Town PD,2016,12,296,12,0,0,0,12,284,42,237,5,Non-New York City
+Suffolk,East Hampton Vg PD,2016,12,48,0,0,0,0,0,48,4,42,2,Non-New York City
+Suffolk,Huntington Bay Vg PD,2016,12,7,0,0,0,0,0,7,0,7,0,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,2016,12,18,0,0,0,0,0,18,3,14,1,Non-New York City
+Suffolk,Nissequogue Vg PD,2016,12,11,0,0,0,0,0,11,1,9,1,Non-New York City
+Suffolk,Northport Vg PD,2016,12,63,6,0,0,0,6,57,7,47,3,Non-New York City
+Suffolk,Ocean Beach Vg PD,2016,12,20,0,0,0,0,0,20,0,18,2,Non-New York City
+Suffolk,Quogue Vg PD,2016,12,20,0,0,0,0,0,20,6,12,2,Non-New York City
+Suffolk,Riverhead Town PD,2016,12,880,76,0,1,38,37,804,77,717,10,Non-New York City
+Suffolk,Sag Harbor Vg PD,2016,12,2,0,0,0,0,0,2,0,2,0,Non-New York City
+Suffolk,Shelter Island Town PD,2016,12,28,1,0,0,0,1,27,3,24,0,Non-New York City
+Suffolk,Southampton Town PD,2016,12,757,57,0,14,9,34,700,138,514,48,Non-New York City
+Suffolk,Southampton Vg PD,2016,12,98,2,0,0,0,2,96,12,81,3,Non-New York City
+Suffolk,Southold Town PD,2016,12,261,17,0,2,4,11,244,48,191,5,Non-New York City
+Suffolk,Suffolk County MTA,2016,12,66,11,0,0,7,4,55,4,49,2,Non-New York City
+Suffolk,Suffolk County Park PD,2016,12,62,7,0,1,1,5,55,0,54,1,Non-New York City
+Suffolk,Suffolk County PD,2016,12,19831,1577,33,109,541,894,18254,1743,15432,1079,Non-New York City
+Suffolk,Suffolk County Sheriff,2016,12,63,63,0,0,0,63,0,0,0,0,Non-New York City
+Suffolk,Suffolk County State Police,2016,12,74,30,0,16,3,11,44,10,30,4,Non-New York City
+Suffolk,SUNY Police - Farmingdale,2016,12,44,1,0,1,0,0,43,1,41,1,Non-New York City
+Suffolk,SUNY Police - Stony Brook,2016,12,264,14,0,3,1,10,250,17,232,1,Non-New York City
+Suffolk,Westhampton Beach Vg PD,2016,12,46,5,0,2,2,1,41,3,38,0,Non-New York City
+Suffolk,Amityville Vg PD,2015,12,136,5,0,0,4,1,131,8,122,1,Non-New York City
+Suffolk,Asharoken Vg PD,2015,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
+Suffolk,County Total,2015,,24496,2010,25,167,732,1086,22486,2591,18650,1245,Non-New York City
+Suffolk,East Hampton Town PD,2015,12,312,9,0,2,0,7,303,51,246,6,Non-New York City
+Suffolk,East Hampton Vg PD,2015,12,52,0,0,0,0,0,52,5,46,1,Non-New York City
+Suffolk,Huntington Bay Vg PD,2015,12,6,0,0,0,0,0,6,0,6,0,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,2015,12,14,0,0,0,0,0,14,0,13,1,Non-New York City
+Suffolk,Nissequogue Vg PD,2015,12,10,0,0,0,0,0,10,0,9,1,Non-New York City
+Suffolk,Northport Vg PD,2015,12,60,4,0,0,1,3,56,6,49,1,Non-New York City
+Suffolk,Ocean Beach Vg PD,2015,12,16,0,0,0,0,0,16,1,15,0,Non-New York City
+Suffolk,Quogue Vg PD,2015,12,30,0,0,0,0,0,30,3,26,1,Non-New York City
+Suffolk,Riverhead Town PD,2015,12,947,75,0,1,33,41,872,116,742,14,Non-New York City
+Suffolk,Sag Harbor Vg PD,2015,12,52,1,0,0,1,0,51,2,49,0,Non-New York City
+Suffolk,Shelter Island Town PD,2015,12,28,1,0,0,0,1,27,4,23,0,Non-New York City
+Suffolk,Southampton Town PD,2015,12,807,58,0,10,7,41,749,151,574,24,Non-New York City
+Suffolk,Southampton Vg PD,2015,12,98,3,0,0,1,2,95,6,88,1,Non-New York City
+Suffolk,Southold Town PD,2015,12,338,20,0,1,2,17,318,84,228,6,Non-New York City
+Suffolk,Suffolk County MTA,2015,12,70,6,0,0,2,4,64,4,58,2,Non-New York City
+Suffolk,Suffolk County Park PD,2015,12,109,1,0,0,0,1,108,6,102,0,Non-New York City
+Suffolk,Suffolk County PD,2015,12,20933,1737,25,140,677,895,19196,2109,15906,1181,Non-New York City
+Suffolk,Suffolk County Sheriff,2015,12,59,59,0,0,0,59,0,0,0,0,Non-New York City
+Suffolk,Suffolk County State Police,2015,12,56,18,0,11,3,4,38,6,28,4,Non-New York City
+Suffolk,SUNY Police - Farmingdale,2015,12,33,2,0,1,0,1,31,2,29,0,Non-New York City
+Suffolk,SUNY Police - Stony Brook,2015,12,292,10,0,1,1,8,282,22,259,1,Non-New York City
+Suffolk,Westhampton Beach Vg PD,2015,12,37,1,0,0,0,1,36,5,31,0,Non-New York City
+Suffolk,Amityville Vg PD,2014,12,210,12,0,0,11,1,198,10,175,13,Non-New York City
+Suffolk,Asharoken Vg PD,2014,12,6,0,0,0,0,0,6,0,4,2,Non-New York City
+Suffolk,County Total,2014,,26121,1765,29,50,633,1053,24356,3338,19775,1243,Non-New York City
+Suffolk,East Hampton Town PD,2014,12,294,7,0,1,0,6,287,39,244,4,Non-New York City
+Suffolk,East Hampton Vg PD,2014,12,62,1,0,1,0,0,61,4,56,1,Non-New York City
+Suffolk,Huntington Bay Vg PD,2014,12,13,0,0,0,0,0,13,2,11,0,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,2014,12,14,0,0,0,0,0,14,0,13,1,Non-New York City
+Suffolk,Nissequogue Vg PD,2014,11,4,0,0,0,0,0,4,0,4,0,Non-New York City
+Suffolk,Northport Vg PD,2014,12,61,3,0,0,1,2,58,11,46,1,Non-New York City
+Suffolk,Ocean Beach Vg PD,2014,12,24,0,0,0,0,0,24,3,21,0,Non-New York City
+Suffolk,Quogue Vg PD,2014,12,29,0,0,0,0,0,29,3,26,0,Non-New York City
+Suffolk,Riverhead Town PD,2014,12,946,50,0,2,11,37,896,104,778,14,Non-New York City
+Suffolk,Sag Harbor Vg PD,2014,12,57,0,0,0,0,0,57,5,51,1,Non-New York City
+Suffolk,Shelter Island Town PD,2014,12,36,0,0,0,0,0,36,9,26,1,Non-New York City
+Suffolk,Southampton Town PD,2014,12,824,46,0,2,18,26,778,132,585,61,Non-New York City
+Suffolk,Southampton Vg PD,2014,12,86,2,0,0,0,2,84,6,77,1,Non-New York City
+Suffolk,Southold Town PD,2014,12,326,12,0,3,3,6,314,61,246,7,Non-New York City
+Suffolk,Suffolk County MTA,2014,12,82,21,0,0,16,5,61,0,61,0,Non-New York City
+Suffolk,Suffolk County Park PD,2014,12,59,3,0,1,0,2,56,6,49,1,Non-New York City
+Suffolk,Suffolk County Park Rangers,2014,6,4,1,0,0,0,1,3,0,3,0,Non-New York City
+Suffolk,Suffolk County PD,2014,12,22454,1500,29,35,567,869,20954,2904,16919,1131,Non-New York City
+Suffolk,Suffolk County Sheriff,2014,12,83,82,0,0,0,82,1,1,0,0,Non-New York City
+Suffolk,Suffolk County State Police,2014,12,51,15,0,5,3,7,36,3,32,1,Non-New York City
+Suffolk,SUNY Police - Farmingdale,2014,12,39,0,0,0,0,0,39,1,38,0,Non-New York City
+Suffolk,SUNY Police - Stony Brook,2014,12,322,8,0,0,3,5,314,26,287,1,Non-New York City
+Suffolk,Westhampton Beach Vg PD,2014,12,35,2,0,0,0,2,33,8,23,2,Non-New York City
+Suffolk,Amityville Vg PD,2013,12,219,9,0,2,4,3,210,16,188,6,Non-New York City
+Suffolk,Asharoken Vg PD,2013,12,2,0,0,0,0,0,2,0,2,0,Non-New York City
+Suffolk,County Total,2013,,26379,1934,27,53,694,1160,24445,3610,19656,1179,Non-New York City
+Suffolk,East Hampton Town PD,2013,12,328,20,0,2,1,17,308,59,241,8,Non-New York City
+Suffolk,East Hampton Vg PD,2013,12,66,0,0,0,0,0,66,4,60,2,Non-New York City
+Suffolk,Huntington Bay Vg PD,2013,12,13,1,0,0,0,1,12,0,11,1,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,2013,12,18,0,0,0,0,0,18,2,16,0,Non-New York City
+Suffolk,Nissequogue Vg PD,2013,12,8,0,0,0,0,0,8,1,6,1,Non-New York City
+Suffolk,Northport Vg PD,2013,12,65,6,0,0,1,5,59,11,44,4,Non-New York City
+Suffolk,Ocean Beach Vg PD,2013,12,13,0,0,0,0,0,13,3,9,1,Non-New York City
+Suffolk,Quogue Vg PD,2013,12,41,0,0,0,0,0,41,13,27,1,Non-New York City
+Suffolk,Riverhead Town PD,2013,12,986,64,0,3,26,35,922,160,729,33,Non-New York City
+Suffolk,Sag Harbor Vg PD,2013,12,74,3,0,0,1,2,71,17,53,1,Non-New York City
+Suffolk,Shelter Island Town PD,2013,12,44,3,0,0,0,3,41,2,39,0,Non-New York City
+Suffolk,Southampton Town PD,2013,12,1064,44,0,6,16,22,1020,219,752,49,Non-New York City
+Suffolk,Southampton Vg PD,2013,12,121,3,0,0,1,2,118,9,105,4,Non-New York City
+Suffolk,Southold Town PD,2013,12,362,16,0,1,8,7,346,70,272,4,Non-New York City
+Suffolk,Suffolk County MTA,2013,12,88,13,0,0,7,6,75,1,74,0,Non-New York City
+Suffolk,Suffolk County Park PD,2013,12,89,4,0,0,0,4,85,2,83,0,Non-New York City
+Suffolk,Suffolk County Park Rangers,2013,12,36,0,0,0,0,0,36,1,35,0,Non-New York City
+Suffolk,Suffolk County PD,2013,12,22192,1611,27,35,620,929,20581,2979,16551,1051,Non-New York City
+Suffolk,Suffolk County Sheriff,2013,12,114,109,0,0,0,109,5,0,2,3,Non-New York City
+Suffolk,Suffolk County State Police,2013,12,61,13,0,2,6,5,48,11,31,6,Non-New York City
+Suffolk,SUNY Police - Farmingdale,2013,12,29,0,0,0,0,0,29,0,29,0,Non-New York City
+Suffolk,SUNY Police - Stony Brook,2013,12,300,13,0,2,3,8,287,26,260,1,Non-New York City
+Suffolk,Westhampton Beach Vg PD,2013,12,46,2,0,0,0,2,44,4,37,3,Non-New York City
+Suffolk,Amityville Vg PD,2012,12,210,10,0,0,7,3,200,22,170,8,Non-New York City
+Suffolk,Asharoken Vg PD,2012,12,5,0,0,0,0,0,5,0,4,1,Non-New York City
+Suffolk,County Total,2012,,28885,2127,23,47,757,1300,26758,4361,21212,1185,Non-New York City
+Suffolk,East Hampton Town PD,2012,12,440,14,0,1,0,13,426,67,352,7,Non-New York City
+Suffolk,East Hampton Vg PD,2012,12,81,1,0,0,1,0,80,1,78,1,Non-New York City
+Suffolk,Huntington Bay Vg PD,2012,12,4,0,0,0,0,0,4,1,3,0,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,2012,12,16,0,0,0,0,0,16,4,12,0,Non-New York City
+Suffolk,Nissequogue Vg PD,2012,12,36,0,0,0,0,0,36,0,36,0,Non-New York City
+Suffolk,Northport Vg PD,2012,12,83,2,0,0,1,1,81,13,63,5,Non-New York City
+Suffolk,Ocean Beach Vg PD,2012,12,17,2,0,0,0,2,15,1,13,1,Non-New York City
+Suffolk,Quogue Vg PD,2012,12,26,0,0,0,0,0,26,10,15,1,Non-New York City
+Suffolk,Riverhead Town PD,2012,12,1056,76,0,4,30,42,980,122,835,23,Non-New York City
+Suffolk,Sag Harbor Vg PD,2012,12,47,0,0,0,0,0,47,7,38,2,Non-New York City
+Suffolk,Shelter Island Town PD,2012,12,53,0,0,0,0,0,53,17,36,0,Non-New York City
+Suffolk,Southampton Town PD,2012,12,1069,64,0,3,15,46,1005,219,724,62,Non-New York City
+Suffolk,Southampton Vg PD,2012,12,121,1,0,0,0,1,120,11,107,2,Non-New York City
+Suffolk,Southold Town PD,2012,12,493,21,0,1,5,15,472,95,366,11,Non-New York City
+Suffolk,Suffolk County MTA,2012,12,76,19,0,0,11,8,57,0,57,0,Non-New York City
+Suffolk,Suffolk County Park PD,2012,12,107,1,0,0,1,0,106,2,103,1,Non-New York City
+Suffolk,Suffolk County Park Rangers,2012,12,60,0,0,0,0,0,60,2,58,0,Non-New York City
+Suffolk,Suffolk County PD,2012,12,24216,1785,23,37,681,1044,22431,3699,17686,1046,Non-New York City
+Suffolk,Suffolk County Sheriff,2012,12,118,102,0,0,0,102,16,0,12,4,Non-New York City
+Suffolk,Suffolk County State Police,2012,12,60,9,0,0,2,7,51,5,42,4,Non-New York City
+Suffolk,SUNY Police - Farmingdale,2012,12,47,1,0,0,1,0,46,2,43,1,Non-New York City
+Suffolk,SUNY Police - Stony Brook,2012,12,386,17,0,1,2,14,369,49,316,4,Non-New York City
+Suffolk,Westhampton Beach Vg PD,2012,12,58,2,0,0,0,2,56,12,43,1,Non-New York City
+Suffolk,Amityville Vg PD,2011,12,177,8,0,0,6,2,169,19,145,5,Non-New York City
+Suffolk,Asharoken Vg PD,2011,12,2,0,0,0,0,0,2,0,2,0,Non-New York City
+Suffolk,County Total,2011,,31406,2217,32,63,818,1304,29189,5108,22807,1274,Non-New York City
+Suffolk,East Hampton Town PD,2011,12,360,22,0,2,2,18,338,56,274,8,Non-New York City
+Suffolk,East Hampton Vg PD,2011,12,83,1,0,0,1,0,82,7,73,2,Non-New York City
+Suffolk,Huntington Bay Vg PD,2011,12,9,0,0,0,0,0,9,3,6,0,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,2011,12,22,0,0,0,0,0,22,2,20,0,Non-New York City
+Suffolk,Nissequogue Vg PD,2011,12,10,0,0,0,0,0,10,4,6,0,Non-New York City
+Suffolk,Northport Vg PD,2011,12,83,3,0,0,2,1,80,12,66,2,Non-New York City
+Suffolk,Ocean Beach Vg PD,2011,12,28,1,0,0,0,1,27,0,26,1,Non-New York City
+Suffolk,Quogue Vg PD,2011,12,21,1,0,0,0,1,20,8,11,1,Non-New York City
+Suffolk,Riverhead Town PD,2011,12,1049,75,0,3,18,54,974,168,784,22,Non-New York City
+Suffolk,Sag Harbor Vg PD,2011,12,60,2,0,1,0,1,58,0,58,0,Non-New York City
+Suffolk,Shelter Island Town PD,2011,12,85,1,0,0,0,1,84,13,70,1,Non-New York City
+Suffolk,Southampton Town PD,2011,12,1056,88,0,8,22,58,968,231,710,27,Non-New York City
+Suffolk,Southampton Vg PD,2011,12,149,3,0,1,1,1,146,19,123,4,Non-New York City
+Suffolk,Southold Town PD,2011,12,467,20,0,2,2,16,447,108,333,6,Non-New York City
+Suffolk,Suffolk County MTA,2011,12,98,13,0,0,10,3,85,0,84,1,Non-New York City
+Suffolk,Suffolk County Park PD,2011,12,57,1,0,0,0,1,56,2,52,2,Non-New York City
+Suffolk,Suffolk County Park Rangers,2011,12,42,2,0,0,0,2,40,1,39,0,Non-New York City
+Suffolk,Suffolk County PD,2011,12,26797,1862,32,42,748,1040,24935,4342,19424,1169,Non-New York City
+Suffolk,Suffolk County Sheriff,2011,12,98,85,0,0,0,85,13,1,5,7,Non-New York City
+Suffolk,Suffolk County State Police,2011,12,75,12,0,2,2,8,63,9,48,6,Non-New York City
+Suffolk,SUNY Police - Farmingdale,2011,12,41,0,0,0,0,0,41,0,40,1,Non-New York City
+Suffolk,SUNY Police - Stony Brook,2011,12,495,15,0,2,4,9,480,100,371,9,Non-New York City
+Suffolk,Westhampton Beach Vg PD,2011,12,42,2,0,0,0,2,40,3,37,0,Non-New York City
+Suffolk,Amityville Vg PD,2010,12,163,10,0,0,4,6,153,16,130,7,Non-New York City
+Suffolk,Asharoken Vg PD,2010,12,1,0,0,0,0,0,1,1,0,0,Non-New York City
+Suffolk,County Total,2010,,32638,2377,52,68,877,1380,30261,4822,23841,1598,Non-New York City
+Suffolk,East Hampton Town PD,2010,12,503,9,0,0,2,7,494,97,385,12,Non-New York City
+Suffolk,East Hampton Vg PD,2010,12,140,3,0,1,0,2,137,10,123,4,Non-New York City
+Suffolk,Huntington Bay Vg PD,2010,12,14,0,0,0,0,0,14,2,12,0,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,2010,12,17,1,0,0,0,1,16,1,14,1,Non-New York City
+Suffolk,Nissequogue Vg PD,2010,12,9,0,0,0,0,0,9,1,8,0,Non-New York City
+Suffolk,Northport Vg PD,2010,12,76,1,0,0,0,1,75,18,57,0,Non-New York City
+Suffolk,Ocean Beach Vg PD,2010,12,56,0,0,0,0,0,56,1,55,0,Non-New York City
+Suffolk,Quogue Vg PD,2010,12,40,0,0,0,0,0,40,5,32,3,Non-New York City
+Suffolk,Riverhead Town PD,2010,12,1144,82,0,2,28,52,1062,155,879,28,Non-New York City
+Suffolk,Sag Harbor Vg PD,2010,12,33,1,0,0,0,1,32,5,27,0,Non-New York City
+Suffolk,Shelter Island Town PD,2010,12,51,0,0,0,0,0,51,10,38,3,Non-New York City
+Suffolk,Southampton Town PD,2010,12,1195,55,0,4,10,41,1140,248,837,55,Non-New York City
+Suffolk,Southampton Vg PD,2010,12,156,2,0,0,0,2,154,19,131,4,Non-New York City
+Suffolk,Southold Town PD,2010,12,403,17,0,0,3,14,386,68,311,7,Non-New York City
+Suffolk,Suffolk County MTA,2010,12,91,14,0,0,8,6,77,1,73,3,Non-New York City
+Suffolk,Suffolk County Park PD,2010,12,78,1,0,0,0,1,77,7,69,1,Non-New York City
+Suffolk,Suffolk County Park Rangers,2010,12,47,1,0,0,1,0,46,5,38,3,Non-New York City
+Suffolk,Suffolk County PD,2010,12,27546,2031,50,55,814,1112,25515,4031,20038,1446,Non-New York City
+Suffolk,Suffolk County Sheriff,2010,12,132,119,0,0,2,117,13,1,3,9,Non-New York City
+Suffolk,Suffolk County State Police,2010,12,90,11,2,4,0,5,79,6,69,4,Non-New York City
+Suffolk,SUNY Police - Stony Brook,2010,12,593,12,0,1,3,8,581,105,469,7,Non-New York City
+Suffolk,Westhampton Beach Vg PD,2010,12,60,7,0,1,2,4,53,9,43,1,Non-New York City
+Suffolk,Amityville Vg PD,2009,12,208,19,0,0,7,12,189,24,154,11,Non-New York City
+Suffolk,Asharoken Vg PD,2009,12,1,0,0,0,0,0,1,1,0,0,Non-New York City
+Suffolk,County Total,2009,,32603,2740,33,85,1059,1563,29863,4555,23647,1661,Non-New York City
+Suffolk,East Hampton Town PD,2009,12,440,28,0,1,2,25,412,75,327,10,Non-New York City
+Suffolk,East Hampton Vg PD,2009,12,116,9,0,0,1,8,107,11,94,2,Non-New York City
+Suffolk,Huntington Bay Vg PD,2009,12,5,0,0,0,0,0,5,2,2,1,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,2009,12,19,0,0,0,0,0,19,0,18,1,Non-New York City
+Suffolk,Nissequogue Vg PD,2009,12,7,0,0,0,0,0,7,0,7,0,Non-New York City
+Suffolk,Northport Vg PD,2009,12,70,4,0,1,3,0,66,7,57,2,Non-New York City
+Suffolk,Ocean Beach Vg PD,2009,12,67,1,0,0,0,1,66,4,62,0,Non-New York City
+Suffolk,Quogue Vg PD,2009,12,32,0,0,0,0,0,32,6,23,3,Non-New York City
+Suffolk,Riverhead Town PD,2009,12,1112,101,1,7,44,49,1011,157,825,29,Non-New York City
+Suffolk,Sag Harbor Vg PD,2009,12,60,7,0,0,0,7,53,7,45,1,Non-New York City
+Suffolk,Shelter Island Town PD,2009,12,51,0,0,0,0,0,51,17,34,0,Non-New York City
+Suffolk,Southampton Town PD,2009,12,1116,79,0,6,27,46,1037,244,732,61,Non-New York City
+Suffolk,Southampton Vg PD,2009,12,181,2,0,0,0,2,179,26,151,2,Non-New York City
+Suffolk,Southold Town PD,2009,12,422,20,0,0,3,17,402,75,318,9,Non-New York City
+Suffolk,Suffolk County MTA,2009,12,101,7,0,0,6,1,94,1,89,4,Non-New York City
+Suffolk,Suffolk County Park PD,2009,12,88,1,0,0,0,1,87,7,79,1,Non-New York City
+Suffolk,Suffolk County Park Police,2009,12,55,1,0,0,0,1,54,1,53,0,Non-New York City
+Suffolk,Suffolk County PD,2009,12,27466,2267,32,62,960,1213,25199,3740,19952,1507,Non-New York City
+Suffolk,Suffolk County Sheriff,2009,12,164,151,0,0,0,151,13,0,6,7,Non-New York City
+Suffolk,Suffolk County State Police,2009,12,104,25,0,5,4,16,79,7,72,0,Non-New York City
+Suffolk,SUNY Police - Farmingdale,2009,12,17,0,0,0,0,0,17,2,15,0,Non-New York City
+Suffolk,SUNY Police - Stony Brook,2009,12,653,15,0,3,2,10,638,138,493,7,Non-New York City
+Suffolk,Westhampton Beach Vg PD,2009,12,48,3,0,0,0,3,45,3,39,3,Non-New York City
+Suffolk,Amityville Vg PD,2008,12,199,6,0,0,4,2,193,21,163,9,Non-New York City
+Suffolk,Asharoken Vg PD,2008,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
+Suffolk,County Total,2008,,34015,2613,39,112,985,1477,31402,4777,24523,2102,Non-New York City
+Suffolk,East Hampton Town PD,2008,12,499,20,0,2,4,14,479,93,367,19,Non-New York City
+Suffolk,East Hampton Vg PD,2008,12,120,0,0,0,0,0,120,13,107,0,Non-New York City
+Suffolk,Huntington Bay Vg PD,2008,12,4,0,0,0,0,0,4,0,4,0,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,2008,12,10,0,0,0,0,0,10,2,8,0,Non-New York City
+Suffolk,Nissequogue Vg PD,2008,12,8,0,0,0,0,0,8,0,8,0,Non-New York City
+Suffolk,Northport Vg PD,2008,12,72,1,0,0,1,0,71,11,58,2,Non-New York City
+Suffolk,Ocean Beach Vg PD,2008,12,97,1,0,0,0,1,96,7,89,0,Non-New York City
+Suffolk,Quogue Vg PD,2008,12,42,2,0,0,0,2,40,8,30,2,Non-New York City
+Suffolk,Riverhead Town PD,2008,12,1196,111,0,4,36,71,1085,192,864,29,Non-New York City
+Suffolk,Sag Harbor Vg PD,2008,12,65,6,0,0,0,6,59,8,48,3,Non-New York City
+Suffolk,Shelter Island Town PD,2008,12,63,0,0,0,0,0,63,14,48,1,Non-New York City
+Suffolk,Southampton Town PD,2008,12,1287,87,0,10,25,52,1200,273,852,75,Non-New York City
+Suffolk,Southampton Vg PD,2008,12,189,3,1,0,1,1,186,22,164,0,Non-New York City
+Suffolk,Southold Town PD,2008,12,489,26,0,0,4,22,463,105,350,8,Non-New York City
+Suffolk,Suffolk County MTA,2008,12,113,16,0,0,9,7,97,1,96,0,Non-New York City
+Suffolk,Suffolk County Park PD,2008,12,80,6,0,0,1,5,74,6,67,1,Non-New York City
+Suffolk,Suffolk County Park Police,2008,12,51,1,0,0,1,0,50,3,47,0,Non-New York City
+Suffolk,Suffolk County PD,2008,12,28400,2165,38,91,890,1146,26235,3805,20490,1940,Non-New York City
+Suffolk,Suffolk County Sheriff,2008,12,126,122,0,0,2,120,4,0,4,0,Non-New York City
+Suffolk,Suffolk County State Police,2008,12,55,17,0,2,1,14,38,6,28,4,Non-New York City
+Suffolk,SUNY Police - Farmingdale,2008,11,41,0,0,0,0,0,41,2,39,0,Non-New York City
+Suffolk,SUNY Police - Stony Brook,2008,12,765,16,0,1,5,10,749,176,564,9,Non-New York City
+Suffolk,Westhampton Beach Vg PD,2008,12,43,7,0,2,1,4,36,9,27,0,Non-New York City
+Suffolk,Amityville Vg PD,2007,12,180,14,0,1,8,5,166,17,141,8,Non-New York City
+Suffolk,Asharoken Vg PD,2007,12,5,0,0,0,0,0,5,0,5,0,Non-New York City
+Suffolk,County Total,2007,,31374,2657,30,109,957,1561,28717,4066,22390,2261,Non-New York City
+Suffolk,East Hampton Town PD,2007,12,497,26,0,5,2,19,471,98,347,26,Non-New York City
+Suffolk,East Hampton Vg PD,2007,12,143,1,0,0,0,1,142,6,134,2,Non-New York City
+Suffolk,Huntington Bay Vg PD,2007,12,2,0,0,0,0,0,2,0,2,0,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,2007,12,23,1,0,0,0,1,22,2,20,0,Non-New York City
+Suffolk,Nissequogue Vg PD,2007,12,4,0,0,0,0,0,4,0,4,0,Non-New York City
+Suffolk,Northport Vg PD,2007,12,73,4,0,0,4,0,69,6,61,2,Non-New York City
+Suffolk,Ocean Beach Vg PD,2007,12,67,1,0,0,1,0,66,2,62,2,Non-New York City
+Suffolk,Quogue Vg PD,2007,12,33,2,0,0,0,2,31,12,18,1,Non-New York City
+Suffolk,Riverhead Town PD,2007,12,954,90,1,3,31,55,864,173,658,33,Non-New York City
+Suffolk,Sag Harbor Vg PD,2007,12,57,2,0,0,0,2,55,7,45,3,Non-New York City
+Suffolk,Shelter Island Town PD,2007,12,44,0,0,0,0,0,44,14,30,0,Non-New York City
+Suffolk,Southampton Town PD,2007,12,1055,86,1,12,24,49,969,210,700,59,Non-New York City
+Suffolk,Southampton Vg PD,2007,12,170,9,0,1,0,8,161,24,131,6,Non-New York City
+Suffolk,Southold Town PD,2007,12,399,16,0,0,1,15,383,76,302,5,Non-New York City
+Suffolk,Suffolk County MTA,2007,12,76,15,0,0,9,6,61,4,56,1,Non-New York City
+Suffolk,Suffolk County Park PD,2007,12,62,7,0,0,1,6,55,6,47,2,Non-New York City
+Suffolk,Suffolk County Park Police,2007,12,49,2,0,0,0,2,47,2,44,1,Non-New York City
+Suffolk,Suffolk County PD,2007,12,26541,2204,28,87,871,1218,24337,3365,18880,2092,Non-New York City
+Suffolk,Suffolk County Sheriff,2007,12,164,155,0,0,1,154,9,1,2,6,Non-New York City
+Suffolk,Suffolk County State Police,2007,12,44,11,0,0,3,8,33,8,20,5,Non-New York City
+Suffolk,SUNY College at Farmingdale,2007,12,38,0,0,0,0,0,38,0,37,1,Non-New York City
+Suffolk,SUNY - Stony Brook,2007,12,629,8,0,0,1,7,621,23,593,5,Non-New York City
+Suffolk,Westhampton Beach Vg PD,2007,12,65,3,0,0,0,3,62,10,51,1,Non-New York City
+Suffolk,Amityville Vg PD,2006,12,241,10,0,0,5,5,231,60,159,12,Non-New York City
+Suffolk,Asharoken Vg PD,2006,12,2,0,0,0,0,0,2,1,1,0,Non-New York City
+Suffolk,County Total,2006,,32596,3100,38,110,1142,1810,29496,4181,22831,2484,Non-New York City
+Suffolk,East Hampton Town PD,2006,12,420,30,0,4,3,23,390,99,275,16,Non-New York City
+Suffolk,East Hampton Vg PD,2006,12,149,1,0,0,0,1,148,16,131,1,Non-New York City
+Suffolk,Huntington Bay Vg PD,2006,12,4,0,0,0,0,0,4,0,4,0,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,2006,12,28,1,0,0,0,1,27,4,22,1,Non-New York City
+Suffolk,Nissequogue Vg PD,2006,12,16,0,0,0,0,0,16,0,16,0,Non-New York City
+Suffolk,Northport Vg PD,2006,12,72,2,0,0,1,1,70,8,60,2,Non-New York City
+Suffolk,Ocean Beach Vg PD,2006,12,164,3,0,0,0,3,161,12,149,0,Non-New York City
+Suffolk,Quogue Vg PD,2006,12,36,0,0,0,0,0,36,18,17,1,Non-New York City
+Suffolk,Riverhead Town PD,2006,12,1149,146,0,8,66,72,1003,166,815,22,Non-New York City
+Suffolk,Sag Harbor Vg PD,2006,12,52,8,0,1,1,6,44,13,26,5,Non-New York City
+Suffolk,Shelter Island Town PD,2006,12,58,0,0,0,0,0,58,11,47,0,Non-New York City
+Suffolk,Southampton Town PD,2006,12,1069,79,0,7,21,51,990,241,691,58,Non-New York City
+Suffolk,Southampton Vg PD,2006,12,148,6,0,0,1,5,142,11,127,4,Non-New York City
+Suffolk,Southold Town PD,2006,12,442,17,0,1,1,15,425,83,329,13,Non-New York City
+Suffolk,Suffolk County MTA,2006,12,60,8,1,0,7,0,52,1,49,2,Non-New York City
+Suffolk,Suffolk County Park PD,2006,12,48,5,0,0,1,4,43,5,36,2,Non-New York City
+Suffolk,Suffolk County Park Police,2006,12,71,4,0,0,1,3,67,10,57,0,Non-New York City
+Suffolk,Suffolk County PD,2006,12,27292,2481,37,86,1027,1331,24811,3373,19110,2328,Non-New York City
+Suffolk,Suffolk County Sheriff,2006,12,277,264,0,0,1,263,13,0,13,0,Non-New York City
+Suffolk,Suffolk County State Police,2006,12,60,26,0,0,6,20,34,9,23,2,Non-New York City
+Suffolk,SUNY College at Farmingdale,2006,12,43,0,0,0,0,0,43,2,38,3,Non-New York City
+Suffolk,SUNY - Stony Brook,2006,12,599,8,0,2,0,6,591,28,551,12,Non-New York City
+Suffolk,Westhampton Beach Vg PD,2006,12,96,1,0,1,0,0,95,10,85,0,Non-New York City
+Suffolk,Amityville Vg PD,2005,12,190,13,0,1,8,4,177,24,146,7,Non-New York City
+Suffolk,Asharoken Vg PD,2005,12,4,1,0,0,0,1,3,1,2,0,Non-New York City
+Suffolk,County Total,2005,,32092,3109,32,103,1159,1815,28983,4294,22311,2378,Non-New York City
+Suffolk,East Hampton Town PD,2005,12,498,21,0,0,0,21,477,117,341,19,Non-New York City
+Suffolk,East Hampton Vg PD,2005,12,145,7,0,0,1,6,138,12,119,7,Non-New York City
+Suffolk,Huntington Bay Vg PD,2005,12,6,0,0,0,0,0,6,1,5,0,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,2005,12,30,0,0,0,0,0,30,4,26,0,Non-New York City
+Suffolk,Nissequogue Vg PD,2005,12,3,0,0,0,0,0,3,1,2,0,Non-New York City
+Suffolk,Northport Vg PD,2005,12,56,5,0,0,2,3,51,9,37,5,Non-New York City
+Suffolk,Ocean Beach Vg PD,2005,12,83,3,0,0,0,3,80,18,62,0,Non-New York City
+Suffolk,Quogue Vg PD,2005,12,20,2,0,0,0,2,18,2,16,0,Non-New York City
+Suffolk,Riverhead Town PD,2005,12,1507,153,3,8,62,80,1354,187,1142,25,Non-New York City
+Suffolk,Shelter Island Town PD,2005,12,78,1,0,0,0,1,77,19,56,2,Non-New York City
+Suffolk,Southampton Town PD,2005,12,1250,90,1,6,24,59,1160,217,895,48,Non-New York City
+Suffolk,Southampton Vg PD,2005,3,29,2,0,0,2,0,27,5,22,0,Non-New York City
+Suffolk,Southold Town PD,2005,12,465,33,0,4,9,20,432,89,322,21,Non-New York City
+Suffolk,Suffolk County MTA,2005,12,62,11,0,0,8,3,51,1,50,0,Non-New York City
+Suffolk,Suffolk County Park PD,2005,12,67,5,0,0,0,5,62,4,56,2,Non-New York City
+Suffolk,Suffolk County Park Police,2005,12,46,2,0,0,0,2,44,3,40,1,Non-New York City
+Suffolk,Suffolk County PD,2005,12,26542,2446,28,82,1037,1299,24096,3509,18372,2215,Non-New York City
+Suffolk,Suffolk County Sheriff,2005,12,308,291,0,0,1,290,17,4,7,6,Non-New York City
+Suffolk,Suffolk County State Police,2005,12,35,10,0,2,2,6,25,9,12,4,Non-New York City
+Suffolk,SUNY College at Farmingdale,2005,12,65,0,0,0,0,0,65,0,59,6,Non-New York City
+Suffolk,SUNY - Stony Brook,2005,12,559,11,0,0,2,9,548,54,487,7,Non-New York City
+Suffolk,Westhampton Beach Vg PD,2005,12,44,2,0,0,1,1,42,4,35,3,Non-New York City
+Suffolk,Amityville Vg PD,2004,12,154,7,0,0,6,1,147,19,124,4,Non-New York City
+Suffolk,Asharoken Vg PD,2004,12,3,0,0,0,0,0,3,0,3,0,Non-New York City
+Suffolk,County Total,2004,,32016,2844,28,130,958,1728,29172,4316,22091,2765,Non-New York City
+Suffolk,East Hampton Town PD,2004,12,463,22,0,1,1,20,441,130,299,12,Non-New York City
+Suffolk,East Hampton Vg PD,2004,12,165,2,0,0,2,0,163,15,146,2,Non-New York City
+Suffolk,Head-of-the-Harbor Vg PD,2004,11,7,0,0,0,0,0,7,2,4,1,Non-New York City
+Suffolk,Huntington Bay Vg PD,2004,12,7,0,0,0,0,0,7,1,5,1,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,2004,11,12,0,0,0,0,0,12,3,9,0,Non-New York City
+Suffolk,Nissequogue Vg PD,2004,12,12,0,0,0,0,0,12,1,11,0,Non-New York City
+Suffolk,Northport Vg PD,2004,10,48,0,0,0,0,0,48,11,35,2,Non-New York City
+Suffolk,Ocean Beach Vg PD,2004,2,6,0,0,0,0,0,6,3,3,0,Non-New York City
+Suffolk,Quogue Vg PD,2004,12,18,2,0,0,0,2,16,1,13,2,Non-New York City
+Suffolk,Riverhead Town PD,2004,12,1276,113,0,9,57,47,1163,225,906,32,Non-New York City
+Suffolk,Sag Harbor Vg PD,2004,6,12,3,0,0,0,3,9,6,2,1,Non-New York City
+Suffolk,Shelter Island Town PD,2004,12,75,0,0,0,0,0,75,20,53,2,Non-New York City
+Suffolk,Southampton Town PD,2004,12,1242,80,0,5,23,52,1162,200,878,84,Non-New York City
+Suffolk,Southampton Vg PD,2004,12,122,9,0,1,3,5,113,10,93,10,Non-New York City
+Suffolk,Southold Town PD,2004,12,424,34,0,2,10,22,390,67,305,18,Non-New York City
+Suffolk,Suffolk County MTA,2004,12,57,13,0,0,9,4,44,0,43,1,Non-New York City
+Suffolk,Suffolk County Park PD,2004,12,99,7,0,0,0,7,92,6,81,5,Non-New York City
+Suffolk,Suffolk County Park Police,2004,12,68,1,0,0,0,1,67,6,61,0,Non-New York City
+Suffolk,Suffolk County PD,2004,12,26687,2268,28,109,845,1286,24419,3537,18323,2559,Non-New York City
+Suffolk,Suffolk County Sheriff,2004,12,279,258,0,0,0,258,21,9,9,3,Non-New York City
+Suffolk,Suffolk County State Police,2004,12,44,15,0,2,1,12,29,6,20,3,Non-New York City
+Suffolk,SUNY College at Farmingdale,2004,12,70,0,0,0,0,0,70,4,64,2,Non-New York City
+Suffolk,SUNY - Stony Brook,2004,12,625,5,0,0,0,5,620,29,575,16,Non-New York City
+Suffolk,Westhampton Beach Vg PD,2004,12,41,5,0,1,1,3,36,5,26,5,Non-New York City
+Suffolk,Amityville Vg PD,2003,12,168,10,1,1,3,5,158,20,137,1,Non-New York City
+Suffolk,County Total,2003,,35391,2975,29,142,1059,1745,32416,5139,24225,3052,Non-New York City
+Suffolk,East Hampton Town PD,2003,12,447,8,0,1,1,6,439,94,326,19,Non-New York City
+Suffolk,East Hampton Vg PD,2003,12,256,12,0,2,4,6,244,27,209,8,Non-New York City
+Suffolk,Head-of-the-Harbor Vg PD,2003,12,14,1,0,0,0,1,13,2,11,0,Non-New York City
+Suffolk,Huntington Bay Vg PD,2003,12,7,0,0,0,0,0,7,1,6,0,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,2003,12,12,0,0,0,0,0,12,4,8,0,Non-New York City
+Suffolk,Nissequogue Vg PD,2003,12,14,0,0,0,0,0,14,1,13,0,Non-New York City
+Suffolk,Northport Vg PD,2003,12,52,3,0,1,0,2,49,11,34,4,Non-New York City
+Suffolk,Ocean Beach Vg PD,2003,12,44,3,0,0,0,3,41,8,33,0,Non-New York City
+Suffolk,Quogue Vg PD,2003,12,29,6,0,0,1,5,23,15,4,4,Non-New York City
+Suffolk,Riverhead Town PD,2003,12,1438,106,1,4,32,69,1332,295,1001,36,Non-New York City
+Suffolk,Sag Harbor Vg PD,2003,12,35,6,0,0,2,4,29,7,19,3,Non-New York City
+Suffolk,Shelter Island Town PD,2003,12,75,1,0,0,0,1,74,16,58,0,Non-New York City
+Suffolk,Southampton Town PD,2003,12,1530,86,1,11,24,50,1444,321,1033,90,Non-New York City
+Suffolk,Southampton Vg PD,2003,12,177,10,0,2,2,6,167,20,140,7,Non-New York City
+Suffolk,Southold Town PD,2003,12,476,34,0,1,14,19,442,106,323,13,Non-New York City
+Suffolk,Suffolk County MTA,2003,12,65,13,0,0,7,6,52,2,46,4,Non-New York City
+Suffolk,Suffolk County Park Police,2003,12,83,5,0,0,0,5,78,6,72,0,Non-New York City
+Suffolk,Suffolk County PD,2003,12,29278,2395,25,112,958,1300,26883,4091,19959,2833,Non-New York City
+Suffolk,Suffolk County Sheriff,2003,12,267,232,0,1,1,230,35,11,18,6,Non-New York City
+Suffolk,Suffolk County State Police,2003,12,71,22,1,4,2,15,49,17,28,4,Non-New York City
+Suffolk,SUNY College at Farmingdale,2003,12,64,1,0,0,1,0,63,6,55,2,Non-New York City
+Suffolk,SUNY - Stony Brook,2003,12,712,13,0,2,6,5,699,44,641,14,Non-New York City
+Suffolk,Westhampton Beach Vg PD,2003,12,77,8,0,0,1,7,69,14,51,4,Non-New York City
+Suffolk,Amityville Vg PD,2002,12,205,9,0,0,6,3,196,29,156,11,Non-New York City
+Suffolk,Asharoken Vg PD,2002,12,1,0,0,0,0,0,1,0,1,0,Non-New York City
+Suffolk,County Total,2002,,36707,3124,19,169,996,1940,33583,5211,25258,3114,Non-New York City
+Suffolk,East Hampton Town PD,2002,12,584,20,0,1,3,16,564,169,368,27,Non-New York City
+Suffolk,East Hampton Vg PD,2002,12,147,6,0,0,0,6,141,27,111,3,Non-New York City
+Suffolk,Head-of-the-Harbor Vg PD,2002,12,14,1,0,0,0,1,13,4,9,0,Non-New York City
+Suffolk,Huntington Bay Vg PD,2002,12,7,0,0,0,0,0,7,0,6,1,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,2002,12,18,0,0,0,0,0,18,2,16,0,Non-New York City
+Suffolk,Nissequogue Vg PD,2002,12,7,0,0,0,0,0,7,3,4,0,Non-New York City
+Suffolk,Northport Vg PD,2002,12,119,8,0,0,1,7,111,16,85,10,Non-New York City
+Suffolk,Ocean Beach Vg PD,2002,12,49,6,0,0,2,4,43,3,39,1,Non-New York City
+Suffolk,Quogue Vg PD,2002,12,13,1,0,0,0,1,12,4,8,0,Non-New York City
+Suffolk,Riverhead Town PD,2002,12,1603,113,1,11,25,76,1490,227,1237,26,Non-New York City
+Suffolk,Sag Harbor Vg PD,2002,12,58,6,0,0,0,6,52,11,36,5,Non-New York City
+Suffolk,Shelter Island Town PD,2002,12,79,2,0,0,0,2,77,12,65,0,Non-New York City
+Suffolk,Southampton Town PD,2002,12,1638,137,0,6,31,100,1501,280,1141,80,Non-New York City
+Suffolk,Southampton Vg PD,2002,12,214,16,0,3,0,13,198,37,147,14,Non-New York City
+Suffolk,Southold Town PD,2002,12,514,24,0,1,4,19,490,136,346,8,Non-New York City
+Suffolk,Suffolk County MTA,2002,12,80,13,0,0,12,1,67,4,58,5,Non-New York City
+Suffolk,Suffolk County Park Police,2002,12,99,4,0,0,0,4,95,6,88,1,Non-New York City
+Suffolk,Suffolk County PD,2002,12,30127,2497,18,143,907,1429,27630,4159,20587,2884,Non-New York City
+Suffolk,Suffolk County Sheriff,2002,12,270,224,0,1,1,222,46,18,22,6,Non-New York City
+Suffolk,Suffolk County State Police,2002,12,105,23,0,2,3,18,82,21,45,16,Non-New York City
+Suffolk,SUNY College At Farmingdale,2002,12,77,2,0,0,0,2,75,6,69,0,Non-New York City
+Suffolk,SUNY - Stony Brook,2002,12,600,6,0,1,1,4,594,19,566,9,Non-New York City
+Suffolk,Westhampton Beach Vg PD,2002,12,79,6,0,0,0,6,73,18,48,7,Non-New York City
+Suffolk,Amityville Vg PD,2001,,196,10,1,0,7,2,186,24,149,13,Non-New York City
+Suffolk,Asharoken Vg PD,2001,,2,0,0,0,0,0,2,1,1,0,Non-New York City
+Suffolk,County Total,2001,,37655,3326,34,162,1047,2083,34329,5271,25836,3222,Non-New York City
+Suffolk,East Hampton Town PD,2001,,599,16,0,2,4,10,583,179,389,15,Non-New York City
+Suffolk,East Hampton Vg PD,2001,,138,0,0,0,0,0,138,15,120,3,Non-New York City
+Suffolk,Head-of-the-Harbor Vg PD,2001,,15,2,1,0,0,1,13,3,10,0,Non-New York City
+Suffolk,Huntington Bay Vg PD,2001,,24,1,0,0,0,1,23,4,18,1,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,2001,,25,0,0,0,0,0,25,2,23,0,Non-New York City
+Suffolk,Nissequogue Vg PD,2001,,14,0,0,0,0,0,14,1,13,0,Non-New York City
+Suffolk,Northport Vg PD,2001,,80,5,0,0,0,5,75,10,58,7,Non-New York City
+Suffolk,Ocean Beach Vg PD,2001,,54,8,0,0,0,8,46,3,42,1,Non-New York City
+Suffolk,Quogue Vg PD,2001,,36,5,0,0,0,5,31,17,14,0,Non-New York City
+Suffolk,Riverhead Town PD,2001,,1586,110,2,8,20,80,1476,290,1150,36,Non-New York City
+Suffolk,Sag Harbor Vg PD,2001,,29,2,0,0,0,2,27,8,19,0,Non-New York City
+Suffolk,Shelter Island Town PD,2001,,73,3,0,0,0,3,70,12,58,0,Non-New York City
+Suffolk,Southampton Town PD,2001,,1606,159,2,8,44,105,1447,301,1035,111,Non-New York City
+Suffolk,Southampton Vg PD,2001,,194,17,0,0,2,15,177,28,131,18,Non-New York City
+Suffolk,Suffolk County MTA,2001,,19,1,0,0,0,1,18,1,17,0,Non-New York City
+Suffolk,Suffolk County Park PD,2001,,91,7,0,0,1,6,84,7,71,6,Non-New York City
+Suffolk,Suffolk County Park Police,2001,,105,7,0,0,0,7,98,6,92,0,Non-New York City
+Suffolk,Suffolk County PD,2001,,31621,2741,28,140,960,1613,28880,4284,21612,2984,Non-New York City
+Suffolk,Suffolk County Sheriff,2001,,238,200,0,2,2,196,38,7,25,6,Non-New York City
+Suffolk,Suffolk County State Police,2001,,87,20,0,0,5,15,67,23,36,8,Non-New York City
+Suffolk,SUNY College At Farmingdale,2001,,89,2,0,0,1,1,87,11,73,3,Non-New York City
+Suffolk,SUNY - Stony Brook,2001,,667,8,0,2,1,5,659,18,635,6,Non-New York City
+Suffolk,Westhampton Beach Vg PD,2001,,67,2,0,0,0,2,65,16,45,4,Non-New York City
+Suffolk,Amityville Vg PD,2000,,173,10,0,1,5,4,163,21,129,13,Non-New York City
+Suffolk,Asharoken Vg PD,2000,,2,0,0,0,0,0,2,0,2,0,Non-New York City
+Suffolk,County Total,2000,,36411,3049,28,118,982,1921,33362,4905,25500,2957,Non-New York City
+Suffolk,East Hampton Town PD,2000,,487,22,0,4,3,15,465,157,297,11,Non-New York City
+Suffolk,East Hampton Vg PD,2000,,112,0,0,0,0,0,112,14,95,3,Non-New York City
+Suffolk,Head-of-the-Harbor Vg PD,2000,,10,1,0,0,0,1,9,0,9,0,Non-New York City
+Suffolk,Huntington Bay Vg PD,2000,,17,2,0,0,0,2,15,2,12,1,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,2000,,37,0,0,0,0,0,37,3,34,0,Non-New York City
+Suffolk,Nissequogue Vg PD,2000,,4,0,0,0,0,0,4,0,4,0,Non-New York City
+Suffolk,Northport Vg PD,2000,,105,6,0,0,1,5,99,16,80,3,Non-New York City
+Suffolk,Quogue Vg PD,2000,,14,0,0,0,0,0,14,8,5,1,Non-New York City
+Suffolk,Riverhead Town PD,2000,,1908,121,1,2,27,91,1787,258,1486,43,Non-New York City
+Suffolk,Sag Harbor Vg PD,2000,,33,0,0,0,0,0,33,3,24,6,Non-New York City
+Suffolk,Shelter Island Town PD,2000,,62,0,0,0,0,0,62,14,47,1,Non-New York City
+Suffolk,Southampton Town PD,2000,,1607,171,0,6,21,144,1436,267,1099,70,Non-New York City
+Suffolk,Southampton Vg PD,2000,,178,24,0,1,2,21,154,18,127,9,Non-New York City
+Suffolk,Suffolk County MTA,2000,,114,19,0,0,13,6,95,11,82,2,Non-New York City
+Suffolk,Suffolk County Park PD,2000,,68,8,0,0,1,7,60,6,54,0,Non-New York City
+Suffolk,Suffolk County Park Police,2000,,62,6,0,0,0,6,56,3,52,1,Non-New York City
+Suffolk,Suffolk County PD,2000,,30246,2393,25,100,899,1369,27853,4036,21057,2760,Non-New York City
+Suffolk,Suffolk County Sheriff,2000,,250,219,0,0,3,216,31,5,19,7,Non-New York City
+Suffolk,Suffolk County State Police,2000,,85,25,2,1,2,20,60,18,31,11,Non-New York City
+Suffolk,SUNY College At Farmingdale,2000,,72,6,0,0,2,4,66,7,58,1,Non-New York City
+Suffolk,SUNY - Stony Brook,2000,,695,10,0,2,3,5,685,23,653,9,Non-New York City
+Suffolk,Westhampton Beach Vg PD,2000,,70,6,0,1,0,5,64,15,44,5,Non-New York City
+Suffolk,Amityville Vg PD,1999,,175,12,0,2,7,3,163,23,130,10,Non-New York City
+Suffolk,Asharoken Vg PD,1999,,5,0,0,0,0,0,5,0,5,0,Non-New York City
+Suffolk,County Total,1999,,37443,2430,23,135,888,1384,35013,5162,27044,2807,Non-New York City
+Suffolk,East Hampton Town PD,1999,,483,7,1,2,1,3,476,136,336,4,Non-New York City
+Suffolk,East Hampton Vg PD,1999,,118,1,0,0,1,0,117,17,100,0,Non-New York City
+Suffolk,Head-of-the-Harbor Vg PD,1999,,18,0,0,0,0,0,18,2,14,2,Non-New York City
+Suffolk,Huntington Bay Vg PD,1999,,11,1,0,0,0,1,10,2,8,0,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,1999,,23,0,0,0,0,0,23,3,19,1,Non-New York City
+Suffolk,Nissequogue Vg PD,1999,,4,0,0,0,0,0,4,1,3,0,Non-New York City
+Suffolk,Northport Vg PD,1999,,101,2,0,0,2,0,99,7,88,4,Non-New York City
+Suffolk,Ocean Beach Vg PD,1999,,36,2,0,0,0,2,34,5,29,0,Non-New York City
+Suffolk,Quogue Vg PD,1999,,24,3,0,0,0,3,21,7,12,2,Non-New York City
+Suffolk,Riverhead Town PD,1999,,1841,147,1,2,27,117,1694,304,1372,18,Non-New York City
+Suffolk,Sag Harbor Vg PD,1999,,62,5,0,0,0,5,57,10,45,2,Non-New York City
+Suffolk,Shelter Island Town PD,1999,,45,1,0,0,0,1,44,3,39,2,Non-New York City
+Suffolk,Southampton Town PD,1999,,1556,93,0,7,18,68,1463,334,1068,61,Non-New York City
+Suffolk,Southampton Vg PD,1999,,175,16,0,0,1,15,159,23,127,9,Non-New York City
+Suffolk,Southold Town PD,1999,,207,2,0,0,1,1,205,54,147,4,Non-New York City
+Suffolk,Suffolk County Park PD,1999,,84,3,0,0,2,1,81,4,72,5,Non-New York City
+Suffolk,Suffolk County Park Police,1999,,64,1,0,0,0,1,63,1,61,1,Non-New York City
+Suffolk,Suffolk County PD,1999,,31367,1953,21,120,821,991,29414,4140,22622,2652,Non-New York City
+Suffolk,Suffolk County Sheriff,1999,,182,148,0,0,2,146,34,6,18,10,Non-New York City
+Suffolk,Suffolk County State Police,1999,,62,15,0,0,0,15,47,21,22,4,Non-New York City
+Suffolk,SUNY College At Farmingdale,1999,,109,5,0,0,2,3,104,26,74,4,Non-New York City
+Suffolk,SUNY - Stony Brook,1999,,622,8,0,2,2,4,614,23,583,8,Non-New York City
+Suffolk,Westhampton Beach Vg PD,1999,,69,5,0,0,1,4,64,10,50,4,Non-New York City
+Suffolk,Amityville Vg PD,1998,,199,16,2,2,9,3,183,27,145,11,Non-New York City
+Suffolk,Asharoken Vg PD,1998,,3,0,0,0,0,0,3,1,2,0,Non-New York City
+Suffolk,County Total,1998,,41516,2730,34,159,927,1610,38786,5551,30481,2754,Non-New York City
+Suffolk,East Hampton Town PD,1998,,529,5,0,2,1,2,524,164,345,15,Non-New York City
+Suffolk,East Hampton Vg PD,1998,,142,1,0,0,1,0,141,21,115,5,Non-New York City
+Suffolk,Head-of-the-Harbor Vg PD,1998,,15,0,0,0,0,0,15,3,12,0,Non-New York City
+Suffolk,Huntington Bay Vg PD,1998,,7,0,0,0,0,0,7,3,3,1,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,1998,,28,1,0,0,0,1,27,2,25,0,Non-New York City
+Suffolk,Nissequogue Vg PD,1998,,4,0,0,0,0,0,4,2,2,0,Non-New York City
+Suffolk,Northport Vg PD,1998,,141,2,0,0,1,1,139,26,108,5,Non-New York City
+Suffolk,Ocean Beach Vg PD,1998,,55,1,0,0,0,1,54,4,49,1,Non-New York City
+Suffolk,Quogue Vg PD,1998,,22,3,0,0,0,3,19,14,3,2,Non-New York City
+Suffolk,Riverhead Town PD,1998,,1592,140,1,4,26,109,1452,237,1204,11,Non-New York City
+Suffolk,Sag Harbor Vg PD,1998,,66,4,0,0,0,4,62,10,46,6,Non-New York City
+Suffolk,Shelter Island Town PD,1998,,53,1,1,0,0,0,52,9,42,1,Non-New York City
+Suffolk,Southampton Town PD,1998,,1568,94,0,16,13,65,1474,317,1079,78,Non-New York City
+Suffolk,Southampton Vg PD,1998,,251,17,0,1,1,15,234,29,195,10,Non-New York City
+Suffolk,Southold Town PD,1998,,589,9,0,0,6,3,580,128,451,1,Non-New York City
+Suffolk,Suffolk County MTA,1998,,57,3,0,0,0,3,54,1,44,9,Non-New York City
+Suffolk,Suffolk County Park PD,1998,,98,16,0,0,3,13,82,4,74,4,Non-New York City
+Suffolk,Suffolk County Park Police,1998,,52,1,0,0,0,1,51,5,44,2,Non-New York City
+Suffolk,Suffolk County PD,1998,,35014,2249,30,131,853,1235,32765,4408,25789,2568,Non-New York City
+Suffolk,Suffolk County Sheriff,1998,,156,116,0,2,3,111,40,15,16,9,Non-New York City
+Suffolk,Suffolk County State Police,1998,,63,20,0,1,5,14,43,22,20,1,Non-New York City
+Suffolk,SUNY College At Farmingdale,1998,,153,2,0,0,0,2,151,32,118,1,Non-New York City
+Suffolk,SUNY - Stony Brook,1998,,573,16,0,0,5,11,557,54,496,7,Non-New York City
+Suffolk,Westhampton Beach Vg PD,1998,,86,13,0,0,0,13,73,13,54,6,Non-New York City
+Suffolk,Amityville Vg PD,1997,,263,15,0,1,8,6,248,46,194,8,Non-New York City
+Suffolk,Asharoken Vg PD,1997,,1,0,0,0,0,0,1,0,1,0,Non-New York City
+Suffolk,County Total,1997,,44265,2513,35,50,991,1437,41752,7710,30604,3438,Non-New York City
+Suffolk,East Hampton Town PD,1997,,461,9,0,3,0,6,452,145,300,7,Non-New York City
+Suffolk,East Hampton Vg PD,1997,,153,0,0,0,0,0,153,22,129,2,Non-New York City
+Suffolk,Head-of-the-Harbor Vg PD,1997,,11,0,0,0,0,0,11,2,9,0,Non-New York City
+Suffolk,Huntington Bay Vg PD,1997,,20,1,0,0,0,1,19,6,12,1,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,1997,,24,0,0,0,0,0,24,7,17,0,Non-New York City
+Suffolk,Nissequogue Vg PD,1997,,6,0,0,0,0,0,6,0,4,2,Non-New York City
+Suffolk,Northport Vg PD,1997,,108,2,0,0,2,0,106,16,85,5,Non-New York City
+Suffolk,Ocean Beach Vg PD,1997,,61,4,0,0,0,4,57,8,49,0,Non-New York City
+Suffolk,Quogue Vg PD,1997,,26,0,0,0,0,0,26,11,15,0,Non-New York City
+Suffolk,Riverhead Town PD,1997,,1679,150,2,1,28,119,1529,363,1127,39,Non-New York City
+Suffolk,Sag Harbor Vg PD,1997,,70,4,0,1,0,3,66,14,47,5,Non-New York City
+Suffolk,Shelter Island Town PD,1997,,39,3,0,0,0,3,36,8,27,1,Non-New York City
+Suffolk,Southampton Town PD,1997,,1686,97,0,8,17,72,1589,457,1065,67,Non-New York City
+Suffolk,Southampton Vg PD,1997,,242,19,0,0,3,16,223,24,183,16,Non-New York City
+Suffolk,Southold Town PD,1997,,604,25,0,0,5,20,579,155,414,10,Non-New York City
+Suffolk,Suffolk County Park PD,1997,,92,15,0,1,3,11,77,14,59,4,Non-New York City
+Suffolk,Suffolk County Park Police,1997,,59,0,0,0,0,0,59,5,54,0,Non-New York City
+Suffolk,Suffolk County PD,1997,,38002,2080,33,34,893,1120,35922,6211,26460,3251,Non-New York City
+Suffolk,Suffolk County (RR-LI),1997,,87,21,0,0,15,6,66,5,56,5,Non-New York City
+Suffolk,Suffolk County Sheriff,1997,,69,28,0,1,4,23,41,29,9,3,Non-New York City
+Suffolk,Suffolk County State Police,1997,,61,11,0,0,5,6,50,27,23,0,Non-New York City
+Suffolk,SUNY College At Farmingdale,1997,,94,7,0,0,2,5,87,16,70,1,Non-New York City
+Suffolk,SUNY - Stony Brook,1997,,218,9,0,0,4,5,209,83,124,2,Non-New York City
+Suffolk,Westhampton Beach Vg PD,1997,,129,13,0,0,2,11,116,36,71,9,Non-New York City
+Suffolk,Amityville Vg PD,1996,,418,20,0,0,13,7,398,22,345,31,Non-New York City
+Suffolk,Asharoken Vg PD,1996,,6,0,0,0,0,0,6,0,5,1,Non-New York City
+Suffolk,County Total,1996,,45231,2567,44,49,1072,1402,42664,7441,31400,3823,Non-New York City
+Suffolk,East Hampton Town PD,1996,,656,10,0,2,2,6,646,194,425,27,Non-New York City
+Suffolk,East Hampton Vg PD,1996,,168,0,0,0,0,0,168,20,147,1,Non-New York City
+Suffolk,Head-of-the-Harbor Vg PD,1996,,21,1,0,0,0,1,20,4,14,2,Non-New York City
+Suffolk,Huntington Bay Vg PD,1996,,12,0,0,0,0,0,12,3,9,0,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,1996,,43,1,0,0,0,1,42,4,37,1,Non-New York City
+Suffolk,Nissequogue Vg PD,1996,,4,0,0,0,0,0,4,2,2,0,Non-New York City
+Suffolk,Northport Vg PD,1996,,107,4,0,0,3,1,103,18,77,8,Non-New York City
+Suffolk,Ocean Beach Vg PD,1996,,56,5,0,0,0,5,51,6,45,0,Non-New York City
+Suffolk,Quogue Vg PD,1996,,36,2,0,0,1,1,34,10,17,7,Non-New York City
+Suffolk,Riverhead Town PD,1996,,933,169,4,0,19,146,764,289,446,29,Non-New York City
+Suffolk,Sag Harbor Vg PD,1996,,87,3,0,0,0,3,84,9,67,8,Non-New York City
+Suffolk,Shelter Island Town PD,1996,,73,3,0,1,0,2,70,10,60,0,Non-New York City
+Suffolk,Southampton Town PD,1996,,1706,128,1,4,28,95,1578,447,1064,67,Non-New York City
+Suffolk,Southampton Vg PD,1996,,236,28,0,0,4,24,208,40,165,3,Non-New York City
+Suffolk,Southold Town PD,1996,,747,26,0,2,16,8,721,228,478,15,Non-New York City
+Suffolk,Suffolk County Park PD,1996,,82,4,0,0,1,3,78,5,73,0,Non-New York City
+Suffolk,Suffolk County Park Police,1996,,29,0,0,0,0,0,29,3,24,2,Non-New York City
+Suffolk,Suffolk County PD,1996,,38677,2068,39,38,946,1045,36609,5970,27042,3597,Non-New York City
+Suffolk,Suffolk County (RR-LI),1996,,99,25,0,0,19,6,74,7,66,1,Non-New York City
+Suffolk,Suffolk County Sheriff,1996,,25,15,0,0,6,9,10,7,3,0,Non-New York City
+Suffolk,Suffolk County State Police,1996,,48,15,0,0,2,13,33,13,16,4,Non-New York City
+Suffolk,SUNY College At Farmingdale,1996,,162,8,0,0,4,4,154,26,128,0,Non-New York City
+Suffolk,SUNY - Stony Brook,1996,,651,13,0,2,6,5,638,73,548,17,Non-New York City
+Suffolk,Westhampton Beach Vg PD,1996,,149,19,0,0,2,17,130,31,97,2,Non-New York City
+Suffolk,Amityville Vg PD,1995,,266,14,0,0,9,5,252,41,186,25,Non-New York City
+Suffolk,Asharoken Vg PD,1995,,7,0,0,0,0,0,7,2,5,0,Non-New York City
+Suffolk,County Total,1995,,47187,2758,34,52,1099,1573,44429,7757,32445,4227,Non-New York City
+Suffolk,East Hampton Town PD,1995,,554,23,0,2,4,17,531,199,315,17,Non-New York City
+Suffolk,East Hampton Vg PD,1995,,193,3,0,0,2,1,190,31,154,5,Non-New York City
+Suffolk,Head-of-the-Harbor Vg PD,1995,,12,0,0,0,0,0,12,2,9,1,Non-New York City
+Suffolk,Huntington Bay Vg PD,1995,,11,0,0,0,0,0,11,1,10,0,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,1995,,39,0,0,0,0,0,39,7,32,0,Non-New York City
+Suffolk,Nissequogue Vg PD,1995,,5,0,0,0,0,0,5,3,2,0,Non-New York City
+Suffolk,Northport Vg PD,1995,,159,2,0,1,0,1,157,14,132,11,Non-New York City
+Suffolk,Ocean Beach Vg PD,1995,,38,4,0,0,0,4,34,7,26,1,Non-New York City
+Suffolk,Quogue Vg PD,1995,,44,4,0,0,0,4,40,19,17,4,Non-New York City
+Suffolk,Riverhead Town PD,1995,,1099,186,3,2,34,147,913,311,560,42,Non-New York City
+Suffolk,Sag Harbor Vg PD,1995,,98,4,0,0,0,4,94,23,65,6,Non-New York City
+Suffolk,Shelter Island Town PD,1995,,71,2,0,0,0,2,69,7,62,0,Non-New York City
+Suffolk,Southampton Town PD,1995,,1609,86,1,11,26,48,1523,493,967,63,Non-New York City
+Suffolk,Southampton Vg PD,1995,,293,38,0,0,6,32,255,45,201,9,Non-New York City
+Suffolk,Southold Town PD,1995,,742,25,0,0,23,2,717,222,487,8,Non-New York City
+Suffolk,Suffolk County Park PD,1995,,114,9,0,0,5,4,105,8,95,2,Non-New York City
+Suffolk,Suffolk County Park Police,1995,,34,0,0,0,0,0,34,2,31,1,Non-New York City
+Suffolk,Suffolk County PD,1995,,40569,2269,30,33,957,1249,38300,6134,28174,3992,Non-New York City
+Suffolk,Suffolk County (RR-LI),1995,,79,16,0,0,8,8,63,2,61,0,Non-New York City
+Suffolk,Suffolk County Sheriff,1995,,62,27,0,0,7,20,35,27,8,0,Non-New York City
+Suffolk,Suffolk County State Police,1995,,56,17,0,1,6,10,39,21,11,7,Non-New York City
+Suffolk,SUNY College At Farmingdale,1995,,127,8,0,0,4,4,119,38,75,6,Non-New York City
+Suffolk,SUNY - Stony Brook,1995,,788,15,0,2,8,5,773,62,691,20,Non-New York City
+Suffolk,Westhampton Beach Vg PD,1995,,118,6,0,0,0,6,112,36,69,7,Non-New York City
+Suffolk,Amityville Vg PD,1994,,326,20,0,2,10,8,306,51,220,35,Non-New York City
+Suffolk,Asharoken Vg PD,1994,,3,0,0,0,0,0,3,0,3,0,Non-New York City
+Suffolk,County Total,1994,,51720,3154,46,58,1340,1710,48566,9996,32713,5857,Non-New York City
+Suffolk,East Hampton Town PD,1994,,543,8,0,1,1,6,535,190,330,15,Non-New York City
+Suffolk,East Hampton Vg PD,1994,,176,7,0,1,2,4,169,31,137,1,Non-New York City
+Suffolk,Greeport Vg PD,1994,,131,20,0,1,1,18,111,37,73,1,Non-New York City
+Suffolk,Head-of-the-Harbor Vg PD,1994,,21,1,0,0,0,1,20,6,14,0,Non-New York City
+Suffolk,Huntington Bay Vg PD,1994,,17,0,0,0,0,0,17,5,11,1,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,1994,,61,8,0,1,0,7,53,6,41,6,Non-New York City
+Suffolk,Nissequogue Vg PD,1994,,3,0,0,0,0,0,3,2,1,0,Non-New York City
+Suffolk,Northport Vg PD,1994,,169,0,0,0,0,0,169,21,124,24,Non-New York City
+Suffolk,Ocean Beach Vg PD,1994,,54,7,0,0,0,7,47,14,32,1,Non-New York City
+Suffolk,Quogue Vg PD,1994,,38,8,0,0,0,8,30,12,15,3,Non-New York City
+Suffolk,Riverhead Town PD,1994,,1048,242,7,0,33,202,806,290,470,46,Non-New York City
+Suffolk,Sag Harbor Vg PD,1994,,75,6,0,0,0,6,69,2,67,0,Non-New York City
+Suffolk,Saltaire Vg PD,1994,,11,0,0,0,0,0,11,3,8,0,Non-New York City
+Suffolk,Shelter Island Town PD,1994,,63,0,0,0,0,0,63,4,55,4,Non-New York City
+Suffolk,Southampton Town PD,1994,,1881,143,2,6,24,111,1738,534,1095,109,Non-New York City
+Suffolk,Southampton Vg PD,1994,,276,43,0,3,4,36,233,43,175,15,Non-New York City
+Suffolk,Southold Town PD,1994,,410,8,0,0,6,2,402,125,277,0,Non-New York City
+Suffolk,Suffolk County Park PD,1994,,108,15,0,0,7,8,93,6,81,6,Non-New York City
+Suffolk,Suffolk County Park Police,1994,,60,1,0,0,0,1,59,6,51,2,Non-New York City
+Suffolk,Suffolk County PD,1994,,45016,2523,37,40,1226,1220,42493,8419,28523,5551,Non-New York City
+Suffolk,Suffolk County (RR-LI),1994,,73,23,0,0,12,11,50,1,48,1,Non-New York City
+Suffolk,Suffolk County Sheriff,1994,,55,34,0,2,8,24,21,17,4,0,Non-New York City
+Suffolk,Suffolk County State Police,1994,,55,19,0,0,3,16,36,18,15,3,Non-New York City
+Suffolk,SUNY College At Farmingdale,1994,,162,2,0,0,0,2,160,41,114,5,Non-New York City
+Suffolk,SUNY - Stony Brook,1994,,728,4,0,1,2,1,724,57,650,17,Non-New York City
+Suffolk,Westhampton Beach Vg PD,1994,,157,12,0,0,1,11,145,55,79,11,Non-New York City
+Suffolk,Amityville Vg PD,1993,,410,39,1,1,26,11,371,65,258,48,Non-New York City
+Suffolk,Asharoken Vg PD,1993,,7,1,0,0,0,1,6,0,6,0,Non-New York City
+Suffolk,County Total,1993,,59241,3799,49,91,1825,1834,55442,12117,35099,8226,Non-New York City
+Suffolk,East Hampton Town PD,1993,,533,11,0,0,1,10,522,172,335,15,Non-New York City
+Suffolk,East Hampton Vg PD,1993,,201,3,0,0,0,3,198,39,156,3,Non-New York City
+Suffolk,Greeport Vg PD,1993,,163,18,0,0,3,15,145,37,108,0,Non-New York City
+Suffolk,Head-of-the-Harbor Vg PD,1993,,19,0,0,0,0,0,19,4,13,2,Non-New York City
+Suffolk,Huntington Bay Vg PD,1993,,20,0,0,0,0,0,20,1,19,0,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,1993,,50,0,0,0,0,0,50,6,39,5,Non-New York City
+Suffolk,Nissequogue Vg PD,1993,,13,2,0,0,0,2,11,3,8,0,Non-New York City
+Suffolk,Northport Vg PD,1993,,181,8,0,1,3,4,173,25,132,16,Non-New York City
+Suffolk,Ocean Beach Vg PD,1993,,37,4,0,0,0,4,33,5,27,1,Non-New York City
+Suffolk,Quogue Vg PD,1993,,47,4,0,0,1,3,43,19,23,1,Non-New York City
+Suffolk,Riverhead Town PD,1993,,1070,211,0,5,29,177,859,326,511,22,Non-New York City
+Suffolk,Sag Harbor Vg PD,1993,,81,2,0,0,0,2,79,12,65,2,Non-New York City
+Suffolk,Saltaire Vg PD,1993,,12,0,0,0,0,0,12,9,3,0,Non-New York City
+Suffolk,Shelter Island Town PD,1993,,55,1,0,0,0,1,54,6,47,1,Non-New York City
+Suffolk,Southampton Town PD,1993,,2058,205,2,10,26,167,1853,545,1244,64,Non-New York City
+Suffolk,Southampton Vg PD,1993,,265,49,0,2,5,42,216,58,154,4,Non-New York City
+Suffolk,Southold Town PD,1993,,387,1,0,0,1,0,386,97,289,0,Non-New York City
+Suffolk,Suffolk County Park PD,1993,,124,14,0,0,4,10,110,7,97,6,Non-New York City
+Suffolk,Suffolk County Park Police,1993,,71,1,0,0,0,1,70,7,63,0,Non-New York City
+Suffolk,Suffolk County PD,1993,,52008,3141,44,66,1699,1332,48867,10476,30411,7980,Non-New York City
+Suffolk,Suffolk County (RR-LI),1993,,58,12,1,0,9,2,46,1,45,0,Non-New York City
+Suffolk,Suffolk County Sheriff,1993,,36,11,0,2,4,5,25,22,2,1,Non-New York City
+Suffolk,Suffolk County State Police,1993,,87,30,0,1,8,21,57,18,30,9,Non-New York City
+Suffolk,SUNY College At Farmingdale,1993,,203,8,1,1,2,4,195,40,148,7,Non-New York City
+Suffolk,SUNY - Stony Brook,1993,,869,7,0,1,2,4,862,72,770,20,Non-New York City
+Suffolk,Westhampton Beach Vg PD,1993,,176,16,0,1,2,13,160,45,96,19,Non-New York City
+Suffolk,Amityville Vg PD,1992,,431,19,0,1,14,4,412,84,278,50,Non-New York City
+Suffolk,Asharoken Vg PD,1992,,13,0,0,0,0,0,13,0,12,1,Non-New York City
+Suffolk,County Total,1992,,64042,4218,52,110,1885,2171,59824,13401,37000,9423,Non-New York City
+Suffolk,East Hampton Town PD,1992,,632,19,1,6,1,11,613,214,380,19,Non-New York City
+Suffolk,East Hampton Vg PD,1992,,193,11,0,0,0,11,182,24,151,7,Non-New York City
+Suffolk,Greeport Vg PD,1992,,138,24,0,1,7,16,114,23,88,3,Non-New York City
+Suffolk,Head-of-the-Harbor Vg PD,1992,,24,0,0,0,0,0,24,3,18,3,Non-New York City
+Suffolk,Huntington Bay Vg PD,1992,,26,0,0,0,0,0,26,1,25,0,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,1992,,43,1,0,0,1,0,42,3,36,3,Non-New York City
+Suffolk,Nissequogue Vg PD,1992,,4,0,0,0,0,0,4,1,2,1,Non-New York City
+Suffolk,Northport Vg PD,1992,,169,9,0,2,5,2,160,18,124,18,Non-New York City
+Suffolk,Ocean Beach Vg PD,1992,,22,2,0,0,0,2,20,4,15,1,Non-New York City
+Suffolk,Quogue Vg PD,1992,,53,2,0,1,0,1,51,29,21,1,Non-New York City
+Suffolk,Riverhead Town PD,1992,,1113,237,2,9,32,194,876,359,486,31,Non-New York City
+Suffolk,Sag Harbor Vg PD,1992,,79,2,0,0,0,2,77,11,64,2,Non-New York City
+Suffolk,Saltaire Vg PD,1992,,17,0,0,0,0,0,17,4,13,0,Non-New York City
+Suffolk,Shelter Island Town PD,1992,,48,0,0,0,0,0,48,7,40,1,Non-New York City
+Suffolk,Southampton Town PD,1992,,2029,237,1,10,16,210,1792,495,1202,95,Non-New York City
+Suffolk,Southampton Vg PD,1992,,292,36,0,2,5,29,256,53,187,16,Non-New York City
+Suffolk,Southold Town PD,1992,,417,1,0,0,1,0,416,120,292,4,Non-New York City
+Suffolk,Suffolk County Park PD,1992,,134,14,0,0,3,11,120,18,97,5,Non-New York City
+Suffolk,Suffolk County Park Police,1992,,140,1,0,0,0,1,139,13,125,1,Non-New York City
+Suffolk,Suffolk County PD,1992,,56465,3471,48,75,1773,1575,52994,11592,32286,9116,Non-New York City
+Suffolk,Suffolk County (RR-LI),1992,,70,18,0,0,16,2,52,3,48,1,Non-New York City
+Suffolk,Suffolk County Sheriff,1992,,57,39,0,0,2,37,18,6,9,3,Non-New York City
+Suffolk,Suffolk County State Police,1992,,84,27,0,1,1,25,57,23,28,6,Non-New York City
+Suffolk,SUNY College At Farmingdale,1992,,166,6,0,0,4,2,160,36,117,7,Non-New York City
+Suffolk,SUNY - Stony Brook,1992,,1031,12,0,2,3,7,1019,215,787,17,Non-New York City
+Suffolk,Westhampton Beach Vg PD,1992,,152,30,0,0,1,29,122,42,69,11,Non-New York City
+Suffolk,Amityville Vg PD,1991,,369,37,0,0,29,8,332,52,241,39,Non-New York City
+Suffolk,Asharoken Vg PD,1991,,17,0,0,0,0,0,17,1,16,0,Non-New York City
+Suffolk,County Total,1991,,67697,3989,42,135,1835,1977,63708,14322,40040,9346,Non-New York City
+Suffolk,East Hampton Town PD,1991,,685,11,0,2,1,8,674,246,401,27,Non-New York City
+Suffolk,East Hampton Vg PD,1991,,186,8,0,0,1,7,178,35,133,10,Non-New York City
+Suffolk,Greeport Vg PD,1991,,167,22,0,1,2,19,145,30,112,3,Non-New York City
+Suffolk,Head-of-the-Harbor Vg PD,1991,,38,5,0,0,0,5,33,18,15,0,Non-New York City
+Suffolk,Huntington Bay Vg PD,1991,,24,1,0,0,0,1,23,6,17,0,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,1991,,16,0,0,0,0,0,16,1,15,0,Non-New York City
+Suffolk,Nissequogue Vg PD,1991,,4,0,0,0,0,0,4,2,1,1,Non-New York City
+Suffolk,Northport Vg PD,1991,,214,11,0,1,1,9,203,47,145,11,Non-New York City
+Suffolk,Ocean Beach Vg PD,1991,,56,4,0,1,0,3,52,30,22,0,Non-New York City
+Suffolk,Quogue Vg PD,1991,,55,0,0,0,0,0,55,26,26,3,Non-New York City
+Suffolk,Riverhead Town PD,1991,,1241,211,0,2,44,165,1030,429,586,15,Non-New York City
+Suffolk,Sag Harbor Vg PD,1991,,114,3,0,0,0,3,111,20,86,5,Non-New York City
+Suffolk,Saltaire Vg PD,1991,,62,0,0,0,0,0,62,28,33,1,Non-New York City
+Suffolk,Shelter Island Town PD,1991,,62,2,0,1,0,1,60,14,46,0,Non-New York City
+Suffolk,Southampton Town PD,1991,,2132,267,1,7,32,227,1865,491,1276,98,Non-New York City
+Suffolk,Southampton Vg PD,1991,,277,25,0,1,4,20,252,34,205,13,Non-New York City
+Suffolk,Southold Town PD,1991,,456,1,0,0,0,1,455,132,322,1,Non-New York City
+Suffolk,Suffolk County Park PD,1991,,125,18,0,0,3,15,107,13,87,7,Non-New York City
+Suffolk,Suffolk County Park Police,1991,,198,2,0,0,0,2,196,16,179,1,Non-New York City
+Suffolk,Suffolk County PD,1991,,59502,3236,41,110,1683,1402,56266,12199,35009,9058,Non-New York City
+Suffolk,Suffolk County (RR-LI),1991,,88,15,0,0,12,3,73,5,66,2,Non-New York City
+Suffolk,Suffolk County Sheriff,1991,,57,45,0,1,5,39,12,2,8,2,Non-New York City
+Suffolk,Suffolk County State Police,1991,,93,29,0,6,10,13,64,24,38,2,Non-New York City
+Suffolk,SUNY College At Farmingdale,1991,,155,11,0,1,4,6,144,50,86,8,Non-New York City
+Suffolk,SUNY - Stony Brook,1991,,1089,9,0,1,3,5,1080,338,713,29,Non-New York City
+Suffolk,Westhampton Beach Vg PD,1991,,215,16,0,0,1,15,199,33,156,10,Non-New York City
+Suffolk,Amityville Vg PD,1990,,350,42,0,4,19,19,308,43,198,67,Non-New York City
+Suffolk,Asharoken Vg PD,1990,,19,0,0,0,0,0,19,1,18,0,Non-New York City
+Suffolk,County Total,1990,,61300,3786,35,155,1536,2060,57514,12968,36506,8040,Non-New York City
+Suffolk,East Hampton Town PD,1990,,668,6,0,0,0,6,662,228,402,32,Non-New York City
+Suffolk,East Hampton Vg PD,1990,,131,5,0,0,1,4,126,18,99,9,Non-New York City
+Suffolk,Greeport Vg PD,1990,,123,11,0,0,2,9,112,15,92,5,Non-New York City
+Suffolk,Head-of-the-Harbor Vg PD,1990,,32,0,0,0,0,0,32,14,14,4,Non-New York City
+Suffolk,Huntington Bay Vg PD,1990,,27,0,0,0,0,0,27,4,21,2,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,1990,,29,1,0,0,0,1,28,2,25,1,Non-New York City
+Suffolk,Nissequogue Vg PD,1990,,9,1,0,0,1,0,8,8,0,0,Non-New York City
+Suffolk,Northport Vg PD,1990,,181,10,0,1,2,7,171,22,136,13,Non-New York City
+Suffolk,Ocean Beach Vg PD,1990,,42,10,0,0,0,10,32,18,13,1,Non-New York City
+Suffolk,Quogue Vg PD,1990,,97,2,0,0,0,2,95,40,43,12,Non-New York City
+Suffolk,Riverhead Town PD,1990,,1054,202,0,3,34,165,852,318,512,22,Non-New York City
+Suffolk,Sag Harbor Vg PD,1990,,107,3,0,0,1,2,104,25,78,1,Non-New York City
+Suffolk,Saltaire Vg PD,1990,,17,0,0,0,0,0,17,3,14,0,Non-New York City
+Suffolk,Shelter Island Town PD,1990,,70,3,0,0,0,3,67,18,49,0,Non-New York City
+Suffolk,Southampton Town PD,1990,,1841,230,1,8,18,203,1611,413,1145,53,Non-New York City
+Suffolk,Southampton Vg PD,1990,,309,17,0,0,4,13,292,72,207,13,Non-New York City
+Suffolk,Southold Town PD,1990,,554,8,0,0,2,6,546,165,378,3,Non-New York City
+Suffolk,Suffolk County Park PD,1990,,128,23,0,0,0,23,105,3,98,4,Non-New York City
+Suffolk,Suffolk County Park Police,1990,,163,12,0,0,2,10,151,29,119,3,Non-New York City
+Suffolk,Suffolk County PD,1990,,53749,3013,33,128,1419,1433,50736,11158,31816,7762,Non-New York City
+Suffolk,Suffolk County (RR-LI),1990,,146,18,0,0,13,5,128,11,117,0,Non-New York City
+Suffolk,Suffolk County Sheriff,1990,,140,111,0,2,7,102,29,14,10,5,Non-New York City
+Suffolk,Suffolk County State Police,1990,,93,25,0,5,3,17,68,24,41,3,Non-New York City
+Suffolk,SUNY College At Farmingdale,1990,,206,14,0,3,5,6,192,68,115,9,Non-New York City
+Suffolk,SUNY - Stony Brook,1990,,853,7,1,1,1,4,846,204,629,13,Non-New York City
+Suffolk,Westhampton Beach Vg PD,1990,,162,12,0,0,2,10,150,30,117,3,Non-New York City
